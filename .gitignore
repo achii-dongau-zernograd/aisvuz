@@ -1,0 +1,4 @@
+# netbeans projects folder
+nbproject/private
+# server properties
+includes/constants.php
