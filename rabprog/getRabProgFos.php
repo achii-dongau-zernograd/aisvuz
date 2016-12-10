@@ -6,102 +6,27 @@
  * Модуль вывода рабочих программ и фондов оценочных средств
  */
 
+include("../includes/header.php");
+echo '<br><br><br>';
+
 /*подключаем xml файл*/
 $xml1= simplexml_load_file($_GET['xmlfile']);
-/*функция перекодировки*/
-/*function utf_win($str, $type)
-{
-    static $co = '';
-    if (!is_array($co))
-    {
-        $co = array();
-        for ($x=128; $x <= 143; $x++)
-        {
-            $co['utf'][] = chr(209) . chr($x);
-            $co['win'][] = chr($x + 112);
-        }
-        for ($x=144; $x<= 191; $x++)
-        {
-            $co['utf'][] = chr(208) . chr($x);
-            $co['win'][] = chr($x + 48);
-        }
-        $co['utf'][] = chr(208) . chr(129);
-        $co['win'][] = chr(168);
-        $co['utf'][] = chr(209) . chr(145);
-        $co['win'][] = chr(184);
-    }
-    if ($type == 'w')
-    {
-        return str_replace($co['utf'], $co['win'], $str);
-    }
-    elseif ($type == 'u')
-    {
-        return str_replace($co['win'], $co['utf'], $str);
-    }
-    else
-    {
-        return $str;
-    }
-}*/
 
-// Присваиваем параметры переменным
-//$napravlenie=$_GET['napravlenie'];// Направление подготовки
-//$profil=$_GET['profil'];// Направление подготовки
-
-// Определяем направление подготовки
-switch($_GET['napravlenie'])
-{
-    case "350306":
-        $napravlenie="35.03.06 \"Агроинженерия\"";break;
+foreach ($xml1->common as $common)
+{    
+    $uroven                 = $common->uroven;
+    $napravlenie            = $common->napravlenie;
+    $profil                 = $common->profil;
+    $programma              = $common->programma;
+    $formaobucheniya        = $common->formaobucheniya;
+    $godnachalapodgotovki   = $common->godnachalapodgotovki;
 }
 
-// Определяем профиль подготовки
-switch($_GET['profil'])
-{
-    case ab:
-        $profil="Технические системы в агробизнесе";break;
-    case ae:
-        $profil="Электрооборудование и электротехнологии";break;
-    case at:
-        $profil="Технический сервис в АПК";break;
-}
-
-// Определяем программу подготовки
-switch($_GET['programma'])
-{
-    case akb:
-        $programma="Академический бакалавриат";break;
-    case prb:
-        $programma="Прикладной бакалавриат";break;
-    case akm:
-        $programma="Академическая магистратура";break;
-    case prm:
-        $programma="Прикладная магистратура";break;
-    default:
-        $programma="-";
-}
-
-// Определяем форму обучения
-switch($_GET['formaobucheniya'])
-{
-    case o:
-        $formaobucheniya="Очная";break;
-    case ou:
-        $formaobucheniya="Очная (ускоренное обучение на базе СПО)";break;
-    case zo:
-        $formaobucheniya="Заочная";break;
-    case zou:
-        $formaobucheniya="Заочная (ускоренное обучение на базе СПО)";break;
-    case oz:
-        $formaobucheniya="Очно-заочная";break;
-    default:
-        $programma="-";
-}
-
-$godnachalapodgotovki=$_GET['godnachalapodgotovki'];
 
 // Формируем заголовок и шапку таблицы
-echo '<table border="1"><caption>'
+echo '<div class="container-fluid">';
+echo '<table class="table table-bordered table-hover table-condensed"><caption>'
+. "Уровень образования: ".$uroven."<br>"
 . "Направление подготовки: ".$napravlenie."<br>"
 . "Профиль (направленность, специализация): ".$profil."<br>"
 . "Программа подготовки: ".$programma."<br>"
@@ -158,3 +83,6 @@ foreach ($xml1->gia as $gia)
 
 echo '</table>';
 
+echo '</div>';// end of class="container-fluid"
+
+//include("../includes/footer.php");
