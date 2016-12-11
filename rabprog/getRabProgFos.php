@@ -33,8 +33,8 @@ echo '<table class="table table-bordered table-hover table-condensed"><caption>'
 . "Форма обучения: ".$formaobucheniya."<br>"
 . "Год начала подготовки: ".$godnachalapodgotovki."<br>"
 . '</caption>';
-echo '<tr><th>№ пп</th><th>Код</th><th>Наименование</th><th>Рабочая программа</th><th>Фонд оценочных средств</th></tr>';
-echo '<tr><td colspan=5><p align=center><b>Учебные дисциплины</b></p></td></tr>';
+echo '<thead><tr><th>№ пп</th><th>Код</th><th>Наименование</th><th>Рабочая программа</th><th>Фонд оценочных средств</th></tr></thead><tbody>';
+echo '<tr class="active"><td colspan=5><p class="text-center"><b>Учебные дисциплины</b></p></td></tr>';
 
 $numrow=1;
 /*проходим циклом по xml документу*/
@@ -51,7 +51,7 @@ foreach ($xml1->discipline as $discipline)
     $numrow++;
 }
 
-echo '<tr><td colspan=5><p align=center><b>Практики</b></p></td></tr>';
+echo '<tr class="active"><td colspan=5><p class="text-center"><b>Практики</b></p></td></tr>';
 $numrow=1;
 foreach ($xml1->pract as $pract)
 {
@@ -66,7 +66,7 @@ foreach ($xml1->pract as $pract)
     $numrow++;
 }
 
-echo '<tr><td colspan=5><p align=center><b>Государственная итоговая аттестация</b></p></td></tr>';
+echo '<tr class="active"><td colspan=5><p class="text-center"><b>Государственная итоговая аттестация</b></p></td></tr>';
 $numrow=1;
 foreach ($xml1->gia as $gia)
 {
@@ -81,7 +81,7 @@ foreach ($xml1->gia as $gia)
     $numrow++;
 }
 
-echo '</table>';
+echo '</tbody></table>';
 
 echo '</div>';// end of class="container-fluid"
 
