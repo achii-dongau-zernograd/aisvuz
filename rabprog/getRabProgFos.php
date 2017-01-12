@@ -6,6 +6,7 @@
  * Модуль вывода рабочих программ и фондов оценочных средств
  */
 
+require_once("../includes/constants.php");
 include("../includes/header.php");
 echo '<br><br><br>';
 
@@ -37,6 +38,7 @@ echo '<thead><tr><th>№ пп</th><th>Код</th><th>Наименование</t
 echo '<tr class="active"><td colspan=5><p class="text-center"><b>Учебные дисциплины</b></p></td></tr>';
 
 $numrow=1;
+$pathtofiles=PATH_FILESERVER.basename($_GET['xmlfile'],".xml").'/';
 /*проходим циклом по xml документу*/
 foreach ($xml1->discipline as $discipline)
 {
@@ -46,8 +48,8 @@ foreach ($xml1->discipline as $discipline)
     . '<td>'.$numrow.'</td>'             // Номер строки (№ пп)
     . '<td>'.$discipline->id.'</td>'           // Код дисциплины, практики и пр.
     . '<td>'.$discipline->name.'</td>'         // Наименование дисциплины, практики и пр.
-    . '<td><a href="'.$discipline->rpfilename.'">Открыть</a></td>'  // Ссылка на файл рабочей программы
-    . '<td><a href="'.$discipline->fosfilename.'">Открыть</a></td></tr>';                  // Ссылка на файл фонда оценочных средств
+    . '<td><a href="'.$pathtofiles.$discipline->rpfilename.'">Открыть</a></td>'  // Ссылка на файл рабочей программы
+    . '<td><a href="'.$pathtofiles.$discipline->fosfilename.'">Открыть</a></td></tr>';                  // Ссылка на файл фонда оценочных средств
     $numrow++;
 }
 
@@ -61,8 +63,8 @@ foreach ($xml1->pract as $pract)
     . '<td>'.$numrow.'</td>'             // Номер строки (№ пп)
     . '<td>'.$pract->id.'</td>'           // Код дисциплины, практики и пр.
     . '<td>'.$pract->name.'</td>'         // Наименование дисциплины, практики и пр.
-    . '<td><a href="">Открыть</a></td>'  // Ссылка на файл рабочей программы
-    . '<td></td></tr>';                  // Ссылка на файл фонда оценочных средств
+    . '<td><a href="'.$pathtofiles.$pract->rpfilename.'">Открыть</a></td>'  // Ссылка на файл рабочей программы
+    . '<td><a href="'.$pathtofiles.$pract->fosfilename.'">Открыть</a></td></tr>';                  // Ссылка на файл фонда оценочных средств
     $numrow++;
 }
 
@@ -76,8 +78,8 @@ foreach ($xml1->gia as $gia)
     . '<td>'.$numrow.'</td>'             // Номер строки (№ пп)
     . '<td>'.$gia->id.'</td>'           // Код дисциплины, практики и пр.
     . '<td>'.$gia->name.'</td>'         // Наименование дисциплины, практики и пр.
-    . '<td><a href="">Открыть</a></td>'  // Ссылка на файл рабочей программы
-    . '<td></td></tr>';                  // Ссылка на файл фонда оценочных средств
+    . '<td><a href="'.$pathtofiles.$gia->rpfilename.'">Открыть</a></td>'  // Ссылка на файл рабочей программы
+    . '<td><a href="'.$pathtofiles.$gia->fosfilename.'">Открыть</a></td></tr>';                  // Ссылка на файл фонда оценочных средств
     $numrow++;
 }
 
