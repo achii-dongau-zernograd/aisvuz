@@ -332,12 +332,6 @@
     <rpfilename>efkrp.pdf</rpfilename>
     <fosfilename>efkfos.pdf</fosfilename>
   </discipline>
-  <discipline>
-    <id>Б1.Б.18</id>
-    <name>Информационные технологии</name>
-    <rpfilename>b1b18rp.pdf</rpfilename>
-    <fosfilename>b1b18fos.pdf</fosfilename>
-  </discipline>
   <pract>
     <id>Б2.У.1</id>
     <name>Практика по получению первичных профессиональных умений и навыков</name>
