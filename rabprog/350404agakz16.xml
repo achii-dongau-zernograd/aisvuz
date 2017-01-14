@@ -57,12 +57,6 @@
     <fosfilename>b1vОd1fos.pdf</fosfilename>
   </discipline>
   <discipline>
-    <id>Б1.В.ОД.10</id>
-    <name>Сортовая агротехника полевых культур</name>
-    <rpfilename>b1vОd10rp.pdf</rpfilename>
-    <fosfilename>b1vОd10fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
     <id>Б1.В.ОД.2</id>
     <name>Историко-философские аспекты научного знания</name>
     <rpfilename>b1vОd2rp.pdf</rpfilename>
@@ -109,6 +103,12 @@
     <name>Использование цитогенетики в селекции растений</name>
     <rpfilename>b1vОd9rp.pdf</rpfilename>
     <fosfilename>b1vОd9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.10</id>
+    <name>Сортовая агротехника полевых культур</name>
+    <rpfilename>b1vОd10rp.pdf</rpfilename>
+    <fosfilename>b1vОd10fos.pdf</fosfilename>
   </discipline>
   <discipline>
     <id>Б1.В.ДВ.1.1</id>
