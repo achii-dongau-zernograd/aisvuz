@@ -1,0 +1,371 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - бакалавриат</uroven>
+    <napravlenie>35.03.04 — Агрономия</napravlenie>
+    <profil>Селекция и генетика сельскохозяйственных культур</profil>
+    <programma>Академический бакалавриат</programma>
+    <formaobucheniya>Очная</formaobucheniya>
+    <godnachalapodgotovki>2016</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.1</id>
+    <name>Иностранный язык (английский)</name>
+    <rpfilename>b1b1Аrp.pdf</rpfilename>
+    <fosfilename>b1b1Аfos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.2</id>
+    <name>История</name>
+    <rpfilename>b1b2rp.pdf</rpfilename>
+    <fosfilename>b1b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.3</id>
+    <name>Философия</name>
+    <rpfilename>b1b3rp.pdf</rpfilename>
+    <fosfilename>b1b3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.4</id>
+    <name>Экономическая теория</name>
+    <rpfilename>b1b4rp.pdf</rpfilename>
+    <fosfilename>b1b4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.5</id>
+    <name>Менеджмент и маркетинг</name>
+    <rpfilename>b1b5rp.pdf</rpfilename>
+    <fosfilename>b1b5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.6</id>
+    <name>Безопасность жизнедеятельности</name>
+    <rpfilename>b1b6rp.pdf</rpfilename>
+    <fosfilename>b1b6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.7</id>
+    <name>Математика</name>
+    <rpfilename>b1b7rp.pdf</rpfilename>
+    <fosfilename>b1b7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.8</id>
+    <name>Информатика</name>
+    <rpfilename>b1b8rp.pdf</rpfilename>
+    <fosfilename>b1b8fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.9</id>
+    <name>Физика</name>
+    <rpfilename>b1b9rp.pdf</rpfilename>
+    <fosfilename>b1b9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.10</id>
+    <name>Химия органическая</name>
+    <rpfilename>b1b10rp.pdf</rpfilename>
+    <fosfilename>b1b10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.11</id>
+    <name>Физиология и биохимия растений</name>
+    <rpfilename>b1b11rp.pdf</rpfilename>
+    <fosfilename>b1b11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.12</id>
+    <name>Почвоведение с основами геологии</name>
+    <rpfilename>b1b12rp.pdf</rpfilename>
+    <fosfilename>b1b12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.13</id>
+    <name>Землеустройство</name>
+    <rpfilename>b1b13rp.pdf</rpfilename>
+    <fosfilename>b1b13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.14</id>
+    <name>Земледелие</name>
+    <rpfilename>b1b14rp.pdf</rpfilename>
+    <fosfilename>b1b14fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.15</id>
+    <name>Растениеводство</name>
+    <rpfilename>b1b15rp.pdf</rpfilename>
+    <fosfilename>b1b15fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.16</id>
+    <name>Механизация растениеводства</name>
+    <rpfilename>b1b16rp.pdf</rpfilename>
+    <fosfilename>b1b16fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.17</id>
+    <name>Физическая культура</name>
+    <rpfilename>b1b17rp.pdf</rpfilename>
+    <fosfilename>b1b17fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.18</id>
+    <name>Русский язык и культура речи</name>
+    <rpfilename>b1b18rp.pdf</rpfilename>
+    <fosfilename>b1b18fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.19</id>
+    <name>Организация производства и предпринимательство в агропромышленном комплексе</name>
+    <rpfilename>b1b19rp.pdf</rpfilename>
+    <fosfilename>b1b19fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.20</id>
+    <name>Основы научных исследований в агрономии</name>
+    <rpfilename>b1b20rp.pdf</rpfilename>
+    <fosfilename>b1b20fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.21</id>
+    <name>Ботаника</name>
+    <rpfilename>b1b21rp.pdf</rpfilename>
+    <fosfilename>b1b21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.22</id>
+    <name>Основы сельскохозяйственной биотехнологии и микробиология</name>
+    <rpfilename>b1b22rp.pdf</rpfilename>
+    <fosfilename>b1b22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.1</id>
+    <name>Агрохимия</name>
+    <rpfilename>b1vОd1rp.pdf</rpfilename>
+    <fosfilename>b1vОd1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.2</id>
+    <name>Генетика популяций и количественных признаков</name>
+    <rpfilename>b1vОd2rp.pdf</rpfilename>
+    <fosfilename>b1vОd2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3</id>
+    <name>Цитология</name>
+    <rpfilename>b1vОd3rp.pdf</rpfilename>
+    <fosfilename>b1vОd3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.4</id>
+    <name>Генетика</name>
+    <rpfilename>b1vОd4rp.pdf</rpfilename>
+    <fosfilename>b1vОd4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.5</id>
+    <name>Защита растений</name>
+    <rpfilename>b1vОd5rp.pdf</rpfilename>
+    <fosfilename>b1vОd5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.6</id>
+    <name>Общая селекция и сортоведение сельскохозяйственных культур</name>
+    <rpfilename>b1vОd6rp.pdf</rpfilename>
+    <fosfilename>b1vОd6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.7</id>
+    <name>Иммунитет растений и основы селекции на устойчивость к болезням и вредителям</name>
+    <rpfilename>b1vОd7rp.pdf</rpfilename>
+    <fosfilename>b1vОd7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.8</id>
+    <name>Семеноведение и семеноводство сельскохозяйственных культур</name>
+    <rpfilename>b1vОd8rp.pdf</rpfilename>
+    <fosfilename>b1vОd8fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.9</id>
+    <name>Частная селекция полевых культур</name>
+    <rpfilename>b1vОd9rp.pdf</rpfilename>
+    <fosfilename>b1vОd9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.10</id>
+    <name>Биометрические методы в селекции растений</name>
+    <rpfilename>b1vОd10rp.pdf</rpfilename>
+    <fosfilename>b1vОd10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.11</id>
+    <name>Экономика агропромышленного комплекса</name>
+    <rpfilename>b1vОd11rp.pdf</rpfilename>
+    <fosfilename>b1vОd11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.12</id>
+    <name>Химия неорганическая, физическая и коллоидная</name>
+    <rpfilename>b1vОd12rp.pdf</rpfilename>
+    <fosfilename>b1vОd12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.13</id>
+    <name>Правоведение</name>
+    <rpfilename>b1vОd13rp.pdf</rpfilename>
+    <fosfilename>b1vОd13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.1</id>
+    <name>Социология и политология</name>
+    <rpfilename>b1vdv11rp.pdf</rpfilename>
+    <fosfilename>b1vdv11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.2</id>
+    <name>Гражданское общество</name>
+    <rpfilename>b1vdv12rp.pdf</rpfilename>
+    <fosfilename>b1vdv12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.1</id>
+    <name>Психология и конфликтология</name>
+    <rpfilename>b1vdv21rp.pdf</rpfilename>
+    <fosfilename>b1vdv21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.2</id>
+    <name>Психология и педагогика</name>
+    <rpfilename>b1vdv22rp.pdf</rpfilename>
+    <fosfilename>b1vdv22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.1</id>
+    <name>Физиолого-биохимические основы устойчивости растений к неблагоприятным условиям</name>
+    <rpfilename>b1vdv31rp.pdf</rpfilename>
+    <fosfilename>b1vdv31fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.2</id>
+    <name>Физиологические основы селекции высокопродуктивных сортов и гибридов</name>
+    <rpfilename>b1vdv32rp.pdf</rpfilename>
+    <fosfilename>b1vdv32fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.1</id>
+    <name>Технология хранения, переработки и стандартизация продукции растениеводства</name>
+    <rpfilename>b1vdv41rp.pdf</rpfilename>
+    <fosfilename>b1vdv41fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.2</id>
+    <name>Производство кормовых и технических культур</name>
+    <rpfilename>b1vdv42rp.pdf</rpfilename>
+    <fosfilename>b1vdv42fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.1</id>
+    <name>Сельскохозяйственная экология</name>
+    <rpfilename>b1vdv51rp.pdf</rpfilename>
+    <fosfilename>b1vdv51fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.2</id>
+    <name>Экология агроландшафтов</name>
+    <rpfilename>b1vdv52rp.pdf</rpfilename>
+    <fosfilename>b1vdv52fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.6.1</id>
+    <name>Правовые основы селекции и семеноводства</name>
+    <rpfilename>b1vdv61rp.pdf</rpfilename>
+    <fosfilename>b1vdv61fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.6.2</id>
+    <name>Основы апробации сельскохозяйственных культур</name>
+    <rpfilename>b1vdv62rp.pdf</rpfilename>
+    <fosfilename>b1vdv62fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.7.1</id>
+    <name>Применение ЭВМ в агрономии</name>
+    <rpfilename>b1vdv71rp.pdf</rpfilename>
+    <fosfilename>b1vdv71fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.7.2</id>
+    <name>Средства программирования и прикладное программное обеспечение</name>
+    <rpfilename>b1vdv72rp.pdf</rpfilename>
+    <fosfilename>b1vdv72fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.8.1</id>
+    <name>Плодоводство и овощеводство</name>
+    <rpfilename>b1vdv81rp.pdf</rpfilename>
+    <fosfilename>b1vdv81fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.8.2</id>
+    <name>Селекция плодовых и овощных культур</name>
+    <rpfilename>b1vdv82rp.pdf</rpfilename>
+    <fosfilename>b1vdv82fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id></id>
+    <name>Элективные курсы по физической культуре</name>
+    <rpfilename>efkrp.pdf</rpfilename>
+    <fosfilename>efkfos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.П.1</id>
+    <name>Практика по получению первичных профессиональных умений и опыта профессиональной деятельности на сельскохозяйственных предприятиях</name>
+    <rpfilename>b2p1rp.pdf</rpfilename>
+    <fosfilename>b2p1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.2</id>
+    <name>Преддипломная практика</name>
+    <rpfilename>b2p2rp.pdf</rpfilename>
+    <fosfilename>b2p2fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.3</id>
+    <name>Научно-исследователькая работа</name>
+    <rpfilename>b2p3rp.pdf</rpfilename>
+    <fosfilename>b2p3fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.У.1</id>
+    <name>Практика по получению первичных профессиональных умений и навыков (по почвоведению и земледелию)</name>
+    <rpfilename>b2u1rp.pdf</rpfilename>
+    <fosfilename>b2u1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.У.2</id>
+    <name>Практика по получению первичных умений и навыков научно-исследовательской деятельности (научно-агрономическая)</name>
+    <rpfilename>b2u2rp.pdf</rpfilename>
+    <fosfilename>b2u2fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.У.3</id>
+    <name>Практика по получению первичных профессиональных умений и навыков (по ботанике)</name>
+    <rpfilename>b2u3rp.pdf</rpfilename>
+    <fosfilename>b2u3fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.У.4</id>
+    <name>Научно-агрономическая практика (в семестре)</name>
+    <rpfilename>b2u4rp.pdf</rpfilename>
+    <fosfilename>b2u4fos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б3</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3rp.pdf</rpfilename>
+    <fosfilename>b3fos.pdf</fosfilename>
+  </gia>
+</uchplan>

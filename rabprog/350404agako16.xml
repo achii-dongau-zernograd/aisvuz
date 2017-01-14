@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - магистратура</uroven>
+    <napravlenie>35.04.04 — Агрономия</napravlenie>
+    <profil>Селекция, генетика и семеноводство сельскохозяйственных культур</profil>
+    <programma>Академическая магистратура</programma>
+    <formaobucheniya>Очная</formaobucheniya>
+    <godnachalapodgotovki>2016</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.1</id>
+    <name>Информационные технологии</name>
+    <rpfilename>b1b1rp.pdf</rpfilename>
+    <fosfilename>b1b1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.2</id>
+    <name>Математическое моделирование и проектирование</name>
+    <rpfilename>b1b2rp.pdf</rpfilename>
+    <fosfilename>b1b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.3</id>
+    <name>История и методология научной агрономии</name>
+    <rpfilename>b1b3rp.pdf</rpfilename>
+    <fosfilename>b1b3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.4</id>
+    <name>Инновационные технологии в агрономии</name>
+    <rpfilename>b1b4rp.pdf</rpfilename>
+    <fosfilename>b1b4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.5</id>
+    <name>Инструментальные методы исследований</name>
+    <rpfilename>b1b5rp.pdf</rpfilename>
+    <fosfilename>b1b5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.6</id>
+    <name>Иностранный язык (английский)</name>
+    <rpfilename>b1b6Аrp.pdf</rpfilename>
+    <fosfilename>b1b6Аfos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.6</id>
+    <name>Иностранный язык (немецкий)</name>
+    <rpfilename>b1b6nrp.pdf</rpfilename>
+    <fosfilename>b1b6nfos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.1</id>
+    <name>Программирование урожаев полевых культур</name>
+    <rpfilename>b1vОd1rp.pdf</rpfilename>
+    <fosfilename>b1vОd1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.2</id>
+    <name>Историко-философские аспекты научного знания</name>
+    <rpfilename>b1vОd2rp.pdf</rpfilename>
+    <fosfilename>b1vОd2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3</id>
+    <name>Технология производства семян полевых культур</name>
+    <rpfilename>b1vОd3rp.pdf</rpfilename>
+    <fosfilename>b1vОd3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.4</id>
+    <name>Частная генетика полевых культур</name>
+    <rpfilename>b1vОd4rp.pdf</rpfilename>
+    <fosfilename>b1vОd4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.5</id>
+    <name>Методы исследований и статистического анализа данных в селекции полевых культур</name>
+    <rpfilename>b1vОd5rp.pdf</rpfilename>
+    <fosfilename>b1vОd5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.6</id>
+    <name>Селекция полевых культур на хозяйственные признаки и свойства</name>
+    <rpfilename>b1vОd6rp.pdf</rpfilename>
+    <fosfilename>b1vОd6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.7</id>
+    <name>Информационные технологии в селекции и генетике</name>
+    <rpfilename>b1vОd7rp.pdf</rpfilename>
+    <fosfilename>b1vОd7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.8</id>
+    <name>Методы маркерной селекции</name>
+    <rpfilename>b1vОd8rp.pdf</rpfilename>
+    <fosfilename>b1vОd8fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.9</id>
+    <name>Использование цитогенетики в селекции растений</name>
+    <rpfilename>b1vОd9rp.pdf</rpfilename>
+    <fosfilename>b1vОd9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.10</id>
+    <name>Сортовая агротехника полевых культур</name>
+    <rpfilename>b1vОd10rp.pdf</rpfilename>
+    <fosfilename>b1vОd10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.1</id>
+    <name>Проектирование современных технологий возделывания культур</name>
+    <rpfilename>b1vdv11rp.pdf</rpfilename>
+    <fosfilename>b1vdv11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.2</id>
+    <name>Моделирование сорта и системы защиты растений</name>
+    <rpfilename>b1vdv12rp.pdf</rpfilename>
+    <fosfilename>b1vdv12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.1</id>
+    <name>Психология общения</name>
+    <rpfilename>b1vdv21rp.pdf</rpfilename>
+    <fosfilename>b1vdv21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.2</id>
+    <name>Основы управления персоналом</name>
+    <rpfilename>b1vdv22rp.pdf</rpfilename>
+    <fosfilename>b1vdv22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.1</id>
+    <name>Биохимические основы селекции на качество полевых культур</name>
+    <rpfilename>b1vdv31rp.pdf</rpfilename>
+    <fosfilename>b1vdv31fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.2</id>
+    <name>Методы биотехнологии в селекции полевых культур</name>
+    <rpfilename>b1vdv32rp.pdf</rpfilename>
+    <fosfilename>b1vdv32fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.1</id>
+    <name>Экологическая селекция</name>
+    <rpfilename>b1vdv41rp.pdf</rpfilename>
+    <fosfilename>b1vdv41fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.2</id>
+    <name>Экологическая генетика</name>
+    <rpfilename>b1vdv42rp.pdf</rpfilename>
+    <fosfilename>b1vdv42fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.1</id>
+    <name>Методы сортового контроля</name>
+    <rpfilename>b1vdv51rp.pdf</rpfilename>
+    <fosfilename>b1vdv51fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.2</id>
+    <name>Апробация полевых культур</name>
+    <rpfilename>b1vdv52rp.pdf</rpfilename>
+    <fosfilename>b1vdv52fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.6.1</id>
+    <name>Научные основы семеноведения</name>
+    <rpfilename>b1vdv61rp.pdf</rpfilename>
+    <fosfilename>b1vdv61fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.6.2</id>
+    <name>Международная сертификация семян растений</name>
+    <rpfilename>b1vdv62rp.pdf</rpfilename>
+    <fosfilename>b1vdv62fos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.П.1</id>
+    <name>Научно-исследовательская работа</name>
+    <rpfilename>b2p1rp.pdf</rpfilename>
+    <fosfilename>b2p1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.2</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности (селекционная)</name>
+    <rpfilename>b2p2rp.pdf</rpfilename>
+    <fosfilename>b2p2fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.3</id>
+    <name>Научно-производственная практика</name>
+    <rpfilename>b2p3rp.pdf</rpfilename>
+    <fosfilename>b2p3fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.4</id>
+    <name>Научно-исследовательская работа</name>
+    <rpfilename>b2p4rp.pdf</rpfilename>
+    <fosfilename>b2p4fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.5</id>
+    <name>Преддипломная практика</name>
+    <rpfilename>b2p5rp.pdf</rpfilename>
+    <fosfilename>b2p5fos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б.3</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3rp.pdf</rpfilename>
+    <fosfilename>b3fos.pdf</fosfilename>
+  </gia>
+</uchplan>
