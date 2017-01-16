@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metod>
+	<uchpos year="2016" numstr="180" numpl="10,5" podpvpechat="18.01.2016" nomerzakaza="7">
+		<name>Информационные системы и процессы. Курс лекций: учебное пособие</name>
+		<biblopisanie>Руденко, Н.Б. Информационные системы и процессы. Курс лекций: учебное пособие / Н.Б. Руденко, Н.Н. Грачева, В.Н. Литвинов. – Зерноград: Азово-Черноморский инженерный институт ФГБОУ ВО ДГАУ, 2016. – 103 с.</biblopisanie>
+		<pdffilename>201601187rudenkonb.pdf</pdffilename>
+		<faculties>
+			<facultet>Энергетический</facultet>
+			<facultet>Инженерно-технологический</facultet>
+		</faculties>
+		<kafs>
+			<kaf>Т и ИУС</kaf>
+			<kaf>Э и Э</kaf>
+		</kafs>
+		<authors>
+			<author authorshare="0.8">Руденко Н.Б.</author>
+			<author authorshare="0.2">Петров П.П.</author>
+		</authors>
+		<napravleniya>
+			<napravlenie>13.03.01</napravlenie>
+			<napravlenie>13.03.02</napravlenie>
+			<napravlenie>35.03.06</napravlenie>
+		</napravleniya>
+		<disciplines>
+			<discipline>Информатика</discipline>
+			<discipline>Глобальные информационные системы</discipline>
+		</disciplines>
+		<annotations>
+			<annotation>Учебное пособие содержит теоретический материал в виде курса лекций, необходимый для освоения дисциплины «Глобальные информационные системы». Рассматриваются основные принципы построения информационных систем и организации информационных процессов в электроэнергетике.</annotation>
+			<annotation>Методические указания предназначены для студентов, обучающихся по направлению подготовки бакалавров 13.03.02 «Электроэнергетика и электротехника».</annotation>
+		</annotations>
+		<contents>
+			<content pagenumber="4">Введение</content>
+			<content pagenumber="5">Лекция № 1. Понятие информационной системы</content>
+			<content pagenumber="12">Лекция № 2. Структура и классификация информационных систем</content>
+			<content pagenumber="33">Лекция № 3. Понятие информационной технологии</content>
+			<content pagenumber="48">Лекция № 4. Проектирование информационных систем</content>
+			<content pagenumber="52">Лекция № 5. Организация разработки информационной системы</content>
+			<content pagenumber="55">Лекция № 6. Моделирование информационного обеспечения</content>
+			<content pagenumber="74">Лекция № 7. Унифицированный язык визуального моделирования Unified Modeling Language (UML)</content>
+			<content pagenumber="86">Лекция № 8. Этапы проектирования ИС с применением UML</content>
+			<content pagenumber="102">Литература</content>
+		</contents>		
+		</uchpos>
+	<uchpos year="2015" numstr="156" numpl="9" podpvpechat="18.01.2015" nomerzakaza="77">
+		<name>Информационные технологии</name>
+		<biblopisanie>Руденко, Н.Б. Информационные технологии: учебное пособие / Н.Б. Руденко, Н.Н. Грачева, В.Н. Литвинов. – Зерноград: Азово-Черноморский инженерный институт ФГБОУ ВО ДГАУ, 2016. – 103 с.</biblopisanie>
+		<pdffilename>2015011877rudenkonb.pdf</pdffilename>
+		<faculties>
+			<facultet>Энергетический</facultet>
+			<facultet>Инженерно-технологический</facultet>
+		</faculties>
+		<kafs>
+			<kaf>Т и ИУС</kaf>
+			<kaf>Э и Э</kaf>
+		</kafs>
+		<authors>
+			<author authorshare="0.8">Руденко Н.Б.</author>
+			<author authorshare="0.2">Петров П.П.</author>
+		</authors>
+		<napravleniya>
+			<napravlenie>13.03.01</napravlenie>
+			<napravlenie>13.03.02</napravlenie>
+			<napravlenie>35.03.06</napravlenie>
+		</napravleniya>
+		<disciplines>
+			<discipline>Автоматика</discipline>
+			<discipline>Информационные технологии</discipline>
+		</disciplines>
+		<annotations>
+			<annotation>Учебное пособие содержит теоретический материал в виде курса лекций, необходимый для освоения дисциплины «Глобальные информационные системы». Рассматриваются основные принципы построения информационных систем и организации информационных процессов в электроэнергетике.</annotation>
+			<annotation>Методические указания предназначены для студентов, обучающихся по направлению подготовки бакалавров 13.03.02 «Электроэнергетика и электротехника».</annotation>
+		</annotations>
+		<contents>
+			<content pagenumber="4">Введение</content>
+			<content pagenumber="5">Лекция № 1. Понятие информационной системы</content>
+			<content pagenumber="12">Лекция № 2. Структура и классификация информационных систем</content>
+			<content pagenumber="33">Лекция № 3. Понятие информационной технологии</content>
+			<content pagenumber="48">Лекция № 4. Проектирование информационных систем</content>
+			<content pagenumber="52">Лекция № 5. Организация разработки информационной системы</content>
+			<content pagenumber="55">Лекция № 6. Моделирование информационного обеспечения</content>
+			<content pagenumber="74">Лекция № 7. Унифицированный язык визуального моделирования Unified Modeling Language (UML)</content>
+			<content pagenumber="86">Лекция № 8. Этапы проектирования ИС с применением UML</content>
+			<content pagenumber="102">Литература</content>
+		</contents>		
+		</uchpos>
+</metod>
