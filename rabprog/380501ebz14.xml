@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - специалитет</uroven>
+    <napravlenie>38.05.01 — Экономическая безопасность</napravlenie>
+    <profil>Экономико-правовое обеспечение экономической безопасности</profil>
+    <programma>-</programma>
+    <formaobucheniya>Заочная</formaobucheniya>
+    <godnachalapodgotovki>2014</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>С1.Б.1</id>
+    <name>Иностранный язык (английский)</name>
+    <rpfilename>c1b1arp.pdf</rpfilename>
+    <fosfilename>c1b1afos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С1.Б.1</id>
+    <name>Иностранный язык (немецкий)</name>
+    <rpfilename>c1b1nrp.pdf</rpfilename>
+    <fosfilename>c1b1nfos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С1.Б.2</id>
+    <name>Философия</name>
+    <rpfilename>c1b2rp.pdf</rpfilename>
+    <fosfilename>c1b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С1.Б.3</id>
+    <name>История</name>
+    <rpfilename>c1b3rp.pdf</rpfilename>
+    <fosfilename>c1b3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С1.Б.4</id>
+    <name>Профессиональная этика и служебный этикет</name>
+    <rpfilename>c1b4rp.pdf</rpfilename>
+    <fosfilename>c1b4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С1.Б.5</id>
+    <name>Психология</name>
+    <rpfilename>c1b5rp.pdf</rpfilename>
+    <fosfilename>c1b5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С1.В.ОД.1</id>
+    <name>Политология</name>
+    <rpfilename>c1vod1rp.pdf</rpfilename>
+    <fosfilename>c1vod1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С1.В.ОД.2</id>
+    <name>Педагогика</name>
+    <rpfilename>c1vod2rp.pdf</rpfilename>
+    <fosfilename>c1vod2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С1.В.ДВ.1.1</id>
+    <name>Социология</name>
+    <rpfilename>c1vdv11rp.pdf</rpfilename>
+    <fosfilename>c1vdv11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С1.В.ДВ.1.2</id>
+    <name>Социология личности</name>
+    <rpfilename>c1vdv12rp.pdf</rpfilename>
+    <fosfilename>c1vdv12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С1.В.ДВ.2.1</id>
+    <name>Русский язык и культура речи</name>
+    <rpfilename>c1vdv21rp.pdf</rpfilename>
+    <fosfilename>c1vdv21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С1.В.ДВ.2.2</id>
+    <name>Культура речи и деловое общение</name>
+    <rpfilename>c1vdv22rp.pdf</rpfilename>
+    <fosfilename>c1vdv22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С2.Б.1</id>
+    <name>Математика</name>
+    <rpfilename>c2b1rp.pdf</rpfilename>
+    <fosfilename>c2b1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С2.Б.2</id>
+    <name>Информационные системы в экономике</name>
+    <rpfilename>c2b2rp.pdf</rpfilename>
+    <fosfilename>c2b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С2.Б.3</id>
+    <name>Эконометрика</name>
+    <rpfilename>c2b3rp.pdf</rpfilename>
+    <fosfilename>c2b3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С2.В.ОД.1</id>
+    <name>Информатика</name>
+    <rpfilename>c2vod1rp.pdf</rpfilename>
+    <fosfilename>c2vod1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С2.В.ОД.2</id>
+    <name>Исследование операций</name>
+    <rpfilename>c2vod2rp.pdf</rpfilename>
+    <fosfilename>c2vod2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.1</id>
+    <name>Экономическая теория</name>
+    <rpfilename>c3b1rp.pdf</rpfilename>
+    <fosfilename>c3b1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.2</id>
+    <name>История экономических учений</name>
+    <rpfilename>c3b2rp.pdf</rpfilename>
+    <fosfilename>c3b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.3</id>
+    <name>Мировая экономика и международные экономические отношения</name>
+    <rpfilename>c3b3rp.pdf</rpfilename>
+    <fosfilename>c3b3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.4</id>
+    <name>Статистика</name>
+    <rpfilename>c3b4rp.pdf</rpfilename>
+    <fosfilename>c3b4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.5</id>
+    <name>Экономический анализ</name>
+    <rpfilename>c3b5rp.pdf</rpfilename>
+    <fosfilename>c3b5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.6</id>
+    <name>Бухгалтерский учет</name>
+    <rpfilename>c3b6rp.pdf</rpfilename>
+    <fosfilename>c3b6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.7</id>
+    <name>Деньги, кредит, банки</name>
+    <rpfilename>c3b7rp.pdf</rpfilename>
+    <fosfilename>c3b7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.8</id>
+    <name>Финансы</name>
+    <rpfilename>c3b8rp.pdf</rpfilename>
+    <fosfilename>c3b8fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.9</id>
+    <name>Экономика организации (предприятия)</name>
+    <rpfilename>c3b9rp.pdf</rpfilename>
+    <fosfilename>c3b9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.10</id>
+    <name>Управление организацией (предприятием)</name>
+    <rpfilename>c3b10rp.pdf</rpfilename>
+    <fosfilename>c3b10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.11</id>
+    <name>Страхование</name>
+    <rpfilename>c3b11rp.pdf</rpfilename>
+    <fosfilename>c3b11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.12</id>
+    <name>Рынок ценных бумаг</name>
+    <rpfilename>c3b12rp.pdf</rpfilename>
+    <fosfilename>c3b12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.13</id>
+    <name>Налоги и налогообложение</name>
+    <rpfilename>c3b13rp.pdf</rpfilename>
+    <fosfilename>c3b13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.14</id>
+    <name>Контроль и ревизия</name>
+    <rpfilename>c3b14rp.pdf</rpfilename>
+    <fosfilename>c3b14fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.15</id>
+    <name>Экономическая безопасность</name>
+    <rpfilename>c3b15rp.pdf</rpfilename>
+    <fosfilename>c3b15fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.16</id>
+    <name>Судебная экономическая экспертиза</name>
+    <rpfilename>c3b16rp.pdf</rpfilename>
+    <fosfilename>c3b16fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.17</id>
+    <name>Аудит</name>
+    <rpfilename>c3b17rp.pdf</rpfilename>
+    <fosfilename>c3b17fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.18</id>
+    <name>Организация и методика проведения налоговых проверок</name>
+    <rpfilename>c3b18rp.pdf</rpfilename>
+    <fosfilename>c3b18fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.19</id>
+    <name>Оценка рисков</name>
+    <rpfilename>c3b19rp.pdf</rpfilename>
+    <fosfilename>c3b19fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.20</id>
+    <name>Административное право</name>
+    <rpfilename>c3b20rp.pdf</rpfilename>
+    <fosfilename>c3b20fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.21</id>
+    <name>Безопасность жизнедеятельности</name>
+    <rpfilename>c3b21rp.pdf</rpfilename>
+    <fosfilename>c3b21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.22</id>
+    <name>Специальная подготовка</name>
+    <rpfilename>.</rpfilename>
+    <fosfilename>.</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.22.1</id>
+    <name>Основы личной безопасности сотрудников</name>
+    <rpfilename>c3b221rp.pdf</rpfilename>
+    <fosfilename>c3b221fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.22.2</id>
+    <name>Тактико-специальная подготовка</name>
+    <rpfilename>c3b222rp.pdf</rpfilename>
+    <fosfilename>c3b222fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.22.3</id>
+    <name>Оперативно-розыскная деятельность</name>
+    <rpfilename>c3b223rp.pdf</rpfilename>
+    <fosfilename>c3b223fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.22.4</id>
+    <name>Огневая подготовка</name>
+    <rpfilename>c3b224rp.pdf</rpfilename>
+    <fosfilename>c3b224fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.23</id>
+    <name>Специализация</name>
+    <rpfilename>.</rpfilename>
+    <fosfilename>.</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.23.1</id>
+    <name>Правоведение</name>
+    <rpfilename>c3b231rp.pdf</rpfilename>
+    <fosfilename>c3b231fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.23.2</id>
+    <name>Предпринимательское право</name>
+    <rpfilename>c3b232rp.pdf</rpfilename>
+    <fosfilename>c3b232fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.23.3</id>
+    <name>Уголовное право</name>
+    <rpfilename>c3b233rp.pdf</rpfilename>
+    <fosfilename>c3b233fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.23.4</id>
+    <name>Расследование экономических преступлений</name>
+    <rpfilename>c3b234rp.pdf</rpfilename>
+    <fosfilename>c3b234fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.23.5</id>
+    <name>Иностранный язык для делового общения (английский)</name>
+    <rpfilename>c3b235arp.pdf</rpfilename>
+    <fosfilename>c3b235afos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.23.5</id>
+    <name>Иностранный язык для делового общения (немецкий)</name>
+    <rpfilename>c3b235nrp.pdf</rpfilename>
+    <fosfilename>c3b235nfos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.23.6</id>
+    <name>Практикум по документированию преступлений в сфере экономики</name>
+    <rpfilename>c3b236rp.pdf</rpfilename>
+    <fosfilename>c3b236fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.23.7</id>
+    <name>Бухгалтерская финансовая отчетность</name>
+    <rpfilename>c3b237rp.pdf</rpfilename>
+    <fosfilename>c3b237fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.Б.23.8</id>
+    <name>Антикоррупционное законодательство и политика</name>
+    <rpfilename>c3b238rp.pdf</rpfilename>
+    <fosfilename>c3b238fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.1.1</id>
+    <name>Экономика государственного сектора</name>
+    <rpfilename>c3vdv11rp.pdf</rpfilename>
+    <fosfilename>c3vdv11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.1.2</id>
+    <name>Государственное регулирование экономики</name>
+    <rpfilename>c3vdv12rp.pdf</rpfilename>
+    <fosfilename>c3vdv12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.2.1</id>
+    <name>Основы финансовых вычислений</name>
+    <rpfilename>c3vdv21rp.pdf</rpfilename>
+    <fosfilename>c3vdv21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.2.2</id>
+    <name>Разработка учетных приложений в MS OFFICE</name>
+    <rpfilename>c3vdv22rp.pdf</rpfilename>
+    <fosfilename>c3vdv22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.3.1</id>
+    <name>Экспертиза и оценка инвестиционных и инновационных проектов</name>
+    <rpfilename>c3vdv31rp.pdf</rpfilename>
+    <fosfilename>c3vdv31fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.3.2</id>
+    <name>Экономическая оценка инвестиций</name>
+    <rpfilename>c3vdv32rp.pdf</rpfilename>
+    <fosfilename>c3vdv32fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.4.1</id>
+    <name>Административное делопроизводство</name>
+    <rpfilename>c3vdv41rp.pdf</rpfilename>
+    <fosfilename>c3vdv41fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.4.2</id>
+    <name>Документирование управленческой деятельности</name>
+    <rpfilename>c3vdv42rp.pdf</rpfilename>
+    <fosfilename>c3vdv42fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.5.1</id>
+    <name>Международные стандарты финансовой отчетности</name>
+    <rpfilename>c3vdv51rp.pdf</rpfilename>
+    <fosfilename>c3vdv51fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.5.2</id>
+    <name>Международные стандарты аудита</name>
+    <rpfilename>c3vdv52rp.pdf</rpfilename>
+    <fosfilename>c3vdv52fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.6.1</id>
+    <name>Разработка управленческих решений</name>
+    <rpfilename>c3vdv61rp.pdf</rpfilename>
+    <fosfilename>c3vdv61fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.6.2</id>
+    <name>Управление персоналом</name>
+    <rpfilename>c3vdv62rp.pdf</rpfilename>
+    <fosfilename>c3vdv62fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.7.1</id>
+    <name>Психология конфликта</name>
+    <rpfilename>c3vdv71rp.pdf</rpfilename>
+    <fosfilename>c3vdv71fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.7.2</id>
+    <name>Психология управления</name>
+    <rpfilename>c3vdv72rp.pdf</rpfilename>
+    <fosfilename>c3vdv72fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.8.1</id>
+    <name>Бюджетный учет и отчетность</name>
+    <rpfilename>c3vdv81rp.pdf</rpfilename>
+    <fosfilename>c3vdv81fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ДВ.8.2</id>
+    <name>Учет, контроль и ревизия в бюджетных учреждениях</name>
+    <rpfilename>c3vdv82rp.pdf</rpfilename>
+    <fosfilename>c3vdv82fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ОД.1</id>
+    <name>Правоохранительные органы</name>
+    <rpfilename>c3vod1rp.pdf</rpfilename>
+    <fosfilename>c3vod1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ОД.2</id>
+    <name>Организация предпринимательской деятельности</name>
+    <rpfilename>c3vod2rp.pdf</rpfilename>
+    <fosfilename>c3vod2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ОД.3</id>
+    <name>Бухгалтерский управленческий учет</name>
+    <rpfilename>c3vod3rp.pdf</rpfilename>
+    <fosfilename>c3vod3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ОД.4</id>
+    <name>Внешнеэкономическая деятельность</name>
+    <rpfilename>c3vod4rp.pdf</rpfilename>
+    <fosfilename>c3vod4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ОД.5</id>
+    <name>Финансовый менеджмент</name>
+    <rpfilename>c3vod5rp.pdf</rpfilename>
+    <fosfilename>c3vod5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ОД.6</id>
+    <name>Автоматизация и средства защиты учетно-аналитической информации</name>
+    <rpfilename>c3vod6rp.pdf</rpfilename>
+    <fosfilename>c3vod6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С3.В.ОД.7</id>
+    <name>Правовое обеспечение экономической безопасности</name>
+    <rpfilename>c3vod7rp.pdf</rpfilename>
+    <fosfilename>c3vod7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>С4</id>
+    <name>Физическая культура</name>
+    <rpfilename>c4rp.pdf</rpfilename>
+    <fosfilename>c4fos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>С5.У.1</id>
+    <name>Учебно-ознакомительная практика</name>
+    <rpfilename>c5u1rp.pdf</rpfilename>
+    <fosfilename>c5u1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>С5.У.2</id>
+    <name>Учебная практика по бухгалтерскому учету</name>
+    <rpfilename>c5u2rp.pdf</rpfilename>
+    <fosfilename>c5u2fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>С5.Н.1</id>
+    <name>НИР</name>
+    <rpfilename>c5n1rp.pdf</rpfilename>
+    <fosfilename>c5n1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>С5.П.1</id>
+    <name>Производственная практика по экономической безопасности</name>
+    <rpfilename>c5p1rp.pdf</rpfilename>
+    <fosfilename>c5p1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>С5.П.2</id>
+    <name>Производственная практика по налогам и налогообложению</name>
+    <rpfilename>c5p2rp.pdf</rpfilename>
+    <fosfilename>c5p2fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>С5.П.3</id>
+    <name>Преддипломная практика</name>
+    <rpfilename>c5p3rp.pdf</rpfilename>
+    <fosfilename>c5p3fos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>С6</id>
+    <name>Итоговая государственная аттестация</name>
+    <rpfilename>c6rp.pdf</rpfilename>
+    <fosfilename>c6fos.pdf</fosfilename>
+  </gia>
+</uchplan>

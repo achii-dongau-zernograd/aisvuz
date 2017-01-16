@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - бакалавриат</uroven>
+    <napravlenie>44.03.04 — Профессиональное обучение</napravlenie>
+    <profil>Экономика и управление</profil>
+    <programma>Академический бакалавриат</programma>
+    <formaobucheniya>Заочная</formaobucheniya>
+    <godnachalapodgotovki>2014</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.1</id>
+    <name>История</name>
+    <rpfilename>b1b1rp.pdf</rpfilename>
+    <fosfilename>b1b1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.2</id>
+    <name>Философия</name>
+    <rpfilename>b1b2rp.pdf</rpfilename>
+    <fosfilename>b1b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.3</id>
+    <name>Философия и история образования</name>
+    <rpfilename>b1b3rp.pdf</rpfilename>
+    <fosfilename>b1b3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.4</id>
+    <name>Иностранный язык (английский)</name>
+    <rpfilename>b1b4arp.pdf</rpfilename>
+    <fosfilename>b1b4afos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.4</id>
+    <name>Иностранный язык (немецкий)</name>
+    <rpfilename>b1b4rp.pdf</rpfilename>
+    <fosfilename>b1b4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.5</id>
+    <name>Экономическая теория</name>
+    <rpfilename>b1b5rp.pdf</rpfilename>
+    <fosfilename>b1b5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.6</id>
+    <name>Прикладная экономика</name>
+    <rpfilename>b1b6rp.pdf</rpfilename>
+    <fosfilename>b1b6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.7</id>
+    <name>Русский язык и культура речи</name>
+    <rpfilename>b1b7rp.pdf</rpfilename>
+    <fosfilename>b1b7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.8</id>
+    <name>Социология</name>
+    <rpfilename>b1b8rp.pdf</rpfilename>
+    <fosfilename>b1b8fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.9</id>
+    <name>Правоведение</name>
+    <rpfilename>b1b9rp.pdf</rpfilename>
+    <fosfilename>b1b9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.10</id>
+    <name>Математика</name>
+    <rpfilename>b1b10rp.pdf</rpfilename>
+    <fosfilename>b1b10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.11</id>
+    <name>Информатика</name>
+    <rpfilename>b1b11rp.pdf</rpfilename>
+    <fosfilename>b1b11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.12</id>
+    <name>Методика профессионального обучения</name>
+    <rpfilename>b1b12rp.pdf</rpfilename>
+    <fosfilename>b1b12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.13</id>
+    <name>Безопасность жизнедеятельности</name>
+    <rpfilename>b1b13rp.pdf</rpfilename>
+    <fosfilename>b1b13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.14</id>
+    <name>Общая психология</name>
+    <rpfilename>b1b14rp.pdf</rpfilename>
+    <fosfilename>b1b14fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.15</id>
+    <name>Общая и профессиональная педагогика</name>
+    <rpfilename>b1b15rp.pdf</rpfilename>
+    <fosfilename>b1b15fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.16</id>
+    <name>Методика воспитательной работы</name>
+    <rpfilename>b1b16rp.pdf</rpfilename>
+    <fosfilename>b1b16fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.17</id>
+    <name>Творчество в образовании</name>
+    <rpfilename>b1b17rp.pdf</rpfilename>
+    <fosfilename>b1b17fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.18</id>
+    <name>Педагогические технологии</name>
+    <rpfilename>b1b18rp.pdf</rpfilename>
+    <fosfilename>b1b18fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.19</id>
+    <name>Анализ хозяйственной деятельности</name>
+    <rpfilename>b1b19rp.pdf</rpfilename>
+    <fosfilename>b1b19fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.20</id>
+    <name>Организация производства</name>
+    <rpfilename>b1b20rp.pdf</rpfilename>
+    <fosfilename>b1b20fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.21.1</id>
+    <name>Практикум по организации производства</name>
+    <rpfilename>b1b211rp.pdf</rpfilename>
+    <fosfilename>b1b211fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.21.2</id>
+    <name>Практикум по менеджменту</name>
+    <rpfilename>b1b212rp.pdf</rpfilename>
+    <fosfilename>b1b212fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.21.3</id>
+    <name>Практикум по бухгалтерскому учету</name>
+    <rpfilename>b1b213rp.pdf</rpfilename>
+    <fosfilename>b1b213fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.22</id>
+    <name>Физическая культура</name>
+    <rpfilename>b1b22rp.pdf</rpfilename>
+    <fosfilename>b1b22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.1</id>
+    <name>Региональная экономика</name>
+    <rpfilename>b1vod1rp.pdf</rpfilename>
+    <fosfilename>b1vod1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.2</id>
+    <name>Использование современных информационных технологий в образовательном процессе</name>
+    <rpfilename>b1vod2rp.pdf</rpfilename>
+    <fosfilename>b1vod2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3</id>
+    <name>Статистика</name>
+    <rpfilename>b1vod3rp.pdf</rpfilename>
+    <fosfilename>b1vod3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.4</id>
+    <name>Организация, нормирование и оплата труда</name>
+    <rpfilename>b1vod4rp.pdf</rpfilename>
+    <fosfilename>b1vod4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.5</id>
+    <name>Менеджмент</name>
+    <rpfilename>b1vod5rp.pdf</rpfilename>
+    <fosfilename>b1vod5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.6</id>
+    <name>Маркетинг</name>
+    <rpfilename>b1vod6rp.pdf</rpfilename>
+    <fosfilename>b1vod6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.7</id>
+    <name>Бухгалтерский учет и аудит</name>
+    <rpfilename>b1vod7rp.pdf</rpfilename>
+    <fosfilename>b1vod7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.8</id>
+    <name>Экономика отрасли</name>
+    <rpfilename>b1vod8rp.pdf</rpfilename>
+    <fosfilename>b1vod8fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.9</id>
+    <name>Планирование на предприятии</name>
+    <rpfilename>b1vod9rp.pdf</rpfilename>
+    <fosfilename>b1vod9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.10</id>
+    <name>Финансы и кредит</name>
+    <rpfilename>b1vod10rp.pdf</rpfilename>
+    <fosfilename>b1vod10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.11</id>
+    <name>Экология</name>
+    <rpfilename>b1vod11rp.pdf</rpfilename>
+    <fosfilename>b1vod11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.12</id>
+    <name>Физика</name>
+    <rpfilename>b1vod12rp.pdf</rpfilename>
+    <fosfilename>b1vod12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.13</id>
+    <name>Химия</name>
+    <rpfilename>b1vod13rp.pdf</rpfilename>
+    <fosfilename>b1vod13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.14</id>
+    <name>Возрастная физиология и психофизиология</name>
+    <rpfilename>b1vod14rp.pdf</rpfilename>
+    <fosfilename>b1vod14fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.1</id>
+    <name>Правовые основы профессиональной деятельности</name>
+    <rpfilename>b1vdv11rp.pdf</rpfilename>
+    <fosfilename>b1vdv11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.2</id>
+    <name>Нормативно-правовое обеспечение образования</name>
+    <rpfilename>b1vdv12rp.pdf</rpfilename>
+    <fosfilename>b1vdv12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.1</id>
+    <name>Теория отраслевых рынков</name>
+    <rpfilename>b1vdv21rp.pdf</rpfilename>
+    <fosfilename>b1vdv21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.2</id>
+    <name>Сельскохозяйственные рынки</name>
+    <rpfilename>b1vdv22rp.pdf</rpfilename>
+    <fosfilename>b1vdv22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.1</id>
+    <name>Социальная психология</name>
+    <rpfilename>b1vdv31rp.pdf</rpfilename>
+    <fosfilename>b1vdv31fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.2</id>
+    <name>Психология профессий</name>
+    <rpfilename>b1vdv32rp.pdf</rpfilename>
+    <fosfilename>b1vdv32fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.1</id>
+    <name>Политология</name>
+    <rpfilename>b1vdv41rp.pdf</rpfilename>
+    <fosfilename>b1vdv41fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.2</id>
+    <name>Человек и политика</name>
+    <rpfilename>b1vdv42rp.pdf</rpfilename>
+    <fosfilename>b1vdv42fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.1</id>
+    <name>Здоровьесберегающие технологии в профессиональном образовании</name>
+    <rpfilename>b1vdv51rp.pdf</rpfilename>
+    <fosfilename>b1vdv51fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.2</id>
+    <name>Основы здорового образа жизни</name>
+    <rpfilename>b1vdv52rp.pdf</rpfilename>
+    <fosfilename>b1vdv52fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.6.1</id>
+    <name>Введение в профессионально-педагогическую специальность</name>
+    <rpfilename>b1vdv61rp.pdf</rpfilename>
+    <fosfilename>b1vdv61fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.6.2</id>
+    <name>Имитационные методы обучения</name>
+    <rpfilename>b1vdv62rp.pdf</rpfilename>
+    <fosfilename>b1vdv62fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.7.1</id>
+    <name>Документирование управленческой деятельности</name>
+    <rpfilename>b1vdv71rp.pdf</rpfilename>
+    <fosfilename>b1vdv71fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.7.2</id>
+    <name>Ведение документации организации</name>
+    <rpfilename>b1vdv72rp.pdf</rpfilename>
+    <fosfilename>b1vdv72fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.8.1</id>
+    <name>Эконометрика</name>
+    <rpfilename>b1vdv81rp.pdf</rpfilename>
+    <fosfilename>b1vdv81fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.8.2</id>
+    <name>Математические методы в экономике и управлении</name>
+    <rpfilename>b1vdv82rp.pdf</rpfilename>
+    <fosfilename>b1vdv82fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.9.1</id>
+    <name>Основы финансовых вычислений</name>
+    <rpfilename>b1vdv91rp.pdf</rpfilename>
+    <fosfilename>b1vdv91fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.9.2</id>
+    <name>Теория игр</name>
+    <rpfilename>b1vdv92rp.pdf</rpfilename>
+    <fosfilename>b1vdv92fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.10.1</id>
+    <name>Компьютерный практикум</name>
+    <rpfilename>b1vdv101rp.pdf</rpfilename>
+    <fosfilename>b1vdv101fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.10.2</id>
+    <name>Прикладное программное обеспечение</name>
+    <rpfilename>b1vdv102rp.pdf</rpfilename>
+    <fosfilename>b1vdv102fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.11.1</id>
+    <name>Оценочная деятельность</name>
+    <rpfilename>b1vdv111rp.pdf</rpfilename>
+    <fosfilename>b1vdv111fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.11.2</id>
+    <name>Оценка бизнеса</name>
+    <rpfilename>b1vdv112rp.pdf</rpfilename>
+    <fosfilename>b1vdv112fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.12.1</id>
+    <name>Педагогическая риторика</name>
+    <rpfilename>b1vdv121rp.pdf</rpfilename>
+    <fosfilename>b1vdv121fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.12.2</id>
+    <name>Педагогическое общение</name>
+    <rpfilename>b1vdv122rp.pdf</rpfilename>
+    <fosfilename>b1vdv122fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.13.1</id>
+    <name>Экономическая оценка инвестиций</name>
+    <rpfilename>b1vdv131rp.pdf</rpfilename>
+    <fosfilename>b1vdv131fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.13.2</id>
+    <name>Цены и ценообразование</name>
+    <rpfilename>b1vdv132rp.pdf</rpfilename>
+    <fosfilename>b1vdv132fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.14.1</id>
+    <name>Институциональная экономика</name>
+    <rpfilename>b1vdv141rp.pdf</rpfilename>
+    <fosfilename>b1vdv141fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.14.2</id>
+    <name>История экономических учений</name>
+    <rpfilename>b1vdv142rp.pdf</rpfilename>
+    <fosfilename>b1vdv142fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.15.1</id>
+    <name>Информационные технологии в экономике</name>
+    <rpfilename>b1vdv151rp.pdf</rpfilename>
+    <fosfilename>b1vdv151fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.15.2</id>
+    <name>Пакеты прикладных программ</name>
+    <rpfilename>b1vdv152rp.pdf</rpfilename>
+    <fosfilename>b1vdv152fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>ФТД.1</id>
+    <name>Психолого-педагогический практикум</name>
+    <rpfilename>ftd1rp.pdf</rpfilename>
+    <fosfilename>ftd1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>ФТД.2</id>
+    <name>Педагогическая этика</name>
+    <rpfilename>ftd2rp.pdf</rpfilename>
+    <fosfilename>ftd2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id></id>
+    <name>Элективные курсы по физической культуре</name>
+    <rpfilename>efkrp.pdf</rpfilename>
+    <fosfilename>efkfos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.У.1</id>
+    <name>Квалификационная по рабочей профессии</name>
+    <rpfilename>b2u1rp.pdf</rpfilename>
+    <fosfilename>b2u1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.1</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности - Технологическая (организационно-управленческая)</name>
+    <rpfilename>b2p1rp.pdf</rpfilename>
+    <fosfilename>b2p1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.2</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности - Педагогическая</name>
+    <rpfilename>b2p2rp.pdf</rpfilename>
+    <fosfilename>b2p2fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.3</id>
+    <name>Преддипломная</name>
+    <rpfilename>b2p3rp.pdf</rpfilename>
+    <fosfilename>b2p3fos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б3</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3rp.pdf</rpfilename>
+    <fosfilename>b3fos.pdf</fosfilename>
+  </gia>
+</uchplan>
