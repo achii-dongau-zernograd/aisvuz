@@ -237,12 +237,6 @@
     <fosfilename>c3b21fos.pdf</fosfilename>
   </discipline>
   <discipline>
-    <id>С3.Б.22</id>
-    <name>Специальная подготовка</name>
-    <rpfilename>.</rpfilename>
-    <fosfilename>.</fosfilename>
-  </discipline>
-  <discipline>
     <id>С3.Б.22.1</id>
     <name>Основы личной безопасности сотрудников</name>
     <rpfilename>c3b221rp.pdf</rpfilename>
@@ -265,12 +259,6 @@
     <name>Огневая подготовка</name>
     <rpfilename>c3b224rp.pdf</rpfilename>
     <fosfilename>c3b224fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>С3.Б.23</id>
-    <name>Специализация</name>
-    <rpfilename>.</rpfilename>
-    <fosfilename>.</fosfilename>
   </discipline>
   <discipline>
     <id>С3.Б.23.1</id>
