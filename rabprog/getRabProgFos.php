@@ -87,4 +87,4 @@ echo '</tbody></table>';
 
 echo '</div>';// end of class="container-fluid"
 
-//include("../includes/footer.php");
+include("../includes/footer.php");
