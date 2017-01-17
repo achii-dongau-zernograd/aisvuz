@@ -53,7 +53,7 @@ foreach ($xml1->discipline as $discipline)
     $numrow++;
 }
 
-echo '<tr class="active"><td colspan=5><p class="text-center"><b>Практики</b></p></td></tr>';
+echo '<tr class="active"><td colspan=5><p class="text-center"><b>Практики, НИР</b></p></td></tr>';
 $numrow=1;
 foreach ($xml1->pract as $pract)
 {
