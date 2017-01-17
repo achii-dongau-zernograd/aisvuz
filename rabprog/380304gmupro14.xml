@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - бакалавриат</uroven>
+    <napravlenie>38.03.04 — Государственное и муниципальное управление</napravlenie>
+    <profil>Муниципальное управление</profil>
+    <programma>Прикладной бакалавриат</programma>
+    <formaobucheniya>Очная</formaobucheniya>
+    <godnachalapodgotovki>2014</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.1</id>
+    <name>Иностранный язык</name>
+    <rpfilename>b1b1rp.pdf</rpfilename>
+    <fosfilename>b1b1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.2</id>
+    <name>История</name>
+    <rpfilename>b1b2rp.pdf</rpfilename>
+    <fosfilename>b1b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.3</id>
+    <name>Философия</name>
+    <rpfilename>b1b3rp.pdf</rpfilename>
+    <fosfilename>b1b3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.4</id>
+    <name>Социология</name>
+    <rpfilename>b1b4rp.pdf</rpfilename>
+    <fosfilename>b1b4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.5</id>
+    <name>Экономическая теория</name>
+    <rpfilename>b1b5rp.pdf</rpfilename>
+    <fosfilename>b1b5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.6</id>
+    <name>Математика</name>
+    <rpfilename>b1b6rp.pdf</rpfilename>
+    <fosfilename>b1b6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.7</id>
+    <name>Региональное управление и территориальное планирование</name>
+    <rpfilename>b1b7rp.pdf</rpfilename>
+    <fosfilename>b1b7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.8</id>
+    <name>Информатика</name>
+    <rpfilename>b1b8rp.pdf</rpfilename>
+    <fosfilename>b1b8fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.9</id>
+    <name>Информационные технологии в профессиональной деятельности</name>
+    <rpfilename>b1b9rp.pdf</rpfilename>
+    <fosfilename>b1b9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.10</id>
+    <name>Теория управления</name>
+    <rpfilename>b1b10rp.pdf</rpfilename>
+    <fosfilename>b1b10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.11</id>
+    <name>Основы государственного и муниципального управления</name>
+    <rpfilename>b1b11rp.pdf</rpfilename>
+    <fosfilename>b1b11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.12</id>
+    <name>Управление проектами</name>
+    <rpfilename>b1b12rp.pdf</rpfilename>
+    <fosfilename>b1b12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.13</id>
+    <name>Основы права</name>
+    <rpfilename>b1b13rp.pdf</rpfilename>
+    <fosfilename>b1b13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.14</id>
+    <name>Безопасность жизнедеятельности</name>
+    <rpfilename>b1b14rp.pdf</rpfilename>
+    <fosfilename>b1b14fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.15</id>
+    <name>Планирование и проектирование организаций</name>
+    <rpfilename>b1b15rp.pdf</rpfilename>
+    <fosfilename>b1b15fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.16</id>
+    <name>Организация исполнения бюджета</name>
+    <rpfilename>b1b16rp.pdf</rpfilename>
+    <fosfilename>b1b16fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.17</id>
+    <name>Основы управления персоналом</name>
+    <rpfilename>b1b17rp.pdf</rpfilename>
+    <fosfilename>b1b17fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.18</id>
+    <name>Деловые коммуникации</name>
+    <rpfilename>b1b18rp.pdf</rpfilename>
+    <fosfilename>b1b18fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.19</id>
+    <name>Принятие и исполнение государственных решений</name>
+    <rpfilename>b1b19rp.pdf</rpfilename>
+    <fosfilename>b1b19fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.20</id>
+    <name>Экономическая оценка инвестиций</name>
+    <rpfilename>b1b20rp.pdf</rpfilename>
+    <fosfilename>b1b20fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.21</id>
+    <name>Физическая культура</name>
+    <rpfilename>b1b21rp.pdf</rpfilename>
+    <fosfilename>b1b21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.22</id>
+    <name>Концепции современного естествознания</name>
+    <rpfilename>b1b22rp.pdf</rpfilename>
+    <fosfilename>b1b22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.23</id>
+    <name>Политология</name>
+    <rpfilename>b1b23rp.pdf</rpfilename>
+    <fosfilename>b1b23fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.1</id>
+    <name>Гражданское право</name>
+    <rpfilename>b1vod1rp.pdf</rpfilename>
+    <fosfilename>b1vod1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.2</id>
+    <name>Психология</name>
+    <rpfilename>b1vod2rp.pdf</rpfilename>
+    <fosfilename>b1vod2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3</id>
+    <name>Иностранный язык в профессиональной сфере</name>
+    <rpfilename>b1vod3rp.pdf</rpfilename>
+    <fosfilename>b1vod3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.4</id>
+    <name>Теория организации</name>
+    <rpfilename>b1vod4rp.pdf</rpfilename>
+    <fosfilename>b1vod4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.5</id>
+    <name>Государственное регулирование экономики</name>
+    <rpfilename>b1vod5rp.pdf</rpfilename>
+    <fosfilename>b1vod5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.6</id>
+    <name>Методы принятия управленческих решений</name>
+    <rpfilename>b1vod6rp.pdf</rpfilename>
+    <fosfilename>b1vod6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.7</id>
+    <name>Экономика государственного и муниципального сектора</name>
+    <rpfilename>b1vod7rp.pdf</rpfilename>
+    <fosfilename>b1vod7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.8</id>
+    <name>Управление государственным (муниципальным) заказом</name>
+    <rpfilename>b1vod8rp.pdf</rpfilename>
+    <fosfilename>b1vod8fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.9</id>
+    <name>Статистика</name>
+    <rpfilename>b1vod9rp.pdf</rpfilename>
+    <fosfilename>b1vod9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.10</id>
+    <name>Государственная и муниципальная служба</name>
+    <rpfilename>b1vod10rp.pdf</rpfilename>
+    <fosfilename>b1vod10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.11</id>
+    <name>Маркетинг территорий</name>
+    <rpfilename>b1vod11rp.pdf</rpfilename>
+    <fosfilename>b1vod11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.12</id>
+    <name>Управленческий консалтинг</name>
+    <rpfilename>b1vod12rp.pdf</rpfilename>
+    <fosfilename>b1vod12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.13</id>
+    <name>Прогнозирование и планирование</name>
+    <rpfilename>b1vod13rp.pdf</rpfilename>
+    <fosfilename>b1vod13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.14</id>
+    <name>Муниципальное право</name>
+    <rpfilename>b1vod14rp.pdf</rpfilename>
+    <fosfilename>b1vod14fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.15</id>
+    <name>Основы развития местного хозяйства</name>
+    <rpfilename>b1vod15rp.pdf</rpfilename>
+    <fosfilename>b1vod15fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.16</id>
+    <name>Концептуальные основы экономического анализа</name>
+    <rpfilename>b1vod16rp.pdf</rpfilename>
+    <fosfilename>b1vod16fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.17</id>
+    <name>Учет и отчетность в секторе государственного (муниципального) управления</name>
+    <rpfilename>b1vod17rp.pdf</rpfilename>
+    <fosfilename>b1vod17fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.18</id>
+    <name>Этика государственной и муниципальной службы</name>
+    <rpfilename>b1vod18rp.pdf</rpfilename>
+    <fosfilename>b1vod18fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.19</id>
+    <name>Конституционное право</name>
+    <rpfilename>b1vod19rp.pdf</rpfilename>
+    <fosfilename>b1vod19fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.20</id>
+    <name>Документационное обеспечение управления</name>
+    <rpfilename>b1vod20rp.pdf</rpfilename>
+    <fosfilename>b1vod20fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.1</id>
+    <name>Административное право</name>
+    <rpfilename>b1vdv11rp.pdf</rpfilename>
+    <fosfilename>b1vdv11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.2</id>
+    <name>Психология конфликта в организациях</name>
+    <rpfilename>b1vdv12rp.pdf</rpfilename>
+    <fosfilename>b1vdv12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.1</id>
+    <name>Введение в специальность</name>
+    <rpfilename>b1vdv21rp.pdf</rpfilename>
+    <fosfilename>b1vdv21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.2</id>
+    <name>Основы государственного устройства</name>
+    <rpfilename>b1vdv22rp.pdf</rpfilename>
+    <fosfilename>b1vdv22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.1</id>
+    <name>Риторика</name>
+    <rpfilename>b1vdv31rp.pdf</rpfilename>
+    <fosfilename>b1vdv31fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.2</id>
+    <name>Основы речевого мастерства</name>
+    <rpfilename>b1vdv32rp.pdf</rpfilename>
+    <fosfilename>b1vdv32fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.1</id>
+    <name>Контроль в системе государственного и муниципального управления</name>
+    <rpfilename>b1vdv41rp.pdf</rpfilename>
+    <fosfilename>b1vdv41fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.2</id>
+    <name>Финансовый контроль и аудит в органах власти</name>
+    <rpfilename>b1vdv42rp.pdf</rpfilename>
+    <fosfilename>b1vdv42fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.1</id>
+    <name>Управление муниципальной собственностью</name>
+    <rpfilename>b1vdv51rp.pdf</rpfilename>
+    <fosfilename>b1vdv51fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.2</id>
+    <name>Управление земельными ресурсами</name>
+    <rpfilename>b1vdv52rp.pdf</rpfilename>
+    <fosfilename>b1vdv52fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.6.1</id>
+    <name>Связи с общественностью в органах власти</name>
+    <rpfilename>b1vdv61rp.pdf</rpfilename>
+    <fosfilename>b1vdv61fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.6.2</id>
+    <name>Управление общественными отношениями</name>
+    <rpfilename>b1vdv62rp.pdf</rpfilename>
+    <fosfilename>b1vdv62fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.7.1</id>
+    <name>Налоги и налогообложение</name>
+    <rpfilename>b1vdv71rp.pdf</rpfilename>
+    <fosfilename>b1vdv71fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.7.2</id>
+    <name>Государственные финансы</name>
+    <rpfilename>b1vdv72rp.pdf</rpfilename>
+    <fosfilename>b1vdv72fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.8.1</id>
+    <name>Логика</name>
+    <rpfilename>b1vdv81rp.pdf</rpfilename>
+    <fosfilename>b1vdv81fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.8.2</id>
+    <name>Философская антропология</name>
+    <rpfilename>b1vdv82rp.pdf</rpfilename>
+    <fosfilename>b1vdv82fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.9.1</id>
+    <name>История государственного управления</name>
+    <rpfilename>b1vdv91rp.pdf</rpfilename>
+    <fosfilename>b1vdv91fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.9.2</id>
+    <name>История мировых цивилизаций</name>
+    <rpfilename>b1vdv92rp.pdf</rpfilename>
+    <fosfilename>b1vdv92fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.10.1</id>
+    <name>Социология управления</name>
+    <rpfilename>b1vdv101rp.pdf</rpfilename>
+    <fosfilename>b1vdv101fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.10.2</id>
+    <name>Социология личности</name>
+    <rpfilename>b1vdv102rp.pdf</rpfilename>
+    <fosfilename>b1vdv102fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.11.1</id>
+    <name>Финансы, деньги, кредит</name>
+    <rpfilename>b1vdv111rp.pdf</rpfilename>
+    <fosfilename>b1vdv111fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.11.2</id>
+    <name>Деньги, кредит, банки</name>
+    <rpfilename>b1vdv112rp.pdf</rpfilename>
+    <fosfilename>b1vdv112fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.12.1</id>
+    <name>Инновационный менеджмент</name>
+    <rpfilename>b1vdv121rp.pdf</rpfilename>
+    <fosfilename>b1vdv121fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.12.2</id>
+    <name>Экспертиза и оценка инвестиционных и инновационных проектов</name>
+    <rpfilename>b1vdv122rp.pdf</rpfilename>
+    <fosfilename>b1vdv122fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.13.1</id>
+    <name>Экология</name>
+    <rpfilename>b1vdv131rp.pdf</rpfilename>
+    <fosfilename>b1vdv131fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.13.2</id>
+    <name>Экологическая безопасность</name>
+    <rpfilename>b1vdv132rp.pdf</rpfilename>
+    <fosfilename>b1vdv132fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id></id>
+    <name>Элективные курсы по физической культуре</name>
+    <rpfilename>b1vdvrp.pdf</rpfilename>
+    <fosfilename>b1vdvfos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.У.1</id>
+    <name>Учебная практика по получению первычных профессиональных умений и навыков</name>
+    <rpfilename>b2u1rp.pdf</rpfilename>
+    <fosfilename>b2u1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.1</id>
+    <name>Производственная технологическая практика</name>
+    <rpfilename>b2p1rp.pdf</rpfilename>
+    <fosfilename>b2p1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.2</id>
+    <name>Производственная практика по получению профессиональных умений и опыта профессиональной деятельности</name>
+    <rpfilename>b2p2rp.pdf</rpfilename>
+    <fosfilename>b2p2fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.3</id>
+    <name>Производственная педагогическая практика</name>
+    <rpfilename>b2p3rp.pdf</rpfilename>
+    <fosfilename>b2p3fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.4</id>
+    <name>Научно-исследовательская работа</name>
+    <rpfilename>b2p4rp.pdf</rpfilename>
+    <fosfilename>b2p4fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.5</id>
+    <name>Преддипломная практика</name>
+    <rpfilename>b2p5rp.pdf</rpfilename>
+    <fosfilename>b2p5fos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б3</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3rp.pdf</rpfilename>
+    <fosfilename>b3fos.pdf</fosfilename>
+  </gia>
+</uchplan>
