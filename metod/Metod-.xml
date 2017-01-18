@@ -16,14 +16,14 @@
 			<author authorshare="0.8">Руденко Н.Б.</author>
 			<author authorshare="0.2">Петров П.П.</author>
 		</authors>
+		<napravleniya>
+			<napravlenie>13.03.01</napravlenie>
+			<napravlenie>13.03.02</napravlenie>
+			<napravlenie>35.03.06</napravlenie>
+		</napravleniya>
 		<disciplines>
-			<discipline disciplinename="Информатика">
-				<napravlenie>13.03.01</napravlenie>
-				<napravlenie>13.03.02</napravlenie>
-			</discipline>
-			<discipline disciplinename="Глобальные информационные системы">
-				<napravlenie>13.03.02</napravlenie>
-			</discipline>
+			<discipline>Информатика</discipline>
+			<discipline>Глобальные информационные системы</discipline>
 		</disciplines>
 		<annotations>
 			<annotation>Учебное пособие содержит теоретический материал в виде курса лекций, необходимый для освоения дисциплины «Глобальные информационные системы». Рассматриваются основные принципы построения информационных систем и организации информационных процессов в электроэнергетике.</annotation>
@@ -41,11 +41,11 @@
 			<content pagenumber="86">Лекция № 8. Этапы проектирования ИС с применением UML</content>
 			<content pagenumber="102">Литература</content>
 		</contents>		
-	</uchpos>
-	<uchpos year="2016" numstr="180" numpl="10,5" podpvpechat="18.01.2016" nomerzakaza="7">
-		<name>Информатика. Курс лекций: учебное пособие</name>
-		<biblopisanie>Грачева, Н.Н. Информатика. Курс лекций: учебное пособие / Н.Н. Грачева, Н.Б. Руденко. – Зерноград: Азово-Черноморский инженерный институт ФГБОУ ВО ДГАУ, 2016. – 103 с.</biblopisanie>
-		<pdffilename>201601187rudenkonb.pdf</pdffilename>
+		</uchpos>
+	<uchpos year="2015" numstr="156" numpl="9" podpvpechat="18.01.2015" nomerzakaza="77">
+		<name>Информационные технологии</name>
+		<biblopisanie>Руденко, Н.Б. Информационные технологии: учебное пособие / Н.Б. Руденко, Н.Н. Грачева, В.Н. Литвинов. – Зерноград: Азово-Черноморский инженерный институт ФГБОУ ВО ДГАУ, 2016. – 103 с.</biblopisanie>
+		<pdffilename>2015011877rudenkonb.pdf</pdffilename>
 		<faculties>
 			<facultet>Энергетический</facultet>
 			<facultet>Инженерно-технологический</facultet>
@@ -55,18 +55,17 @@
 			<kaf>Э и Э</kaf>
 		</kafs>
 		<authors>
-			<author authorshare="0.8">Грачева Н.Н.</author>
-			<author authorshare="0.2">Руденко Н.Б.</author>
+			<author authorshare="0.8">Руденко Н.Б.</author>
+			<author authorshare="0.2">Петров П.П.</author>
 		</authors>
+		<napravleniya>
+			<napravlenie>13.03.01</napravlenie>
+			<napravlenie>13.03.02</napravlenie>
+			<napravlenie>35.03.06</napravlenie>
+		</napravleniya>
 		<disciplines>
-			<discipline disciplinename="Информатика">
-				<napravlenie>13.03.01</napravlenie>
-				<napravlenie>13.03.02</napravlenie>
-				<napravlenie>35.03.06</napravlenie>
-			</discipline>
-			<discipline  disciplinename="Информационные технологии">
-				<napravlenie>13.03.02</napravlenie>
-			</discipline>
+			<discipline>Автоматика</discipline>
+			<discipline>Информационные технологии</discipline>
 		</disciplines>
 		<annotations>
 			<annotation>Учебное пособие содержит теоретический материал в виде курса лекций, необходимый для освоения дисциплины «Глобальные информационные системы». Рассматриваются основные принципы построения информационных систем и организации информационных процессов в электроэнергетике.</annotation>

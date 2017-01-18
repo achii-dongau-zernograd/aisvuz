@@ -31,8 +31,9 @@ foreach ($xml1->uchpos as $uchpos)
     // Если направление не соответствует,
     // переходим к следующему пособию
     $isNapr=false;
-    foreach ($uchpos->napravleniya->napravlenie as $napr)
+    foreach ($uchpos->disciplines->discipline as $disc)
     {
+        foreach($disc->napravlenie as $napr)
         if($napravlenie==$napr)
             $isNapr=true;
     }
@@ -54,9 +55,15 @@ foreach ($xml1->uchpos as $uchpos)
     echo '<td>';  // Дисциплины
     foreach ($uchpos->disciplines->discipline as $discipline)
     {
-        echo '<p>';
-        echo $discipline;
-        echo '</p>';
+        foreach($discipline->napravlenie as $napr)
+        {
+            if($napr==$napravlenie)
+            {
+                echo '<p>';
+                echo $discipline['disciplinename'];
+                echo '</p>';
+            }
+        }
     }
     echo '</td>';
     echo '<td>';
