@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - бакалавриат</uroven>
+    <napravlenie>20.03.01 — Техносферная безопасность</napravlenie>
+    <profil>Безопасность технологических процессов и производств</profil>
+    <programma>Академический бакалавриат</programma>
+    <formaobucheniya>Заочная</formaobucheniya>
+    <godnachalapodgotovki>2015</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.01</id>
+    <name>Иностранный язык</name>
+    <rpfilename>b1b01rp.pdf</rpfilename>
+    <fosfilename>b1b01fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.02</id>
+    <name>Философия</name>
+    <rpfilename>b1b02rp.pdf</rpfilename>
+    <fosfilename>b1b02fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.03</id>
+    <name>История</name>
+    <rpfilename>b1b03rp.pdf</rpfilename>
+    <fosfilename>b1b03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.04</id>
+    <name>Экономика</name>
+    <rpfilename>b1b04rp.pdf</rpfilename>
+    <fosfilename>b1b04fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.05</id>
+    <name>Математика</name>
+    <rpfilename>b1b05rp.pdf</rpfilename>
+    <fosfilename>b1b05fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.06</id>
+    <name>Информатика</name>
+    <rpfilename>b1b06rp.pdf</rpfilename>
+    <fosfilename>b1b06fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.07</id>
+    <name>Физика</name>
+    <rpfilename>b1b07rp.pdf</rpfilename>
+    <fosfilename>b1b07fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.08</id>
+    <name>Теория горения и взрыва</name>
+    <rpfilename>b1b08rp.pdf</rpfilename>
+    <fosfilename>b1b08fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.09</id>
+    <name>Химия</name>
+    <rpfilename>b1b09rp.pdf</rpfilename>
+    <fosfilename>b1b09fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.10</id>
+    <name>Экология</name>
+    <rpfilename>b1b10rp.pdf</rpfilename>
+    <fosfilename>b1b10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.11</id>
+    <name>Ноксология</name>
+    <rpfilename>b1b11rp.pdf</rpfilename>
+    <fosfilename>b1b11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.12</id>
+    <name>Начертательная геометрия. Инженерная графика</name>
+    <rpfilename>b1b12rp.pdf</rpfilename>
+    <fosfilename>b1b12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.13</id>
+    <name>Механика</name>
+    <rpfilename>b1b13rp.pdf</rpfilename>
+    <fosfilename>b1b13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.14</id>
+    <name>Гидрогазодинамика</name>
+    <rpfilename>b1b14rp.pdf</rpfilename>
+    <fosfilename>b1b14fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.15</id>
+    <name>Теплофизика</name>
+    <rpfilename>b1b15rp.pdf</rpfilename>
+    <fosfilename>b1b15fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.16</id>
+    <name>Электротехника и электроника</name>
+    <rpfilename>b1b16rp.pdf</rpfilename>
+    <fosfilename>b1b16fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.17</id>
+    <name>Метрология, стандартизация и сертификация</name>
+    <rpfilename>b1b17rp.pdf</rpfilename>
+    <fosfilename>b1b17fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.18</id>
+    <name>Медико-биологические основы безопасности</name>
+    <rpfilename>b1b18rp.pdf</rpfilename>
+    <fosfilename>b1b18fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.19</id>
+    <name>Надежность технических систем и техногенный риск</name>
+    <rpfilename>b1b19rp.pdf</rpfilename>
+    <fosfilename>b1b19fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.20</id>
+    <name>Безопасность жизнедеятельности</name>
+    <rpfilename>b1b20rp.pdf</rpfilename>
+    <fosfilename>b1b20fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.21</id>
+    <name>Управление техносферной безопасностью</name>
+    <rpfilename>b1b21rp.pdf</rpfilename>
+    <fosfilename>b1b21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.22</id>
+    <name>Нормативно-правовое обеспечение безопасности труда</name>
+    <rpfilename>b1b22rp.pdf</rpfilename>
+    <fosfilename>b1b22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.23</id>
+    <name>Физическая культура</name>
+    <rpfilename>b1b23rp.pdf</rpfilename>
+    <fosfilename>b1b23fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.01</id>
+    <name>Экономика техносферной безопасности</name>
+    <rpfilename>b1v01rp.pdf</rpfilename>
+    <fosfilename>b1v01fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.02</id>
+    <name>Физиология человека</name>
+    <rpfilename>b1v02rp.pdf</rpfilename>
+    <fosfilename>b1v02fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.03</id>
+    <name>Компьютерный практикум</name>
+    <rpfilename>b1v03rp.pdf</rpfilename>
+    <fosfilename>b1v03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.04</id>
+    <name>Материаловедение</name>
+    <rpfilename>b1v04rp.pdf</rpfilename>
+    <fosfilename>b1v04fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.05</id>
+    <name>Производственная санитария и гигиена труда</name>
+    <rpfilename>b1v05rp.pdf</rpfilename>
+    <fosfilename>b1v05fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.06</id>
+    <name>Производственная безопасность</name>
+    <rpfilename>b1v06rp.pdf</rpfilename>
+    <fosfilename>b1v06fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.07</id>
+    <name>Специальная оценка условий труда</name>
+    <rpfilename>b1v07rp.pdf</rpfilename>
+    <fosfilename>b1v07fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.08</id>
+    <name>Разработка вопросов безопасности в проектах</name>
+    <rpfilename>b1v08rp.pdf</rpfilename>
+    <fosfilename>b1v08fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.09</id>
+    <name>Организация охраны труда и управление профессиональными рисками</name>
+    <rpfilename>b1v09rp.pdf</rpfilename>
+    <fosfilename>b1v09fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.10</id>
+    <name>Безопасность в чрезвычайных ситуациях</name>
+    <rpfilename>b1v10rp.pdf</rpfilename>
+    <fosfilename>b1v10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.11</id>
+    <name>Технические системы защиты среды обитания</name>
+    <rpfilename>b1v11rp.pdf</rpfilename>
+    <fosfilename>b1v11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.12</id>
+    <name>Проектирование защитных устройств</name>
+    <rpfilename>b1v12rp.pdf</rpfilename>
+    <fosfilename>b1v12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.13</id>
+    <name>Обеспечение безопасности в отрасли</name>
+    <rpfilename>b1v13rp.pdf</rpfilename>
+    <fosfilename>b1v13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.14</id>
+    <name>Элективные курсы по физической культуре</name>
+    <rpfilename>b1v14rp.pdf</rpfilename>
+    <fosfilename>b1v14fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.01.01</id>
+    <name>Русский язык и культура речи</name>
+    <rpfilename>b1vdv0101rp.pdf</rpfilename>
+    <fosfilename>b1vdv0101fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.01.02</id>
+    <name>Риторика</name>
+    <rpfilename>b1vdv0102rp.pdf</rpfilename>
+    <fosfilename>b1vdv0102fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.02.01</id>
+    <name>Культурология</name>
+    <rpfilename>b1vdv0201rp.pdf</rpfilename>
+    <fosfilename>b1vdv0201fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.02.02</id>
+    <name>Деловой этикет</name>
+    <rpfilename>b1vdv0202rp.pdf</rpfilename>
+    <fosfilename>b1vdv0202fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.03.01</id>
+    <name>Социология и политология</name>
+    <rpfilename>b1vdv0301rp.pdf</rpfilename>
+    <fosfilename>b1vdv0301fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.03.02</id>
+    <name>Российская политическая система</name>
+    <rpfilename>b1vdv0302rp.pdf</rpfilename>
+    <fosfilename>b1vdv0302fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.04.01</id>
+    <name>Психология и конфликтология</name>
+    <rpfilename>b1vdv0401rp.pdf</rpfilename>
+    <fosfilename>b1vdv0401fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.04.02</id>
+    <name>Психология</name>
+    <rpfilename>b1vdv0402rp.pdf</rpfilename>
+    <fosfilename>b1vdv0402fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.05.01</id>
+    <name>Надзор и контроль в сфере безопасности</name>
+    <rpfilename>b1vdv0501rp.pdf</rpfilename>
+    <fosfilename>b1vdv0501fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.05.02</id>
+    <name>Системный анализ безопасности</name>
+    <rpfilename>b1vdv0502rp.pdf</rpfilename>
+    <fosfilename>b1vdv0502fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.06.01</id>
+    <name>Оценка воздействия хозяйственной деятельности на окружающую среду</name>
+    <rpfilename>b1vdv0601rp.pdf</rpfilename>
+    <fosfilename>b1vdv0601fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.06.02</id>
+    <name>Мониторинг среды обитания</name>
+    <rpfilename>b1vdv0602rp.pdf</rpfilename>
+    <fosfilename>b1vdv0602fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.07.01</id>
+    <name>Эргономика и психофизические основы безопасности труда</name>
+    <rpfilename>b1vdv0701rp.pdf</rpfilename>
+    <fosfilename>b1vdv0701fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.07.02</id>
+    <name>Расчет и проектирование систем безопасности труда</name>
+    <rpfilename>b1vdv0702rp.pdf</rpfilename>
+    <fosfilename>b1vdv0702fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.08.01</id>
+    <name>Безопасность труда в строительстве</name>
+    <rpfilename>b1vdv0801rp.pdf</rpfilename>
+    <fosfilename>b1vdv0801fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.08.02</id>
+    <name>Экспертиза проектов</name>
+    <rpfilename>b1vdv0802rp.pdf</rpfilename>
+    <fosfilename>b1vdv0802fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.09.01</id>
+    <name>Безопасность перевозки грузов</name>
+    <rpfilename>b1vdv0901rp.pdf</rpfilename>
+    <fosfilename>b1vdv0901fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.10.01</id>
+    <name>Основы научных исследований</name>
+    <rpfilename>b1vdv1001rp.pdf</rpfilename>
+    <fosfilename>b1vdv1001fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.10.02</id>
+    <name>Основы моделирования технических систем</name>
+    <rpfilename>b1vdv1002rp.pdf</rpfilename>
+    <fosfilename>b1vdv1002fos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.В.01(У)</id>
+    <name>Учебная практика</name>
+    <rpfilename>b2v01urp.pdf</rpfilename>
+    <fosfilename>b2v01ufos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.02(П)</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности</name>
+    <rpfilename>b2v02prp.pdf</rpfilename>
+    <fosfilename>b2v02pfos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.03(Н)</id>
+    <name>Научно-исследовательская работа</name>
+    <rpfilename>b2v03nrp.pdf</rpfilename>
+    <fosfilename>b2v03nfos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.04(Пд)</id>
+    <name>Преддипломная</name>
+    <rpfilename>b2v04pdrp.pdf</rpfilename>
+    <fosfilename>b2v04pdfos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б3.Б.01</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>-</rpfilename>
+    <fosfilename>-</fosfilename>
+  </gia>
+  <gia>
+    <id>Б3.Б.02</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3b02rp.pdf</rpfilename>
+    <fosfilename>b3b02fos.pdf</fosfilename>
+  </gia>
+</uchplan>
