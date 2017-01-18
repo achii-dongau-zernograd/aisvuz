@@ -317,8 +317,8 @@
   <discipline>
     <id>ФТД.1</id>
     <name>Учет в торговых организациях</name>
-    <rpfilename>ФТd1rp.pdf</rpfilename>
-    <fosfilename>ФТd1fos.pdf</fosfilename>
+    <rpfilename>ftd1rp.pdf</rpfilename>
+    <fosfilename>ftd1fos.pdf</fosfilename>
   </discipline>
   <discipline>
     <id></id>
