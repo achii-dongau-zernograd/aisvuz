@@ -149,13 +149,13 @@
   <pract>
     <id>Б2.У.1</id>
     <name>Практика по получению первичных профессиональных умений и навыков</name>
-    <rpfilename>b2urp.pdf</rpfilename>
+    <rpfilename>b2u1rp.pdf</rpfilename>
     <fosfilename>b2u1fos.pdf</fosfilename>
   </pract>
   <pract>
     <id>Б2.П.1</id>
     <name>Научно-исследовательская практика</name>
-    <rpfilename>b2prp.pdf</rpfilename>
+    <rpfilename>b2p1rp.pdf</rpfilename>
     <fosfilename>b2p1fos.pdf</fosfilename>
   </pract>
   <pract>
@@ -177,7 +177,7 @@
     <fosfilename>b2p4fos.pdf</fosfilename>
   </pract>
   <pract>
-    <id>Б2.П.5.</id>
+    <id>Б2.П.5</id>
     <name>Преддипломная практика</name>
     <rpfilename>b2p5rp.pdf</rpfilename>
     <fosfilename>b2p5fos.pdf</fosfilename>
