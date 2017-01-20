@@ -39,8 +39,6 @@ echo '<thead><tr><th>№ пп</th><th>Код</th><th>Наименование</t
 $numrow=1;
 $pathtofiles=PATH_FILESERVER.basename($_GET['xmlfile'],".xml").'/';
 
-//$mode=$_GET['mode'];//Режим отображения данных: нет-всё; pract-только практики
-//if(!isset($mode)){$mode='all';}
 $mode='all';
 if(isset($_GET['mode'])){$mode=$_GET['mode'];}
 
