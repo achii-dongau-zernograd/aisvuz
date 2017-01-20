@@ -35,22 +35,28 @@ echo '<table class="table table-bordered table-hover table-condensed"><caption>'
 . "Год начала подготовки: ".$godnachalapodgotovki."<br>"
 . '</caption>';
 echo '<thead><tr><th>№ пп</th><th>Код</th><th>Наименование</th><th>Рабочая программа</th><th>Фонд оценочных средств</th></tr></thead><tbody>';
-echo '<tr class="active"><td colspan=5><p class="text-center"><b>Учебные дисциплины</b></p></td></tr>';
 
 $numrow=1;
 $pathtofiles=PATH_FILESERVER.basename($_GET['xmlfile'],".xml").'/';
+$mode=$_GET['mode'];//Режим отображения данных: нет-всё; pract-только практики
+
 /*проходим циклом по xml документу*/
-foreach ($xml1->discipline as $discipline)
+if($mode!="pract")
 {
-    //echo'ID:'.$sort->id.' Имя:'.utf_win($sort->name, "w").'<BR>';
-    //echo 'ID:'.$sort->id.' Имя:'.$sort->name.'<BR>';
-    echo '<tr>'
-    . '<td>'.$numrow.'</td>'             // Номер строки (№ пп)
-    . '<td>'.$discipline->id.'</td>'           // Код дисциплины, практики и пр.
-    . '<td>'.$discipline->name.'</td>'         // Наименование дисциплины, практики и пр.
-    . '<td><a href="'.$pathtofiles.$discipline->rpfilename.'">Открыть</a></td>'  // Ссылка на файл рабочей программы
-    . '<td><a href="'.$pathtofiles.$discipline->fosfilename.'">Открыть</a></td></tr>';                  // Ссылка на файл фонда оценочных средств
-    $numrow++;
+    echo '<tr class="active"><td colspan=5><p class="text-center"><b>Учебные дисциплины</b></p></td></tr>';
+    
+    foreach ($xml1->discipline as $discipline)
+    {
+        //echo'ID:'.$sort->id.' Имя:'.utf_win($sort->name, "w").'<BR>';
+        //echo 'ID:'.$sort->id.' Имя:'.$sort->name.'<BR>';
+        echo '<tr>'
+        . '<td>'.$numrow.'</td>'             // Номер строки (№ пп)
+        . '<td>'.$discipline->id.'</td>'           // Код дисциплины, практики и пр.
+        . '<td>'.$discipline->name.'</td>'         // Наименование дисциплины, практики и пр.
+        . '<td><a href="'.$pathtofiles.$discipline->rpfilename.'">Открыть</a></td>'  // Ссылка на файл рабочей программы
+        . '<td><a href="'.$pathtofiles.$discipline->fosfilename.'">Открыть</a></td></tr>';                  // Ссылка на файл фонда оценочных средств
+        $numrow++;
+    }
 }
 
 echo '<tr class="active"><td colspan=5><p class="text-center"><b>Практики, НИР</b></p></td></tr>';
@@ -68,19 +74,22 @@ foreach ($xml1->pract as $pract)
     $numrow++;
 }
 
-echo '<tr class="active"><td colspan=5><p class="text-center"><b>Государственная итоговая аттестация</b></p></td></tr>';
-$numrow=1;
-foreach ($xml1->gia as $gia)
+if($mode!="pract")
 {
-    //echo'ID:'.$sort->id.' Имя:'.utf_win($sort->name, "w").'<BR>';
-    //echo 'ID:'.$sort->id.' Имя:'.$sort->name.'<BR>';
-    echo '<tr>'
-    . '<td>'.$numrow.'</td>'             // Номер строки (№ пп)
-    . '<td>'.$gia->id.'</td>'           // Код дисциплины, практики и пр.
-    . '<td>'.$gia->name.'</td>'         // Наименование дисциплины, практики и пр.
-    . '<td><a href="'.$pathtofiles.$gia->rpfilename.'">Открыть</a></td>'  // Ссылка на файл рабочей программы
-    . '<td><a href="'.$pathtofiles.$gia->fosfilename.'">Открыть</a></td></tr>';                  // Ссылка на файл фонда оценочных средств
-    $numrow++;
+    echo '<tr class="active"><td colspan=5><p class="text-center"><b>Государственная итоговая аттестация</b></p></td></tr>';
+    $numrow=1;
+    foreach ($xml1->gia as $gia)
+    {
+        //echo'ID:'.$sort->id.' Имя:'.utf_win($sort->name, "w").'<BR>';
+        //echo 'ID:'.$sort->id.' Имя:'.$sort->name.'<BR>';
+        echo '<tr>'
+        . '<td>'.$numrow.'</td>'             // Номер строки (№ пп)
+        . '<td>'.$gia->id.'</td>'           // Код дисциплины, практики и пр.
+        . '<td>'.$gia->name.'</td>'         // Наименование дисциплины, практики и пр.
+        . '<td><a href="'.$pathtofiles.$gia->rpfilename.'">Открыть</a></td>'  // Ссылка на файл рабочей программы
+        . '<td><a href="'.$pathtofiles.$gia->fosfilename.'">Открыть</a></td></tr>';                  // Ссылка на файл фонда оценочных средств
+        $numrow++;
+    }
 }
 
 echo '</tbody></table>';
