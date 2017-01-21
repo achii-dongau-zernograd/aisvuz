@@ -16,15 +16,9 @@
   </discipline>
   <discipline>
     <id>Б1.Б.2</id>
-    <name>Иностранный язык (английский)</name>
+    <name>Иностранный язык</name>
     <rpfilename>b1b2arp.pdf</rpfilename>
     <fosfilename>b1b2afos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.Б.2</id>
-    <name>Иностранный язык (немецкий)</name>
-    <rpfilename>b1b2nrp.pdf</rpfilename>
-    <fosfilename>b1b2nfos.pdf</fosfilename>
   </discipline>
   <discipline>
     <id>Б1.Б.3</id>
