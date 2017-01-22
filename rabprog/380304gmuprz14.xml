@@ -435,6 +435,12 @@
     <fosfilename>b1vdv132fos.pdf</fosfilename>
   </discipline>
   <discipline>
+    <id>ФТД.1</id>
+    <name>История Донского казачества</name>
+    <rpfilename>ftd1rp.pdf</rpfilename>
+    <fosfilename>ftd1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
     <id></id>
     <name>Элективные курсы по физической культуре</name>
     <rpfilename>b1vdvrp.pdf</rpfilename>

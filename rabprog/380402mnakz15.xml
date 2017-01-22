@@ -146,6 +146,12 @@
     <rpfilename>b1vdv52rp.pdf</rpfilename>
     <fosfilename>b1vdv52fos.pdf</fosfilename>
   </discipline>
+    <discipline>
+    <id>ФТД.1</id>
+    <name>Управление финансами на предприятии</name>
+    <rpfilename>ftd1rp.pdf</rpfilename>
+    <fosfilename>ftd1fos.pdf</fosfilename>
+  </discipline>
   <pract>
     <id>Б2.У.1</id>
     <name>Практика по получению первичных профессиональных умений и навыков</name>
