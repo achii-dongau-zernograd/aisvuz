@@ -272,6 +272,12 @@
     <rpfilename>ftd2rp.pdf</rpfilename>
     <fosfilename>ftd2fos.pdf</fosfilename>
   </discipline>
+  <discipline>
+    <id></id>
+    <name>Элективные курсы по физической культуре</name>
+    <rpfilename>efkrp.pdf</rpfilename>
+    <fosfilename>efkfos.pdf</fosfilename>
+  </discipline>
   <pract>
     <id>Б2.У.1</id>
     <name>Практика по получению первичных профессиональных умений и навыков (по информационным технологиям)</name>
@@ -325,6 +331,36 @@
     <name>Учебная практика по управлению человеческими ресурсами</name>
     <rpfilename>b2u9rp.pdf</rpfilename>
     <fosfilename>b2u9fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.1</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности (по экономике организации)</name>
+    <rpfilename>b2p1rp.pdf</rpfilename>
+    <fosfilename>b2p1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.2</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности (по менеджменту)</name>
+    <rpfilename>b2p2rp.pdf</rpfilename>
+    <fosfilename>b2p2fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.3</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности (по организации производства и управлению)</name>
+    <rpfilename>b2p3rp.pdf</rpfilename>
+    <fosfilename>b2p3fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.4</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности (по стратегическому менеджменту)</name>
+    <rpfilename>b2p4rp.pdf</rpfilename>
+    <fosfilename>b2p4fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.5</id>
+    <name>Преддипломная практика</name>
+    <rpfilename>b2p5rp.pdf</rpfilename>
+    <fosfilename>b2p5fos.pdf</fosfilename>
   </pract>
   <gia>
     <id>Б3</id>

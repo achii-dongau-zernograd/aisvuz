@@ -386,6 +386,12 @@
     <rpfilename>ftd2rp.pdf</rpfilename>
     <fosfilename>ftd2fos.pdf</fosfilename>
   </discipline>
+  <discipline>
+    <id></id>
+    <name>Элективные курсы по физической культуре</name>
+    <rpfilename>efkrp.pdf</rpfilename>
+    <fosfilename>efkfos.pdf</fosfilename>
+  </discipline>
   <pract>
     <id>Б2.У.1</id>
     <name>Практика по получению первичных профессиональных умений и навыков (Учебно-ознакомительная практика)</name>
