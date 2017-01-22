@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - магистратура</uroven>
+    <napravlenie>35.04.06 — Агроинженерия</napravlenie>
+    <profil>Электрооборудование и электротехнологии</profil>
+    <programma>---Выберите программу подготовки---</programma>
+    <formaobucheniya>Заочная</formaobucheniya>
+    <godnachalapodgotovki>2016</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.01</id>
+    <name>Логика и методология науки</name>
+    <rpfilename>b1b01rp.pdf</rpfilename>
+    <fosfilename>b1b01fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.02</id>
+    <name>Современные проблемы науки и производства в агроинженерии</name>
+    <rpfilename>b1b02rp.pdf</rpfilename>
+    <fosfilename>b1b02fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.03</id>
+    <name>Иностранный язык</name>
+    <rpfilename>b1b03rp.pdf</rpfilename>
+    <fosfilename>b1b03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.04</id>
+    <name>Анализ и прогнозирование экономических эффектов</name>
+    <rpfilename>b1b04rp.pdf</rpfilename>
+    <fosfilename>b1b04fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.05</id>
+    <name>Теория инженерного эксперимента</name>
+    <rpfilename>b1b05rp.pdf</rpfilename>
+    <fosfilename>b1b05fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.06</id>
+    <name>Компьютерные, сетевые и информационные технологии</name>
+    <rpfilename>b1b06rp.pdf</rpfilename>
+    <fosfilename>b1b06fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.01</id>
+    <name>Моделирование систем электрификации объектов АПК</name>
+    <rpfilename>b1v01rp.pdf</rpfilename>
+    <fosfilename>b1v01fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.02</id>
+    <name>Технические средства получения и обработки информации в агроинженерии</name>
+    <rpfilename>b1v02rp.pdf</rpfilename>
+    <fosfilename>b1v02fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.03</id>
+    <name>Применение оптического излучения в АПК</name>
+    <rpfilename>b1v03rp.pdf</rpfilename>
+    <fosfilename>b1v03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.04</id>
+    <name>Специализированное программное обеспечение для научных исследований</name>
+    <rpfilename>b1v04rp.pdf</rpfilename>
+    <fosfilename>b1v04fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.05</id>
+    <name>Энергосбережение и регулирование в электроприводах</name>
+    <rpfilename>b1v05rp.pdf</rpfilename>
+    <fosfilename>b1v05fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.06</id>
+    <name>Электросбережение и управление качеством электроэнергии при ее передаче и потреблении</name>
+    <rpfilename>b1v06rp.pdf</rpfilename>
+    <fosfilename>b1v06fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.01.01</id>
+    <name>Педагогика высшей школы</name>
+    <rpfilename>b1vdv0101rp.pdf</rpfilename>
+    <fosfilename>b1vdv0101fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.01.02</id>
+    <name>Психология высшей школы</name>
+    <rpfilename>b1vdv0102rp.pdf</rpfilename>
+    <fosfilename>b1vdv0102fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.02.01</id>
+    <name>Энергоэффективность и энергоаудит</name>
+    <rpfilename>b1vdv0201rp.pdf</rpfilename>
+    <fosfilename>b1vdv0201fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.02.02</id>
+    <name>Управление качеством электроэнергии</name>
+    <rpfilename>b1vdv0202rp.pdf</rpfilename>
+    <fosfilename>b1vdv0202fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.03.01</id>
+    <name>АСУ в АПК</name>
+    <rpfilename>b1vdv0301rp.pdf</rpfilename>
+    <fosfilename>b1vdv0301fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.03.02</id>
+    <name>Микропроцессорные устройства в АПК</name>
+    <rpfilename>b1vdv0302rp.pdf</rpfilename>
+    <fosfilename>b1vdv0302fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.04.01</id>
+    <name>Менеждмент в агроинженерии</name>
+    <rpfilename>b1vdv0401rp.pdf</rpfilename>
+    <fosfilename>b1vdv0401fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.04.02</id>
+    <name>Технико-экономические расчеты в электроснабжении</name>
+    <rpfilename>b1vdv0402rp.pdf</rpfilename>
+    <fosfilename>b1vdv0402fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.05.01</id>
+    <name>Электротехнологии и электропривод в АПК</name>
+    <rpfilename>b1vdv0501rp.pdf</rpfilename>
+    <fosfilename>b1vdv0501fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.05.02</id>
+    <name>Современные компьютерные технологии в энергетике АПК (АСКУЭ)</name>
+    <rpfilename>b1vdv0502rp.pdf</rpfilename>
+    <fosfilename>b1vdv0502fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.06.01</id>
+    <name>Основы технической диагностики и безопасной эксплуатации электрооборудования АПК</name>
+    <rpfilename>b1vdv0601rp.pdf</rpfilename>
+    <fosfilename>b1vdv0601fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.06.02</id>
+    <name>Проблемы эксплуатации электроэнергетических систем</name>
+    <rpfilename>b1vdv0602rp.pdf</rpfilename>
+    <fosfilename>b1vdv0602fos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.В.01(Н)</id>
+    <name>Научно-исследовательская работа</name>
+    <rpfilename>b2v01nrp.pdf</rpfilename>
+    <fosfilename>b2v01nfos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.02(П)</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности</name>
+    <rpfilename>b2v02prp.pdf</rpfilename>
+    <fosfilename>b2v02pfos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.03(П)</id>
+    <name>Технологическая</name>
+    <rpfilename>b2v03prp.pdf</rpfilename>
+    <fosfilename>b2v03pfos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.04(П)</id>
+    <name>Педагогическая</name>
+    <rpfilename>b2v04prp.pdf</rpfilename>
+    <fosfilename>b2v04pfos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.05(Пд)</id>
+    <name>Преддипломная</name>
+    <rpfilename>b2v05pdrp.pdf</rpfilename>
+    <fosfilename>b2v05pdfos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б3.Б.01</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3b01rp.pdf</rpfilename>
+    <fosfilename>b3b01fos.pdf</fosfilename>
+  </gia>
+</uchplan>
