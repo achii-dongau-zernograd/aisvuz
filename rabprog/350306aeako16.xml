@@ -171,6 +171,12 @@
     <fosfilename>b1v09fos.pdf</fosfilename>
   </discipline>
   <discipline>
+    <id></id>
+    <name></name>
+    <rpfilename></rpfilename>
+    <fosfilename>b1v092fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
     <id>Б1.В.10</id>
     <name>Эксплуатация электрооборудования и средств автоматизации</name>
     <rpfilename>b1v10rp.pdf</rpfilename>

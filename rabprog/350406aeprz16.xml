@@ -22,9 +22,15 @@
   </discipline>
   <discipline>
     <id>Б1.Б.03</id>
-    <name>Иностранный язык</name>
+    <name>Иностранный язык (английский)</name>
     <rpfilename>b1b03rp.pdf</rpfilename>
     <fosfilename>b1b03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.03</id>
+    <name>Иностранный язык (немецкий)</name>
+    <rpfilename>b1b03nrp.pdf</rpfilename>
+    <fosfilename>b1b03nfos.pdf</fosfilename>
   </discipline>
   <discipline>
     <id>Б1.Б.04</id>

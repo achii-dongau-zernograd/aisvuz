@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - магистратура</uroven>
+    <napravlenie>13.04.01 — Теплоэнергетика и теплотехника</napravlenie>
+    <profil>Энергообеспечение предприятий</profil>
+    <programma>Академическая магистратура</programma>
+    <formaobucheniya>Очная</formaobucheniya>
+    <godnachalapodgotovki>2016</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.01</id>
+    <name>Историко-философские аспекты научного знания</name>
+    <rpfilename>b1b01rp.pdf</rpfilename>
+    <fosfilename>b1b01fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.02</id>
+    <name>Иностранный язык</name>
+    <rpfilename>b1b02rp.pdf</rpfilename>
+    <fosfilename>b1b02fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.03</id>
+    <name>Экономика и управление производством</name>
+    <rpfilename>b1b03rp.pdf</rpfilename>
+    <fosfilename>b1b03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.04</id>
+    <name>Математическое моделирование</name>
+    <rpfilename>b1b04rp.pdf</rpfilename>
+    <fosfilename>b1b04fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.05</id>
+    <name>Современные проблемы теплоэнергетики, теплотехники и теплотехнологий</name>
+    <rpfilename>b1b05rp.pdf</rpfilename>
+    <fosfilename>b1b05fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.06</id>
+    <name>Проблемы энерго- и ресурсосбережения в теплоэнергетике, теплотехнике и теплотехнологии</name>
+    <rpfilename>b1b06rp.pdf</rpfilename>
+    <fosfilename>b1b06fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.07</id>
+    <name>Принципы эффективного управления технологическими процессами в теплоэнергетике, теплотехники и теплотехнологии</name>
+    <rpfilename>b1b07rp.pdf</rpfilename>
+    <fosfilename>b1b07fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.01</id>
+    <name>Энергоустановки систем теплоснабжения</name>
+    <rpfilename>b1v01rp.pdf</rpfilename>
+    <fosfilename>b1v01fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.02</id>
+    <name>Оптимизация параметров теплоэнергетических установок</name>
+    <rpfilename>b1v02rp.pdf</rpfilename>
+    <fosfilename>b1v02fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.03</id>
+    <name>Термодинамические и тепломассообменные неравновесные процессы</name>
+    <rpfilename>b1v03rp.pdf</rpfilename>
+    <fosfilename>b1v03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.04</id>
+    <name>Разработка высокоэкономичных и экологически безопасных энергетических установок</name>
+    <rpfilename>b1v04rp.pdf</rpfilename>
+    <fosfilename>b1v04fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.05</id>
+    <name>Экологическая безопасность</name>
+    <rpfilename>b1v05rp.pdf</rpfilename>
+    <fosfilename>b1v05fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.01.01</id>
+    <name>Экологические проблемы в теплоэнергетике</name>
+    <rpfilename>b1vdv0101rp.pdf</rpfilename>
+    <fosfilename>b1vdv0101fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.01.02</id>
+    <name>Экология в теплотехнике</name>
+    <rpfilename>b1vdv0102rp.pdf</rpfilename>
+    <fosfilename>b1vdv0102fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.02.01</id>
+    <name>История и методология науки (на примере теплоэнергетики и теплотехники)</name>
+    <rpfilename>b1vdv0201rp.pdf</rpfilename>
+    <fosfilename>b1vdv0201fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.02.02</id>
+    <name>Методологические основы науки теплоэнергетика</name>
+    <rpfilename>b1vdv0202rp.pdf</rpfilename>
+    <fosfilename>b1vdv0202fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.03.01</id>
+    <name>Конструирование энергетического оборудования и установок</name>
+    <rpfilename>b1vdv0301rp.pdf</rpfilename>
+    <fosfilename>b1vdv0301fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.03.02</id>
+    <name>Физико-химические основы технологии воды</name>
+    <rpfilename>b1vdv0302rp.pdf</rpfilename>
+    <fosfilename>b1vdv0302fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.04.01</id>
+    <name>Педагогика высшей школы</name>
+    <rpfilename>b1vdv0401rp.pdf</rpfilename>
+    <fosfilename>b1vdv0401fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.04.02</id>
+    <name>Трудовое право</name>
+    <rpfilename>b1vdv0402rp.pdf</rpfilename>
+    <fosfilename>b1vdv0402fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.05.01</id>
+    <name>Методы и средства теплотехнических исследований</name>
+    <rpfilename>b1vdv0501rp.pdf</rpfilename>
+    <fosfilename>b1vdv0501fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.05.02</id>
+    <name>Теплотехнические исследования</name>
+    <rpfilename>b1vdv0502rp.pdf</rpfilename>
+    <fosfilename>b1vdv0502fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.06.01</id>
+    <name>Энергосберегающие технологии и энергоаудит</name>
+    <rpfilename>b1vdv0601rp.pdf</rpfilename>
+    <fosfilename>b1vdv0601fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.06.02</id>
+    <name>Энергоаудит</name>
+    <rpfilename>b1vdv0602rp.pdf</rpfilename>
+    <fosfilename>b1vdv0602fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.07.01</id>
+    <name>Перспективное использование различных видов первичных энергоресурсов для производства тепловой и электрической энергии</name>
+    <rpfilename>b1vdv0701rp.pdf</rpfilename>
+    <fosfilename>b1vdv0701fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.07.02</id>
+    <name>Водоподготовка и воднохимические режимы теплоэнергетических установок</name>
+    <rpfilename>b1vdv0702rp.pdf</rpfilename>
+    <fosfilename>b1vdv0702fos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.В.01(У)</id>
+    <name>Практика по получению первичных профессиональных умений и навыков</name>
+    <rpfilename>b2v01urp.pdf</rpfilename>
+    <fosfilename>b2v01ufos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.02(Н)</id>
+    <name>Научно-исследовательская работа</name>
+    <rpfilename>b2v02nrp.pdf</rpfilename>
+    <fosfilename>b2v02nfos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.03(П)</id>
+    <name>Практика по получению профессиональных умений и опыта</name>
+    <rpfilename>b2v03prp.pdf</rpfilename>
+    <fosfilename>b2v03pfos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.04(Пд)</id>
+    <name>Преддипломная</name>
+    <rpfilename>b2v04pdrp.pdf</rpfilename>
+    <fosfilename>b2v04pdfos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б3.Б.01</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3b01rp.pdf</rpfilename>
+    <fosfilename>b3b01fos.pdf</fosfilename>
+  </gia>
+</uchplan>
