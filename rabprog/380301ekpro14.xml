@@ -401,8 +401,8 @@
   <discipline>
     <id></id>
     <name>Элективные курсы по физической культуре</name>
-    <rpfilename>efkrp.pdf</rpfilename>
-    <fosfilename>efkfos.pdf</fosfilename>
+    <rpfilename>efKrp.pdf</rpfilename>
+    <fosfilename>efKfos.pdf</fosfilename>
   </discipline>
   <pract>
     <id>Б2.У.1</id>
