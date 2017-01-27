@@ -164,6 +164,12 @@
     <rpfilename>b1vdv62rp.pdf</rpfilename>
     <fosfilename>b1vdv62fos.pdf</fosfilename>
   </discipline>
+  <discipline>
+    <id>ФТД.1</id>
+    <name>Международная учетная практика</name>
+    <rpfilename>ftd1rp.pdf</rpfilename>
+    <fosfilename>ftd1fos.pdf</fosfilename>
+  </discipline>
   <pract>
     <id>Б2.У.1</id>
     <name>Практика по получению первичных профессиональных умений и навыков</name>
