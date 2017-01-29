@@ -452,6 +452,12 @@
     <rpfilename>ftd1rp.pdf</rpfilename>
     <fosfilename>ftd1fos.pdf</fosfilename>
   </discipline>
+  <discipline>
+    <id>ФТД.2</id>
+    <name>Учет и анализ банкротств</name>
+    <rpfilename>ftd2rp.pdf</rpfilename>
+    <fosfilename>ftd2fos.pdf</fosfilename>
+  </discipline>
   <pract>
     <id>С5.У.1</id>
     <name>Учебно-ознакомительная практика</name>

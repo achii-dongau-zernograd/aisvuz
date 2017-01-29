@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - бакалавриат</uroven>
+    <napravlenie>13.03.02 — Электроэнергетика и электротехника</napravlenie>
+    <profil>Электроснабжение</profil>
+    <programma>Прикладной бакалавриат</programma>
+    <formaobucheniya>Очная</formaobucheniya>
+    <godnachalapodgotovki>2015</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.01</id>
+    <name>История</name>
+    <rpfilename>b1b01rp.pdf</rpfilename>
+    <fosfilename>b1b01fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.02</id>
+    <name>Философия</name>
+    <rpfilename>b1b02rp.pdf</rpfilename>
+    <fosfilename>b1b02fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.03</id>
+    <name>Иностранный язык</name>
+    <rpfilename>b1b03rp.pdf</rpfilename>
+    <fosfilename>b1b03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.04</id>
+    <name>Экономика</name>
+    <rpfilename>b1b04rp.pdf</rpfilename>
+    <fosfilename>b1b04fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.05</id>
+    <name>Математика</name>
+    <rpfilename>b1b05rp.pdf</rpfilename>
+    <fosfilename>b1b05fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.06</id>
+    <name>Физика</name>
+    <rpfilename>b1b06rp.pdf</rpfilename>
+    <fosfilename>b1b06fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.07</id>
+    <name>Химия</name>
+    <rpfilename>b1b07rp.pdf</rpfilename>
+    <fosfilename>b1b07fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.08</id>
+    <name>Экология</name>
+    <rpfilename>b1b08rp.pdf</rpfilename>
+    <fosfilename>b1b08fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.09</id>
+    <name>Информатика</name>
+    <rpfilename>b1b09rp.pdf</rpfilename>
+    <fosfilename>b1b09fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.10</id>
+    <name>Теоретические основы электротехники</name>
+    <rpfilename>b1b10rp.pdf</rpfilename>
+    <fosfilename>b1b10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.11</id>
+    <name>Электротехническое и конструкционное материаловедение</name>
+    <rpfilename>b1b11rp.pdf</rpfilename>
+    <fosfilename>b1b11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.12</id>
+    <name>Электрические машины</name>
+    <rpfilename>b1b12rp.pdf</rpfilename>
+    <fosfilename>b1b12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.13</id>
+    <name>Безопасность жизнедеятельности</name>
+    <rpfilename>b1b13rp.pdf</rpfilename>
+    <fosfilename>b1b13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.14</id>
+    <name>Электрические станции и подстанции</name>
+    <rpfilename>b1b14rp.pdf</rpfilename>
+    <fosfilename>b1b14fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.15</id>
+    <name>Электроэнергетические системы и сети</name>
+    <rpfilename>b1b15rp.pdf</rpfilename>
+    <fosfilename>b1b15fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.16</id>
+    <name>Релейная защита и автоматизация электроэнергетических систем</name>
+    <rpfilename>b1b16rp.pdf</rpfilename>
+    <fosfilename>b1b16fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.17</id>
+    <name>Техника высоких напряжений</name>
+    <rpfilename>b1b17rp.pdf</rpfilename>
+    <fosfilename>b1b17fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.18</id>
+    <name>Электроснабжение</name>
+    <rpfilename>b1b18rp.pdf</rpfilename>
+    <fosfilename>b1b18fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.19</id>
+    <name>Физическая культура</name>
+    <rpfilename>b1b19rp.pdf</rpfilename>
+    <fosfilename>b1b19fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.20</id>
+    <name>Правоведение</name>
+    <rpfilename>b1b20rp.pdf</rpfilename>
+    <fosfilename>b1b20fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.21</id>
+    <name>Надежность электроснабжения</name>
+    <rpfilename>b1b21rp.pdf</rpfilename>
+    <fosfilename>b1b21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.01</id>
+    <name>Менеджмент в электроэнергетике</name>
+    <rpfilename>b1v01rp.pdf</rpfilename>
+    <fosfilename>b1v01fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.02</id>
+    <name>Теоретическая механика</name>
+    <rpfilename>b1v02rp.pdf</rpfilename>
+    <fosfilename>b1v02fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.03</id>
+    <name>Техническая электродинамика</name>
+    <rpfilename>b1v03rp.pdf</rpfilename>
+    <fosfilename>b1v03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.04</id>
+    <name>Спецматематика</name>
+    <rpfilename>b1v04rp.pdf</rpfilename>
+    <fosfilename>b1v04fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.05</id>
+    <name>Информационные технологии</name>
+    <rpfilename>b1v05rp.pdf</rpfilename>
+    <fosfilename>b1v05fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.06</id>
+    <name>Начертательная геометрия. Инженерная и компьютерная графика</name>
+    <rpfilename>b1v06rp.pdf</rpfilename>
+    <fosfilename>b1v06fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.07</id>
+    <name>Прикладная механика</name>
+    <rpfilename>b1v07rp.pdf</rpfilename>
+    <fosfilename>b1v07fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.08</id>
+    <name>Метрология, стандартизация и сертификация</name>
+    <rpfilename>b1v08rp.pdf</rpfilename>
+    <fosfilename>b1v08fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.09</id>
+    <name>Электроника</name>
+    <rpfilename>b1v09rp.pdf</rpfilename>
+    <fosfilename>b1v09fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.10</id>
+    <name>Приемники и потребители электрической энергии систем электроснабжения</name>
+    <rpfilename>b1v10rp.pdf</rpfilename>
+    <fosfilename>b1v10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.11</id>
+    <name>Электромагнитные переходные процессы в электроэнергетических системах</name>
+    <rpfilename>b1v11rp.pdf</rpfilename>
+    <fosfilename>b1v11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.12</id>
+    <name>Электромеханические переходные процессы в электроэнергетических системах</name>
+    <rpfilename>b1v12rp.pdf</rpfilename>
+    <fosfilename>b1v12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.13</id>
+    <name>Системы электроснабжения городов и промышленных предприятий</name>
+    <rpfilename>b1v13rp.pdf</rpfilename>
+    <fosfilename>b1v13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.14</id>
+    <name>Эксплуатация систем электроснабжения</name>
+    <rpfilename>b1v14rp.pdf</rpfilename>
+    <fosfilename>b1v14fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.15</id>
+    <name>Прикладные вопросы электротехники</name>
+    <rpfilename>b1v15rp.pdf</rpfilename>
+    <fosfilename>b1v15fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.16</id>
+    <name>Общая энергетика</name>
+    <rpfilename>b1v16rp.pdf</rpfilename>
+    <fosfilename>b1v16fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.17</id>
+    <name>Элективные курсы по физической культуре</name>
+    <rpfilename>b1v17rp.pdf</rpfilename>
+    <fosfilename>b1v17fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.01.01</id>
+    <name>Русский язык и культура речи</name>
+    <rpfilename>b1vdv0101rp.pdf</rpfilename>
+    <fosfilename>b1vdv0101fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.01.02</id>
+    <name>Риторика</name>
+    <rpfilename>b1vdv0102rp.pdf</rpfilename>
+    <fosfilename>b1vdv0102fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.02.01</id>
+    <name>Культурология</name>
+    <rpfilename>b1vdv0201rp.pdf</rpfilename>
+    <fosfilename>b1vdv0201fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.02.02</id>
+    <name>Деловой этикет</name>
+    <rpfilename>b1vdv0202rp.pdf</rpfilename>
+    <fosfilename>b1vdv0202fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.03.01</id>
+    <name>Политология и социология</name>
+    <rpfilename>b1vdv0301rp.pdf</rpfilename>
+    <fosfilename>b1vdv0301fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.03.02</id>
+    <name>Российское политическая система</name>
+    <rpfilename>b1vdv0302rp.pdf</rpfilename>
+    <fosfilename>b1vdv0302fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.04.01</id>
+    <name>Психология и педагогика</name>
+    <rpfilename>b1vdv0401rp.pdf</rpfilename>
+    <fosfilename>b1vdv0401fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.04.02</id>
+    <name>Психология управления</name>
+    <rpfilename>b1vdv0402rp.pdf</rpfilename>
+    <fosfilename>b1vdv0402fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.05.01</id>
+    <name>История электротехники</name>
+    <rpfilename>b1vdv0501rp.pdf</rpfilename>
+    <fosfilename>b1vdv0501fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.05.02</id>
+    <name>История электрификации России</name>
+    <rpfilename>b1vdv0502rp.pdf</rpfilename>
+    <fosfilename>b1vdv0502fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.06.01</id>
+    <name>Основы научных исследований</name>
+    <rpfilename>b1vdv0601rp.pdf</rpfilename>
+    <fosfilename>b1vdv0601fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.06.02</id>
+    <name>Основы обработки результатов научных исследований</name>
+    <rpfilename>b1vdv0602rp.pdf</rpfilename>
+    <fosfilename>b1vdv0602fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.07.01</id>
+    <name>Прикладные компьютерные программы в электротехнике</name>
+    <rpfilename>b1vdv0701rp.pdf</rpfilename>
+    <fosfilename>b1vdv0701fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.07.02</id>
+    <name>Прикладные пакеты графических редакторов в электротехнике</name>
+    <rpfilename>b1vdv0702rp.pdf</rpfilename>
+    <fosfilename>b1vdv0702fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.08.01</id>
+    <name>Прикладная электроника</name>
+    <rpfilename>b1vdv0801rp.pdf</rpfilename>
+    <fosfilename>b1vdv0801fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.08.02</id>
+    <name>Электронные устройства в АПК</name>
+    <rpfilename>b1vdv0802rp.pdf</rpfilename>
+    <fosfilename>b1vdv0802fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.09.01</id>
+    <name>Современные технологии монтажа в электроэнергетике</name>
+    <rpfilename>b1vdv0901rp.pdf</rpfilename>
+    <fosfilename>b1vdv0901fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.09.02</id>
+    <name>Монтаж электрооборудования и средств автоматизации</name>
+    <rpfilename>b1vdv0902rp.pdf</rpfilename>
+    <fosfilename>b1vdv0902fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.10.01</id>
+    <name>Электрические аппараты и электропривод в АПК</name>
+    <rpfilename>b1vdv1001rp.pdf</rpfilename>
+    <fosfilename>b1vdv1001fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.10.02</id>
+    <name>Электротехнологии и электропривод в АПК</name>
+    <rpfilename>b1vdv1002rp.pdf</rpfilename>
+    <fosfilename>b1vdv1002fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.11.01</id>
+    <name>Управление режимами электроэнергетических систем</name>
+    <rpfilename>b1vdv1101rp.pdf</rpfilename>
+    <fosfilename>b1vdv1101fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.11.02</id>
+    <name>Оперативное управление в электроэнергетике</name>
+    <rpfilename>b1vdv1102rp.pdf</rpfilename>
+    <fosfilename>b1vdv1102fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.12.01</id>
+    <name>Электромагнитная совместимость в электроэнергетике</name>
+    <rpfilename>b1vdv1201rp.pdf</rpfilename>
+    <fosfilename>b1vdv1201fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.12.02</id>
+    <name>Управление качеством электрической энергии</name>
+    <rpfilename>b1vdv1202rp.pdf</rpfilename>
+    <fosfilename>b1vdv1202fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.13.01</id>
+    <name>Энергосбытовая деятельность в электроэнергетике</name>
+    <rpfilename>b1vdv1301rp.pdf</rpfilename>
+    <fosfilename>b1vdv1301fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.13.02</id>
+    <name>Энергосбережение</name>
+    <rpfilename>b1vdv1302rp.pdf</rpfilename>
+    <fosfilename>b1vdv1302fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>ФТД.В.01</id>
+    <name>История Донского казачества</name>
+    <rpfilename>ftdv01rp.pdf</rpfilename>
+    <fosfilename>ftdv01fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>ФТД.В.02</id>
+    <name>Организация работы персонала распределительных сетей</name>
+    <rpfilename>ftdv02rp.pdf</rpfilename>
+    <fosfilename>ftdv02fos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.В.01(У)</id>
+    <name>Практика по получению первичных профессиональных умений и навыков</name>
+    <rpfilename>b2v01urp.pdf</rpfilename>
+    <fosfilename>b2v01urp.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.02(П)</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности</name>
+    <rpfilename>b2v02prp.pdf</rpfilename>
+    <fosfilename>b2v02prp.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.03(П)</id>
+    <name>Производственная</name>
+    <rpfilename>b2v03prp.pdf</rpfilename>
+    <fosfilename>b2v03prp.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.04(Пд)</id>
+    <name>Преддипломная</name>
+    <rpfilename>b2v04pdrp.pdf</rpfilename>
+    <fosfilename>b2v04pdrp.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б3.Б.02</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3b02rp.pdf</rpfilename>
+    <fosfilename>b3b02fos.pdf</fosfilename>
+  </gia>
+</uchplan>
