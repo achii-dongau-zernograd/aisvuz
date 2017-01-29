@@ -129,6 +129,102 @@
     <fosfilename>b1b20fos.pdf</fosfilename>
   </discipline>
   <discipline>
+    <id>Б1.В.ОД.1</id>
+    <name>Экономика отрасли (экономика технического сервиса)</name>
+    <rpfilename>b1vod1rp.pdf</rpfilename>
+    <fosfilename>b1vod1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.2</id>
+    <name>Информатика</name>
+    <rpfilename>b1vod2rp.pdf</rpfilename>
+    <fosfilename>b1vod2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3.1</id>
+    <name>Теория механизмов и машин</name>
+    <rpfilename>b1vod31rp.pdf</rpfilename>
+    <fosfilename>b1vod31fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3.2</id>
+    <name>Сопротивление материалов</name>
+    <rpfilename>b1vod32rp.pdf</rpfilename>
+    <fosfilename>b1vod32fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3.3</id>
+    <name>Детали машин и основы конструирования</name>
+    <rpfilename>b1vod33rp.pdf</rpfilename>
+    <fosfilename>b1vod33fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.4.1</id>
+    <name>Технология растениеводства</name>
+    <rpfilename>b1vod41rp.pdf</rpfilename>
+    <fosfilename>b1vod41fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.4.2</id>
+    <name>Технология животноводства</name>
+    <rpfilename>b1vod42rp.pdf</rpfilename>
+    <fosfilename>b1vod42fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.5.1</id>
+    <name>Тракторы и автомобили</name>
+    <rpfilename>b1vod51rp.pdf</rpfilename>
+    <fosfilename>b1vod51fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.5.2</id>
+    <name>Машины и оборудование в растениеводстве</name>
+    <rpfilename>b1vod52rp.pdf</rpfilename>
+    <fosfilename>b1vod52fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.5.3</id>
+    <name>Машины и оборудование в животноводстве</name>
+    <rpfilename>b1vod53rp.pdf</rpfilename>
+    <fosfilename>b1vod53fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.6</id>
+    <name>Электротехника и электроника</name>
+    <rpfilename>b1vod6rp.pdf</rpfilename>
+    <fosfilename>b1vod6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.7</id>
+    <name>Электропривод и электрооборудование</name>
+    <rpfilename>b1vod7rp.pdf</rpfilename>
+    <fosfilename>b1vod7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.8</id>
+    <name>Организация и управление на предприятиях технического сервиса</name>
+    <rpfilename>b1vod8rp.pdf</rpfilename>
+    <fosfilename>b1vod8fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.9</id>
+    <name>Диагностика и техническое обслуживание машин</name>
+    <rpfilename>b1vod9rp.pdf</rpfilename>
+    <fosfilename>b1vod9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.10</id>
+    <name>Технология сельскохозяйственного машиностроения</name>
+    <rpfilename>b1vod10rp.pdf</rpfilename>
+    <fosfilename>b1vod10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.11</id>
+    <name>Биология с основами экологии</name>
+    <rpfilename>b1vod11rp.pdf</rpfilename>
+    <fosfilename>b1vod11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
     <id>Б1.В.ДВ.1.1</id>
     <name>Культурология</name>
     <rpfilename>b1vdv11rp.pdf</rpfilename>
@@ -295,102 +391,6 @@
     <name>Иностранный язык в техническом сервисе</name>
     <rpfilename>b1vdv142rp.pdf</rpfilename>
     <fosfilename>b1vdv142fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.1</id>
-    <name>Экономика отрасли (экономика технического сервиса)</name>
-    <rpfilename>b1vod1rp.pdf</rpfilename>
-    <fosfilename>b1vod1fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.2</id>
-    <name>Информатика</name>
-    <rpfilename>b1vod2rp.pdf</rpfilename>
-    <fosfilename>b1vod2fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.3.1</id>
-    <name>Теория механизмов и машин</name>
-    <rpfilename>b1vod31rp.pdf</rpfilename>
-    <fosfilename>b1vod31fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.3.2</id>
-    <name>Сопротивление материалов</name>
-    <rpfilename>b1vod32rp.pdf</rpfilename>
-    <fosfilename>b1vod32fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.3.3</id>
-    <name>Детали машин и основы конструирования</name>
-    <rpfilename>b1vod33rp.pdf</rpfilename>
-    <fosfilename>b1vod33fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.4.1</id>
-    <name>Технология растениеводства</name>
-    <rpfilename>b1vod41rp.pdf</rpfilename>
-    <fosfilename>b1vod41fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.4.2</id>
-    <name>Технология животноводства</name>
-    <rpfilename>b1vod42rp.pdf</rpfilename>
-    <fosfilename>b1vod42fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.5.1</id>
-    <name>Тракторы и автомобили</name>
-    <rpfilename>b1vod51rp.pdf</rpfilename>
-    <fosfilename>b1vod51fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.5.2</id>
-    <name>Машины и оборудование в растениеводстве</name>
-    <rpfilename>b1vod52rp.pdf</rpfilename>
-    <fosfilename>b1vod52fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.5.3</id>
-    <name>Машины и оборудование в животноводстве</name>
-    <rpfilename>b1vod53rp.pdf</rpfilename>
-    <fosfilename>b1vod53fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.6</id>
-    <name>Электротехника и электроника</name>
-    <rpfilename>b1vod6rp.pdf</rpfilename>
-    <fosfilename>b1vod6fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.7</id>
-    <name>Электропривод и электрооборудование</name>
-    <rpfilename>b1vod7rp.pdf</rpfilename>
-    <fosfilename>b1vod7fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.8</id>
-    <name>Организация и управление на предприятиях технического сервиса</name>
-    <rpfilename>b1vod8rp.pdf</rpfilename>
-    <fosfilename>b1vod8fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.9</id>
-    <name>Диагностика и техническое обслуживание машин</name>
-    <rpfilename>b1vod9rp.pdf</rpfilename>
-    <fosfilename>b1vod9fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.10</id>
-    <name>Технология сельскохозяйственного машиностроения</name>
-    <rpfilename>b1vod10rp.pdf</rpfilename>
-    <fosfilename>b1vod10fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.11</id>
-    <name>Биология с основами экологии</name>
-    <rpfilename>b1vod11rp.pdf</rpfilename>
-    <fosfilename>b1vod11fos.pdf</fosfilename>
   </discipline>
   <discipline>
     <id>ФТД.1</id>
