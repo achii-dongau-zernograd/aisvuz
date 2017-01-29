@@ -1,0 +1,167 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - магистратура</uroven>
+    <napravlenie>35.04.06 — Агроинженерия</napravlenie>
+    <profil>Технологии и технические средства производства сельскохозяйственной продукции</profil>
+    <programma>Академическая магистратура</programma>
+    <formaobucheniya>Очная</formaobucheniya>
+    <godnachalapodgotovki>2016</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.1</id>
+    <name>Логика и методология науки</name>
+    <rpfilename>b1b1rp.pdf</rpfilename>
+    <fosfilename>b1b1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.2</id>
+    <name>Современные проблемы науки и производства в агроинженерии</name>
+    <rpfilename>b1b2rp.pdf</rpfilename>
+    <fosfilename>b1b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.3</id>
+    <name>Иностранный язык</name>
+    <rpfilename>b1b3rp.pdf</rpfilename>
+    <fosfilename>b1b3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.4</id>
+    <name>Анализ и прогнозирование экономических эффектов</name>
+    <rpfilename>b1b4rp.pdf</rpfilename>
+    <fosfilename>b1b4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.5</id>
+    <name>Теория инженерного эксперимента</name>
+    <rpfilename>b1b5rp.pdf</rpfilename>
+    <fosfilename>b1b5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.6</id>
+    <name>Компьютерные, сетевые и информационные технологии</name>
+    <rpfilename>b1b6rp.pdf</rpfilename>
+    <fosfilename>b1b6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.1</id>
+    <name>Педагогика высшей школы</name>
+    <rpfilename>b1vdv11rp.pdf</rpfilename>
+    <fosfilename>b1vdv11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.2</id>
+    <name>Психология высшей школы</name>
+    <rpfilename>b1vdv12rp.pdf</rpfilename>
+    <fosfilename>b1vdv12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.1</id>
+    <name>Теория принятия оптимальных решений</name>
+    <rpfilename>b1vdv21rp.pdf</rpfilename>
+    <fosfilename>b1vdv21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.2</id>
+    <name>Оптимальные решения в машинно-технологических системах</name>
+    <rpfilename>b1vdv22rp.pdf</rpfilename>
+    <fosfilename>b1vdv22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.1</id>
+    <name>Экология в агроинженерии</name>
+    <rpfilename>b1vdv31rp.pdf</rpfilename>
+    <fosfilename>b1vdv31fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.2</id>
+    <name>Энергосбережение и ресурсосбережение в агроинженерии</name>
+    <rpfilename>b1vdv32rp.pdf</rpfilename>
+    <fosfilename>b1vdv32fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.1</id>
+    <name>Проектирование технических средств агропромышленного комплекса</name>
+    <rpfilename>b1vdv41rp.pdf</rpfilename>
+    <fosfilename>b1vdv41fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.2</id>
+    <name>Система машин в АПК</name>
+    <rpfilename>b1vdv42rp.pdf</rpfilename>
+    <fosfilename>b1vdv42fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.1</id>
+    <name>Технологии и средства механизации сельскохозяйственного производства</name>
+    <rpfilename>b1vod1rp.pdf</rpfilename>
+    <fosfilename>b1vod1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.2</id>
+    <name>Методика исследований и испытаний сельскохозяйственной техники</name>
+    <rpfilename>b1vod2rp.pdf</rpfilename>
+    <fosfilename>b1vod2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3</id>
+    <name>Надежность машин и оборудования</name>
+    <rpfilename>b1vod3rp.pdf</rpfilename>
+    <fosfilename>b1vod3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.4</id>
+    <name>Механико-математическое моделирование конструктивно-технологических схем сельскохозяйственных машин</name>
+    <rpfilename>b1vod4rp.pdf</rpfilename>
+    <fosfilename>b1vod4fos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.П.1</id>
+    <name>Научно-исследовательская работа</name>
+    <rpfilename>b2p1rp.pdf</rpfilename>
+    <fosfilename>b2p1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.2</id>
+    <name>Научно-исследовательская и опытно-конструкторская практика</name>
+    <rpfilename>b2p2rp.pdf</rpfilename>
+    <fosfilename>b2p2fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.3</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности</name>
+    <rpfilename>b2p3rp.pdf</rpfilename>
+    <fosfilename>b2p3fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.4</id>
+    <name>Педагогическая практика</name>
+    <rpfilename>b2p4rp.pdf</rpfilename>
+    <fosfilename>b2p4fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.5</id>
+    <name>Технологическая практика</name>
+    <rpfilename>b2p5rp.pdf</rpfilename>
+    <fosfilename>b2p5fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.6</id>
+    <name>Научно-исследовательская работа</name>
+    <rpfilename>b2p6rp.pdf</rpfilename>
+    <fosfilename>b2p6fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.7</id>
+    <name>Преддипломная практика</name>
+    <rpfilename>b2p7rp.pdf</rpfilename>
+    <fosfilename>b2p7fos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б3</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3rp.pdf</rpfilename>
+    <fosfilename>b3fos.pdf</fosfilename>
+  </gia>
+</uchplan>
