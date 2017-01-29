@@ -22,9 +22,15 @@
   </discipline>
   <discipline>
     <id>Б1.Б.03</id>
-    <name>Иностранный язык</name>
+    <name>Иностранный язык (английский)</name>
     <rpfilename>b1b03rp.pdf</rpfilename>
     <fosfilename>b1b03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.03(н)</id>
+    <name>Иностранный язык (немецкий)</name>
+    <rpfilename>b1b03nrp.pdf</rpfilename>
+    <fosfilename>b1b03nfos.pdf</fosfilename>
   </discipline>
   <discipline>
     <id>Б1.Б.04</id>
@@ -327,19 +333,13 @@
     <fosfilename>b1vdv1102fos.pdf</fosfilename>
   </discipline>
   <discipline>
-    <id>Б1.Б.03(н)</id>
-    <name>Иностранный язык (нем.)</name>
-    <rpfilename>b1b03nrp.pdf</rpfilename>
-    <fosfilename>b1b03nfos.pdf</fosfilename>
-  </discipline>
-  <discipline>
     <id>ФТД.В.01</id>
     <name>История Донского Казачества</name>
     <rpfilename>ФТdv01rp.pdf</rpfilename>
     <fosfilename>ФТdv01fos.pdf</fosfilename>
   </discipline>
   <discipline>
-    <id>ФТД_В.02</id>
+    <id>ФТД.В.02</id>
     <name>Организация работы персонала распределительных сетей</name>
     <rpfilename>ftdv02rp.pdf</rpfilename>
     <fosfilename>ftdv02fos.pdf</fosfilename>

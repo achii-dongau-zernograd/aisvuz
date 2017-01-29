@@ -429,6 +429,12 @@
     <fosfilename>ftd1fos.pdf</fosfilename>
   </discipline>
   <discipline>
+    <id>ФТД.2</id>
+    <name>Организационное поведение</name>
+    <rpfilename>ftd2rp.pdf</rpfilename>
+    <fosfilename>ftd2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
     <id></id>
     <name>Элективные курсы по физической культуре</name>
     <rpfilename>b1vdvrp.pdf</rpfilename>
