@@ -15,6 +15,54 @@
     <fosfilename>b1b1fos.pdf</fosfilename>
   </discipline>
   <discipline>
+    <id>Б1.Б.2</id>
+    <name>Философия</name>
+    <rpfilename>b1b2rp.pdf</rpfilename>
+    <fosfilename>b1b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.3</id>
+    <name>Иностранный язык</name>
+    <rpfilename>b1b3rp.pdf</rpfilename>
+    <fosfilename>b1b3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.4</id>
+    <name>Экономическая теория</name>
+    <rpfilename>b1b4rp.pdf</rpfilename>
+    <fosfilename>b1b4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.5</id>
+    <name>Математика</name>
+    <rpfilename>b1b5rp.pdf</rpfilename>
+    <fosfilename>b1b5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.6</id>
+    <name>Физика</name>
+    <rpfilename>b1b6rp.pdf</rpfilename>
+    <fosfilename>b1b6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.7</id>
+    <name>Химия</name>
+    <rpfilename>b1b7rp.pdf</rpfilename>
+    <fosfilename>b1b7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.8</id>
+    <name>Начертательная геометрия и инженерная графика</name>
+    <rpfilename>b1b8rp.pdf</rpfilename>
+    <fosfilename>b1b8fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.9</id>
+    <name>Материаловедение и технология конструкционных материалов</name>
+    <rpfilename>b1b9rp.pdf</rpfilename>
+    <fosfilename>b1b9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
     <id>Б1.Б.10</id>
     <name>Гидравлика</name>
     <rpfilename>b1b10rp.pdf</rpfilename>
@@ -75,58 +123,10 @@
     <fosfilename>b1b19fos.pdf</fosfilename>
   </discipline>
   <discipline>
-    <id>Б1.Б.2</id>
-    <name>Философия</name>
-    <rpfilename>b1b2rp.pdf</rpfilename>
-    <fosfilename>b1b2fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
     <id>Б1.Б.20</id>
     <name>Физическая культура</name>
     <rpfilename>b1b20rp.pdf</rpfilename>
     <fosfilename>b1b20fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.Б.3</id>
-    <name>Иностранный язык</name>
-    <rpfilename>b1b3rp.pdf</rpfilename>
-    <fosfilename>b1b3fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.Б.4</id>
-    <name>Экономическая теория</name>
-    <rpfilename>b1b4rp.pdf</rpfilename>
-    <fosfilename>b1b4fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.Б.5</id>
-    <name>Математика</name>
-    <rpfilename>b1b5rp.pdf</rpfilename>
-    <fosfilename>b1b5fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.Б.6</id>
-    <name>Физика</name>
-    <rpfilename>b1b6rp.pdf</rpfilename>
-    <fosfilename>b1b6fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.Б.7</id>
-    <name>Химия</name>
-    <rpfilename>b1b7rp.pdf</rpfilename>
-    <fosfilename>b1b7fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.Б.8</id>
-    <name>Начертательная геометрия и инженерная графика</name>
-    <rpfilename>b1b8rp.pdf</rpfilename>
-    <fosfilename>b1b8fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.Б.9</id>
-    <name>Материаловедение и технология конструкционных материалов</name>
-    <rpfilename>b1b9rp.pdf</rpfilename>
-    <fosfilename>b1b9fos.pdf</fosfilename>
   </discipline>
   <discipline>
     <id>Б1.В.ДВ.1.1</id>
@@ -139,66 +139,6 @@
     <name>Деловой этикет</name>
     <rpfilename>b1vdv12rp.pdf</rpfilename>
     <fosfilename>b1vdv12fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ДВ.10.1</id>
-    <name>Проектирование предприятий технического сервиса</name>
-    <rpfilename>b1vdv101rp.pdf</rpfilename>
-    <fosfilename>b1vdv101fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ДВ.10.2</id>
-    <name>Проектирование предприятий сервиса импортной техники</name>
-    <rpfilename>b1vdv102rp.pdf</rpfilename>
-    <fosfilename>b1vdv102fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ДВ.11.1</id>
-    <name>Триботехника</name>
-    <rpfilename>b1vdv111rp.pdf</rpfilename>
-    <fosfilename>b1vdv111fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ДВ.11.2</id>
-    <name>Особенности конструкций импортной техники</name>
-    <rpfilename>b1vdv112rp.pdf</rpfilename>
-    <fosfilename>b1vdv112fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ДВ.12.1</id>
-    <name>Проектирование и эксплуатация технологического оборудования</name>
-    <rpfilename>b1vdv121rp.pdf</rpfilename>
-    <fosfilename>b1vdv121fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ДВ.12.2</id>
-    <name>Особенности технического сервиса импортной техники</name>
-    <rpfilename>b1vdv122rp.pdf</rpfilename>
-    <fosfilename>b1vdv122fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ДВ.13.1</id>
-    <name>Управление качеством технического сервиса</name>
-    <rpfilename>b1vdv131rp.pdf</rpfilename>
-    <fosfilename>b1vdv131fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ДВ.13.2</id>
-    <name>Электронные системы управления</name>
-    <rpfilename>b1vdv132rp.pdf</rpfilename>
-    <fosfilename>b1vdv132fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ДВ.14.1</id>
-    <name>Основы менеджмента и маркетинга</name>
-    <rpfilename>b1vdv141rp.pdf</rpfilename>
-    <fosfilename>b1vdv141fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ДВ.14.2</id>
-    <name>Иностранный язык в техническом сервисе</name>
-    <rpfilename>b1vdv142rp.pdf</rpfilename>
-    <fosfilename>b1vdv142fos.pdf</fosfilename>
   </discipline>
   <discipline>
     <id>Б1.В.ДВ.2.1</id>
@@ -297,34 +237,76 @@
     <fosfilename>b1vdv92fos.pdf</fosfilename>
   </discipline>
   <discipline>
+    <id>Б1.В.ДВ.10.1</id>
+    <name>Проектирование предприятий технического сервиса</name>
+    <rpfilename>b1vdv101rp.pdf</rpfilename>
+    <fosfilename>b1vdv101fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.10.2</id>
+    <name>Проектирование предприятий сервиса импортной техники</name>
+    <rpfilename>b1vdv102rp.pdf</rpfilename>
+    <fosfilename>b1vdv102fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.11.1</id>
+    <name>Триботехника</name>
+    <rpfilename>b1vdv111rp.pdf</rpfilename>
+    <fosfilename>b1vdv111fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.11.2</id>
+    <name>Особенности конструкций импортной техники</name>
+    <rpfilename>b1vdv112rp.pdf</rpfilename>
+    <fosfilename>b1vdv112fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.12.1</id>
+    <name>Проектирование и эксплуатация технологического оборудования</name>
+    <rpfilename>b1vdv121rp.pdf</rpfilename>
+    <fosfilename>b1vdv121fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.12.2</id>
+    <name>Особенности технического сервиса импортной техники</name>
+    <rpfilename>b1vdv122rp.pdf</rpfilename>
+    <fosfilename>b1vdv122fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.13.1</id>
+    <name>Управление качеством технического сервиса</name>
+    <rpfilename>b1vdv131rp.pdf</rpfilename>
+    <fosfilename>b1vdv131fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.13.2</id>
+    <name>Электронные системы управления</name>
+    <rpfilename>b1vdv132rp.pdf</rpfilename>
+    <fosfilename>b1vdv132fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.14.1</id>
+    <name>Основы менеджмента и маркетинга</name>
+    <rpfilename>b1vdv141rp.pdf</rpfilename>
+    <fosfilename>b1vdv141fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.14.2</id>
+    <name>Иностранный язык в техническом сервисе</name>
+    <rpfilename>b1vdv142rp.pdf</rpfilename>
+    <fosfilename>b1vdv142fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
     <id>Б1.В.ОД.1</id>
     <name>Экономика отрасли (экономика технического сервиса)</name>
     <rpfilename>b1vod1rp.pdf</rpfilename>
     <fosfilename>b1vod1fos.pdf</fosfilename>
   </discipline>
   <discipline>
-    <id>Б1.В.ОД.10</id>
-    <name>Технология сельскохозяйственного машиностроения</name>
-    <rpfilename>b1vod10rp.pdf</rpfilename>
-    <fosfilename>b1vod10fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.11</id>
-    <name>Биология с основами экологии</name>
-    <rpfilename>b1vod11rp.pdf</rpfilename>
-    <fosfilename>b1vod11fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
     <id>Б1.В.ОД.2</id>
     <name>Информатика</name>
     <rpfilename>b1vod2rp.pdf</rpfilename>
     <fosfilename>b1vod2fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.3</id>
-    <name>Прикладная механика</name>
-    <rpfilename>-</rpfilename>
-    <fosfilename>-</fosfilename>
   </discipline>
   <discipline>
     <id>Б1.В.ОД.3.1</id>
@@ -345,12 +327,6 @@
     <fosfilename>b1vod33fos.pdf</fosfilename>
   </discipline>
   <discipline>
-    <id>Б1.В.ОД.4</id>
-    <name>Технология сельскохозяйственного производства</name>
-    <rpfilename>-</rpfilename>
-    <fosfilename>-</fosfilename>
-  </discipline>
-  <discipline>
     <id>Б1.В.ОД.4.1</id>
     <name>Технология растениеводства</name>
     <rpfilename>b1vod41rp.pdf</rpfilename>
@@ -361,12 +337,6 @@
     <name>Технология животноводства</name>
     <rpfilename>b1vod42rp.pdf</rpfilename>
     <fosfilename>b1vod42fos.pdf</fosfilename>
-  </discipline>
-  <discipline>
-    <id>Б1.В.ОД.5</id>
-    <name>Машины и оборудование в сельскохозяйственном производстве</name>
-    <rpfilename>-</rpfilename>
-    <fosfilename>-</fosfilename>
   </discipline>
   <discipline>
     <id>Б1.В.ОД.5.1</id>
@@ -409,6 +379,18 @@
     <name>Диагностика и техническое обслуживание машин</name>
     <rpfilename>b1vod9rp.pdf</rpfilename>
     <fosfilename>b1vod9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.10</id>
+    <name>Технология сельскохозяйственного машиностроения</name>
+    <rpfilename>b1vod10rp.pdf</rpfilename>
+    <fosfilename>b1vod10fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.11</id>
+    <name>Биология с основами экологии</name>
+    <rpfilename>b1vod11rp.pdf</rpfilename>
+    <fosfilename>b1vod11fos.pdf</fosfilename>
   </discipline>
   <discipline>
     <id>ФТД.1</id>
