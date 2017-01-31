@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - магистратура</uroven>
+    <napravlenie>13.04.02 — Электроэнергетика и электротехника</napravlenie>
+    <profil>Электроснабжение</profil>
+    <programma>Прикладная магистратура</programma>
+    <formaobucheniya>Заочная</formaobucheniya>
+    <godnachalapodgotovki>2016</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.01</id>
+    <name>Историко-философские аспекты научного знания</name>
+    <rpfilename>b1b01rp.pdf</rpfilename>
+    <fosfilename>b1b01fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.02</id>
+    <name>Дополнителные главы математики (в т.ч. оптимизация)</name>
+    <rpfilename>b1b02rp.pdf</rpfilename>
+    <fosfilename>b1b02fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.03</id>
+    <name>Современное состояние и основные задачи сельского электроснабжения</name>
+    <rpfilename>b1b03rp.pdf</rpfilename>
+    <fosfilename>b1b03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.04</id>
+    <name>Иностранный язык</name>
+    <rpfilename>b1b04rp.pdf</rpfilename>
+    <fosfilename>b1b04fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.05</id>
+    <name>Прикладная электродинамика</name>
+    <rpfilename>b1b05rp.pdf</rpfilename>
+    <fosfilename>b1b05fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.01</id>
+    <name>Электросберегающие технологии в электроснабжении сельского хозяйства</name>
+    <rpfilename>b1v01rp.pdf</rpfilename>
+    <fosfilename>b1v01fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.02</id>
+    <name>Планирование и организация технического эксперимента</name>
+    <rpfilename>b1v02rp.pdf</rpfilename>
+    <fosfilename>b1v02fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.03</id>
+    <name>Управление надежностью электроснабжения</name>
+    <rpfilename>b1v03rp.pdf</rpfilename>
+    <fosfilename>b1v03fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.04</id>
+    <name>Проектирование систем электроснабжения объектов АПК</name>
+    <rpfilename>b1v04rp.pdf</rpfilename>
+    <fosfilename>b1v04fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.05</id>
+    <name>Защита от сверхтоков и безопасность систем электроснабжения</name>
+    <rpfilename>b1v05rp.pdf</rpfilename>
+    <fosfilename>b1v05fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.01.01</id>
+    <name>Режимы работы электрооборудования подстанций и сельских электрических сетей</name>
+    <rpfilename>b1vdv0101rp.pdf</rpfilename>
+    <fosfilename>b1vdv0101fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.01.02</id>
+    <name>Информационные технологии в электроэнергетике</name>
+    <rpfilename>b1vdv0102rp.pdf</rpfilename>
+    <fosfilename>b1vdv0102fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.02.01</id>
+    <name>Технические средства получения и обоработки информации в электроэнергетике</name>
+    <rpfilename>b1vdv0201rp.pdf</rpfilename>
+    <fosfilename>b1vdv0201fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.02.02</id>
+    <name>Патентные исследования</name>
+    <rpfilename>b1vdv0202rp.pdf</rpfilename>
+    <fosfilename>b1vdv0202fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.03.01</id>
+    <name>Управление качеством электроэнергии</name>
+    <rpfilename>b1vdv0301rp.pdf</rpfilename>
+    <fosfilename>b1vdv0301fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.03.02</id>
+    <name>Технические средства обеспечения качества электроэнергии потребителей</name>
+    <rpfilename>b1vdv0302rp.pdf</rpfilename>
+    <fosfilename>b1vdv0302fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.04.01</id>
+    <name>Моделирование систем электроснабжения</name>
+    <rpfilename>b1vdv0401rp.pdf</rpfilename>
+    <fosfilename>b1vdv0401fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.04.02</id>
+    <name>Технико-экономические расчеты в электроэнергетике</name>
+    <rpfilename>b1vdv0402rp.pdf</rpfilename>
+    <fosfilename>b1vdv0402fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>ФТД.В.01</id>
+    <name>Современное оборудование систем электроснабжения</name>
+    <rpfilename>ФТdv01rp.pdf</rpfilename>
+    <fosfilename>ФТdv01fos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.В.01(У)</id>
+    <name>Практика по получению первичных профессиональных умений и навыков</name>
+    <rpfilename>b2v01urp.pdf</rpfilename>
+    <fosfilename>-</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.02(Н)</id>
+    <name>Научно-исследовательская работа</name>
+    <rpfilename>b2v02nrp.pdf</rpfilename>
+    <fosfilename>-</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.03(П)</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности</name>
+    <rpfilename>b2v03prp.pdf</rpfilename>
+    <fosfilename>-</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.В.04(Пд)</id>
+    <name>Преддипломная</name>
+    <rpfilename>b2v04pdrp.pdf</rpfilename>
+    <fosfilename>-</fosfilename>
+  </pract>
+  <gia>
+    <id>Б3.Б.01</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3b01rp.pdf</rpfilename>
+    <fosfilename>b3b01fos.pdf</fosfilename>
+  </gia>
+</uchplan>

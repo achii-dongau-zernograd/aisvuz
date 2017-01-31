@@ -338,6 +338,12 @@
     <rpfilename>b1vdv1102rp.pdf</rpfilename>
     <fosfilename>b1vdv1102fos.pdf</fosfilename>
   </discipline>
+  <discipline>
+    <id>ФТД.В.2</id>
+    <name>Информационные технологии в научных исследованиях</name>
+    <rpfilename>ftdv02rp.pdf</rpfilename>
+    <fosfilename>ftdv02fos.pdf</fosfilename>
+  </discipline>
   <pract>
     <id>Б2.В.01(У)</id>
     <name>Практика по получению первичных профессиональных умений и навыков в мастерских (УПМ)</name>
