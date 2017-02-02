@@ -173,8 +173,8 @@
   <discipline>
     <id>ФТД.1</id>
     <name>Теоретические основы расчета конструкции механизмов и систем автотранспортных средств</name>
-    <rpfilename>-</rpfilename>
-    <fosfilename>-</fosfilename>
+    <rpfilename>ftd1rp.pdf</rpfilename>
+    <fosfilename>ftd1fos.pdf</fosfilename>
   </discipline>
   <pract>
     <id>Б2.У.1</id>
