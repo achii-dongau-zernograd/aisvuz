@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - магистратура</uroven>
+    <napravlenie>23.04.01 — Технология транспортных процессов</napravlenie>
+    <profil>Организация и управление транспортными процессами</profil>
+    <programma>Академическая магистратура</programma>
+    <formaobucheniya>Очная</formaobucheniya>
+    <godnachalapodgotovki>2015</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.1</id>
+    <name>Современные проблемы транспортной науки, техники и технологии</name>
+    <rpfilename>b1b1rp.pdf</rpfilename>
+    <fosfilename>b1b1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.2</id>
+    <name>История и методология транспортной науки</name>
+    <rpfilename>b1b2rp.pdf</rpfilename>
+    <fosfilename>b1b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.3</id>
+    <name>Интеллектуальная собственность</name>
+    <rpfilename>b1b3rp.pdf</rpfilename>
+    <fosfilename>b1b3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.4</id>
+    <name>Планирование эксперимента и обработка результатов</name>
+    <rpfilename>b1b4rp.pdf</rpfilename>
+    <fosfilename>b1b4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.5</id>
+    <name>Историко-философские аспекты научного знания</name>
+    <rpfilename>b1b5rp.pdf</rpfilename>
+    <fosfilename>b1b5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.6</id>
+    <name>Иностранный язык</name>
+    <rpfilename>b1b6rp.pdf</rpfilename>
+    <fosfilename>b1b6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.1</id>
+    <name>Организация грузовых перевозок в сельскохозяйственных предприятиях</name>
+    <rpfilename>b1vdv11rp.pdf</rpfilename>
+    <fosfilename>b1vdv11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.2</id>
+    <name>Организация грузовых перевозок в городских условиях</name>
+    <rpfilename>b1vdv12rp.pdf</rpfilename>
+    <fosfilename>b1vdv12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.3</id>
+    <name>Организация грузовых перевозок в международном сообщении</name>
+    <rpfilename>b1vdv13rp.pdf</rpfilename>
+    <fosfilename>b1vdv13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.1</id>
+    <name>Организация работы пассажирского комплекса</name>
+    <rpfilename>b1vdv21rp.pdf</rpfilename>
+    <fosfilename>b1vdv21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.2</id>
+    <name>Технико-экономическое обеспечение интермодальных перевозок</name>
+    <rpfilename>b1vdv22rp.pdf</rpfilename>
+    <fosfilename>b1vdv22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.3</id>
+    <name>Развитие международных транспортных коридоров</name>
+    <rpfilename>b1vdv23rp.pdf</rpfilename>
+    <fosfilename>b1vdv23fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.1</id>
+    <name>Транспортно-складские комплексы сельскохозяйственных предприятий</name>
+    <rpfilename>b1vdv31rp.pdf</rpfilename>
+    <fosfilename>b1vdv31fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.2</id>
+    <name>Транспортно-складские комплексы промышленных предприятий</name>
+    <rpfilename>b1vdv32rp.pdf</rpfilename>
+    <fosfilename>b1vdv32fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.3</id>
+    <name>Грузовые терминальные комплексы</name>
+    <rpfilename>b1vdv33rp.pdf</rpfilename>
+    <fosfilename>b1vdv33fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.1</id>
+    <name>Проблемы педагогики и психологии высшей школы</name>
+    <rpfilename>b1vdv41rp.pdf</rpfilename>
+    <fosfilename>b1vdv41fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.2</id>
+    <name>Методология преподавания специальных дисциплин в техническом вузе</name>
+    <rpfilename>b1vdv42rp.pdf</rpfilename>
+    <fosfilename>b1vdv42fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.1</id>
+    <name>Методология научного творчества</name>
+    <rpfilename>b1vdv51rp.pdf</rpfilename>
+    <fosfilename>b1vdv51fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.2</id>
+    <name>Инженерное творчество</name>
+    <rpfilename>b1vdv52rp.pdf</rpfilename>
+    <fosfilename>b1vdv52fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.1</id>
+    <name>Иностранный язык для профессионального общения</name>
+    <rpfilename>b1vОd1rp.pdf</rpfilename>
+    <fosfilename>b1vОd1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.2</id>
+    <name>Компьютерные технологии в науке, производстве и образовании</name>
+    <rpfilename>b1vОd2rp.pdf</rpfilename>
+    <fosfilename>b1vОd2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3</id>
+    <name>Специальные методы моделирования транспортных процессов</name>
+    <rpfilename>b1vОd3rp.pdf</rpfilename>
+    <fosfilename>b1vОd3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.4</id>
+    <name>Инновационные методы транспортно-экспедиционного обслуживания</name>
+    <rpfilename>b1vОd4rp.pdf</rpfilename>
+    <fosfilename>b1vОd4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.5</id>
+    <name>Перспективные технологии транспортных процессов на предприятии</name>
+    <rpfilename>b1vОd5rp.pdf</rpfilename>
+    <fosfilename>b1vОd5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.6</id>
+    <name>Аналитические и численные методы в инженерном анализе</name>
+    <rpfilename>b1vОd6rp.pdf</rpfilename>
+    <fosfilename>b1vОd6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.7</id>
+    <name>Методы государственного регулирования автотранспортной деятельности</name>
+    <rpfilename>b1vОd7rp.pdf</rpfilename>
+    <fosfilename>b1vОd7fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.8</id>
+    <name>Логистические методы при организации перевозок</name>
+    <rpfilename>b1vОd8rp.pdf</rpfilename>
+    <fosfilename>b1vОd8fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.9</id>
+    <name>Научные проблемы экономики транспорта</name>
+    <rpfilename>b1vОd9rp.pdf</rpfilename>
+    <fosfilename>b1vОd9fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>ФТД.1</id>
+    <name>Теоретические основы расчета конструкции механизмов и систем автотранспортных средств</name>
+    <rpfilename>ftd1rp.pdf</rpfilename>
+    <fosfilename>ftd1fos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.У.1</id>
+    <name>Практика по получению первичных профессиональных умений и навыков (учебно-исследовательская)</name>
+    <rpfilename>b2u1rp.pdf</rpfilename>
+    <fosfilename>b2u1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.1</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности (производственно-технологическая)</name>
+    <rpfilename>b2p1rp.pdf</rpfilename>
+    <fosfilename>b2p1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.2</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности (научно-педагогическая)</name>
+    <rpfilename>b2p2rp.pdf</rpfilename>
+    <fosfilename>b2p2fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.3</id>
+    <name>Преддипломная</name>
+    <rpfilename>b2p3rp.pdf</rpfilename>
+    <fosfilename>b2p3fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.Н.1</id>
+    <name>Научно-исследовательская работа</name>
+    <rpfilename>b2n1rp.pdf</rpfilename>
+    <fosfilename>b2n1fos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б3</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3rp.pdf</rpfilename>
+    <fosfilename>b3fos.pdf</fosfilename>
+  </gia>
+</uchplan>

@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - магистратура</uroven>
+    <napravlenie>23.04.03 — Эксплуатация транспортно-технологических машин и комплексов</napravlenie>
+    <profil>Эксплуатация автотранспортных средств</profil>
+    <programma>Академическая магистратура</programma>
+    <formaobucheniya>Очная</formaobucheniya>
+    <godnachalapodgotovki>2015</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.1</id>
+    <name>Современные проблемы и направления развития конструкций и транспортных и транспортно-технологических машин и оборудования</name>
+    <rpfilename>b1b1rp.pdf</rpfilename>
+    <fosfilename>b1b1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.2</id>
+    <name>Современные проблемы и направления развития технической эксплуатации, сервисного обслуживания и ремонта транспортных и транспортно-технологических машин и оборудования</name>
+    <rpfilename>b1b2rp.pdf</rpfilename>
+    <fosfilename>b1b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.3</id>
+    <name>Интеллектуальная собственность</name>
+    <rpfilename>b1b3rp.pdf</rpfilename>
+    <fosfilename>b1b3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.4</id>
+    <name>Планирование эксперимента и обработка результатов</name>
+    <rpfilename>b1b4rp.pdf</rpfilename>
+    <fosfilename>b1b4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.5</id>
+    <name>Историко-философские аспекты научного знания</name>
+    <rpfilename>b1b5rp.pdf</rpfilename>
+    <fosfilename>b1b5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.6</id>
+    <name>Иностранный язык</name>
+    <rpfilename>b1b6rp.pdf</rpfilename>
+    <fosfilename>b1b6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.1</id>
+    <name>Современные и перспективные электронные системы и электрооборудование транспортно-технологических машин</name>
+    <rpfilename>b1vdv11rp.pdf</rpfilename>
+    <fosfilename>b1vdv11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.2</id>
+    <name>Системы питания современных транспортных и транспортно-технологических машин</name>
+    <rpfilename>b1vdv12rp.pdf</rpfilename>
+    <fosfilename>b1vdv12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.3</id>
+    <name>Альтернативные топлива для современных транспортных и транспортно-технологических машин</name>
+    <rpfilename>b1vdv13rp.pdf</rpfilename>
+    <fosfilename>b1vdv13fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.1</id>
+    <name>Технические и экологические аспекты восстановления отработанных масел</name>
+    <rpfilename>b1vdv21rp.pdf</rpfilename>
+    <fosfilename>b1vdv21fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.2</id>
+    <name>Методы и средства повышения эффективности работы тормозных систем транспортно-технологических машин</name>
+    <rpfilename>b1vdv22rp.pdf</rpfilename>
+    <fosfilename>b1vdv22fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.2.3</id>
+    <name>Методы оптимизации параметров колёсных движителей транспортно-технологических машин и комплексов</name>
+    <rpfilename>b1vdv23rp.pdf</rpfilename>
+    <fosfilename>b1vdv23fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.1</id>
+    <name>Трибологические свойства восстановленных масел</name>
+    <rpfilename>b1vdv31rp.pdf</rpfilename>
+    <fosfilename>b1vdv31fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.2</id>
+    <name>Влияние неисправностей элементов тормозной системы и подвески автомобилей на тормозную динамику</name>
+    <rpfilename>b1vdv32rp.pdf</rpfilename>
+    <fosfilename>b1vdv32fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.3.3</id>
+    <name>Технологические и экологические аспекты воздействия колёсных движителей транспортно-технологических машин и комплексов на почву</name>
+    <rpfilename>b1vdv33rp.pdf</rpfilename>
+    <fosfilename>b1vdv33fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.1</id>
+    <name>Методы и средства регенерации отработанных моторных масел</name>
+    <rpfilename>b1vdv41rp.pdf</rpfilename>
+    <fosfilename>b1vdv41fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.2</id>
+    <name>Методы и средства диагностики ходовой части и рулевого управления автотранспортных средств</name>
+    <rpfilename>b1vdv42rp.pdf</rpfilename>
+    <fosfilename>b1vdv42fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.4.3</id>
+    <name>Методы и технические средства испытания колёсных движителей</name>
+    <rpfilename>b1vdv43rp.pdf</rpfilename>
+    <fosfilename>b1vdv43fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.1</id>
+    <name>Основы коммерческой эксплуатации автотранспортных средств</name>
+    <rpfilename>b1vdv51rp.pdf</rpfilename>
+    <fosfilename>b1vdv51fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.2</id>
+    <name>Рынок транспортных услуг и качество транспортного обслуживания</name>
+    <rpfilename>b1vdv52rp.pdf</rpfilename>
+    <fosfilename>b1vdv52fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.5.3</id>
+    <name>Качество сервисного обслуживания автотранспортных средств</name>
+    <rpfilename>b1vdv53rp.pdf</rpfilename>
+    <fosfilename>b1vdv53fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.1</id>
+    <name>Компьютерные технологии в науке, образовании и производстве</name>
+    <rpfilename>b1vod1rp.pdf</rpfilename>
+    <fosfilename>b1vod1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.2</id>
+    <name>Специальные главы технической эксплуатации двигателей автотранспортных средств</name>
+    <rpfilename>b1vod2rp.pdf</rpfilename>
+    <fosfilename>b1vod2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3</id>
+    <name>Специальные главы технической эксплуатации автотранспортных средств</name>
+    <rpfilename>b1vod3rp.pdf</rpfilename>
+    <fosfilename>b1vod3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.4</id>
+    <name>Аналитические и численные методы в инженерном анализе</name>
+    <rpfilename>b1vod4rp.pdf</rpfilename>
+    <fosfilename>b1vod4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.5</id>
+    <name>Основы проектирования и эксплуатации технологического оборудования</name>
+    <rpfilename>b1vod5rp.pdf</rpfilename>
+    <fosfilename>b1vod5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.6</id>
+    <name>Проблемы педагогики и психологии высшей школы и методология преподавания специальных дисциплин в техническом вузе</name>
+    <rpfilename>b1vod6rp.pdf</rpfilename>
+    <fosfilename>b1vod6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>ФТД.1</id>
+    <name>Теоретические основы расчета конструкции механизмов и систем автотранспортных средств</name>
+    <rpfilename>-</rpfilename>
+    <fosfilename>-</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.У.1</id>
+    <name>Практика по получению первичных профессиональных умений и навыков (учебно-исследовательская)</name>
+    <rpfilename>b2u1rp.pdf</rpfilename>
+    <fosfilename>b2u1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.Н.1</id>
+    <name>Научно-исследовательская работа)</name>
+    <rpfilename>b2n1rp.pdf</rpfilename>
+    <fosfilename>b2n1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.1</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности (научно-педагогическая)</name>
+    <rpfilename>b2p1rp.pdf</rpfilename>
+    <fosfilename>b2p1fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.2</id>
+    <name>Практика по получению профессиональных умений и опыта профессиональной деятельности (производственно - технологическая)</name>
+    <rpfilename>b2p2rp.pdf</rpfilename>
+    <fosfilename>b2p2fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.П.3</id>
+    <name>Преддипломная</name>
+    <rpfilename>b2p3rp.pdf</rpfilename>
+    <fosfilename>b2p3fos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б3</id>
+    <name>Государственная итоговая аттестация</name>
+    <rpfilename>b3rp.pdf</rpfilename>
+    <fosfilename>b3fos.pdf</fosfilename>
+  </gia>
+</uchplan>
