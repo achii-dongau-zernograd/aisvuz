@@ -329,8 +329,8 @@
   <discipline>
     <id>ФТД.В.02</id>
     <name>Основы расчёта узлов и механизмов ТТМ</name>
-    <rpfilename>-</rpfilename>
-    <fosfilename>-</fosfilename>
+    <rpfilename>ftdv02rp.pdf</rpfilename>
+    <fosfilename>ftdv02fos.pdf</fosfilename>
   </discipline>
   <pract>
     <id>Б2.В.01(У)</id>
