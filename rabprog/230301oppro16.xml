@@ -344,6 +344,12 @@
     <rpfilename>ftdv01rp.pdf</rpfilename>
     <fosfilename>ftdv01fos.pdf</fosfilename>
   </discipline>
+  <discipline>
+    <id>ФТД.В.02</id>
+    <name>Основы расчета и проектирования узлов и механизмов АТС</name>
+    <rpfilename>ftdv02rp.pdf</rpfilename>
+    <fosfilename>ftdv02fos.pdf</fosfilename>
+  </discipline>
   <pract>
     <id>Б2.В.01(У)</id>
     <name>Практика по получению первичных профессиональных умений и навыков (устройство двигателей и автомобилей)</name>
