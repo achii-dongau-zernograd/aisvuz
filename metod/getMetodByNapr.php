@@ -9,7 +9,7 @@
 require_once("../includes/constants.php");
 include("../includes/header.php");
 
-echo '<div class="container-fluid">';
+echo '<div class="container">';
 echo '<h1>Перечень учебных и методических пособий</h1>';
 
 /*подключаем xml файл*/

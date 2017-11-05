@@ -91,7 +91,7 @@ foreach ($xml1->uchpos as $uchpos)
 }
 
 
-echo '<div class="container-fluid">';
+echo '<div class="container">';
 echo '<h1>Количество учебных пособий</h1>';
 
 
