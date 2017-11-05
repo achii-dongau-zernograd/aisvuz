@@ -17,12 +17,7 @@ $podpvpechat = $_GET['podpvpechat'];
 $nomerzakaza = $_GET['nomerzakaza'];
 $pathtofiles=PATH_FILESERVER.'metod/';
 
-// Формируем заголовок и шапку таблицы
-echo '<div class="container-fluid">';
-echo '<table class="table table-bordered table-hover table-condensed"><caption>'
-. '</caption>';
-//echo '<thead><tr><th>№ пп</th><th>Авторы</th><th>Наименование</th><th>Год издания</th><th>Дисциплины</th><th>Просмотр (.pdf)</th></tr></thead>';
-echo '<tbody>';
+
 
 
 
@@ -31,56 +26,109 @@ foreach ($xml1->uchpos as $uchpos)
 {
     if($uchpos['podpvpechat']==$podpvpechat and $uchpos['nomerzakaza']==$nomerzakaza)
     {
-        echo '<tr>';    
-        echo '<td>';  // Авторы
-        foreach ($uchpos->authors->author as $author)
-        {
-            echo '<p>';
-            echo $author;
-            echo '</p>';
-        }
-        echo '</td>';
-        echo '<td>'.$uchpos->biblopisanie.'</td>';    // Наименование учебного пособия
-        //echo '<td>'.$uchpos['year'].'</td>';  // Год издания
-        echo '<td>';  // Дисциплины
-        foreach ($uchpos->disciplines->discipline as $discipline)
-        {
-            echo ''.$discipline['disciplinename'];
-            echo '<ul>';
-            foreach($discipline->napravlenie as $napr)
-            {
-                echo '<li>';
-                echo $napr;
-                echo '</li>';            
-            }
-            echo '</ul>';
-        }
-        echo '</td>';
-        echo '<td>';
-        echo '<a href="'.$pathtofiles.$uchpos->pdffilename.'">Открыть</a>';
-        echo '</td>';
+        echo '<div class="container">';
         
-        echo '<td>';  // Аннотация
+        // Название
+        echo '<h1>';  
+        echo '<a href="'.$pathtofiles.$uchpos->pdffilename.'">'.$uchpos->name.'</a>';
+        echo '</h1>';
+        
+        /*
+        // Факультеты
+        echo '<h4>Факультеты:</h4>';
+        echo '<ul>';
+        foreach ($uchpos->faculties->facultet as $facultet)
+        {
+            echo '<li>'.$facultet.'</li>';
+        }
+        echo '</ul>';
+        
+        // Кафедры
+        echo '<h4>Кафедры:</h4>';
+        echo '<ul>';
+        foreach ($uchpos->kafs->kaf as $kafedra)
+        {
+            echo '<li>'.$kafedra.'</li>';
+        }
+        echo '</ul>';
+        */
+        
+        
+        echo '<div class=row>';
+            echo '  <div class="col-md-4">';
+            // Картинка
+            echo '  <img src='./*$pathtofiles.*/$uchpos->coverfilename.' class="img-responsive img-thumbnail">';
+            echo '  </div>';// end of class="col-md-4"
+            echo '  <div class="col-md-8">';
+                // Авторы
+                echo '<h3>Авторы: ';
+                foreach ($uchpos->authors->author as $author)
+                {
+                    echo $author;
+                    echo ' ';
+                }
+                echo '</h3>';
+                echo '<h4>Год издания: '.$uchpos['year'].'</h4>';
+                echo '<h4>Количество страниц: '.$uchpos['numstr'].'</h4>';
+                echo '<h4>Количество печатных листов: '.$uchpos['numpl'].'</h4>';
+        
+                echo '<h3>Дисциплины:</h3>';
+                echo '<ul>';
+                foreach ($uchpos->disciplines->discipline as $discipline)
+                {
+                    echo '<li>'.$discipline.'</li>';
+                }
+                echo '</ul>';
+
+                echo '<h3>Направления подготовки:</h3>';
+                echo '<ul>';
+                foreach($uchpos->napravleniya->napravlenie as $napr)
+                    {
+                        echo '<li>';
+                        echo $napr;
+                        echo '</li>';            
+                    }
+                echo '</ul>';
+            echo '  </div>';// end of class="col-md-8" 
+        echo '</div>';// end of class="row"
+        
+        
+        
+        
+        
+        
+        
+        
+        // Аннотация
+        echo '<h1>Аннотация</h1>';  
         foreach ($uchpos->annotations->annotation as $annotation)
         {
             echo '<p>'.$annotation.'</p>';            
         }
-        echo '</td>';
-        
-        echo '<td>';  // Оглавление
+
+
+        // Оглавление
+        echo '<h1>Оглавление</h1>';
         foreach ($uchpos->contents->content as $content)
         {
-            echo '<p>'.$content.' - стр. '.$content['pagenumber'].'</p>';            
+            echo '<div class=row>';
+            echo '  <div class="col-md-10">';
+            echo '  <p>'.$content.'</p>';
+            echo '  </div>';// end of class="col-md-10"
+            echo '  <div class="col-md-2">';
+            echo '  <p>'.$content['pagenumber'].'</p>';
+            echo '  </div>';// end of class="col-md-2" 
+            echo '</div>';// end of class="row"
         }
-        echo '</td>';       
+
         
-        
-        echo '</tr>'; 
+        echo '<h1>Библиографическое описание</h1>';         
+        echo '<p>'.$uchpos->biblopisanie.'</p>';
+
+        echo '</div>';// end of class="container-fluid"
     }
 }
 
-echo '</tbody></table>';
 
-echo '</div>';// end of class="container-fluid"
 
 include("../includes/footer.php");

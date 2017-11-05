@@ -1,9 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <metod>
-	<uchpos year="2016" numstr="180" numpl="10,5" podpvpechat="18.01.2016" nomerzakaza="7">
+	<uchpos year="2016" numstr="180" numpl="10.5" podpvpechat="18.01.2016" nomerzakaza="7">
 		<name>Информационные системы и процессы. Курс лекций: учебное пособие</name>
 		<biblopisanie>Руденко, Н.Б. Информационные системы и процессы. Курс лекций: учебное пособие / Н.Б. Руденко, Н.Н. Грачева, В.Н. Литвинов. – Зерноград: Азово-Черноморский инженерный институт ФГБОУ ВО ДГАУ, 2016. – 103 с.</biblopisanie>
 		<pdffilename>201601187rudenkonb.pdf</pdffilename>
+                <coverfilename>201601187rudenkonb.jpg</coverfilename>
 		<faculties>
 			<facultet>Энергетический</facultet>
 			<facultet>Инженерно-технологический</facultet>
@@ -13,18 +14,17 @@
 			<kaf>Э и Э</kaf>
 		</kafs>
 		<authors>
-			<author authorshare="0.8">Руденко Н.Б.</author>
-			<author authorshare="0.2">Петров П.П.</author>
+			<author>Руденко Н.Б.</author>
+			<author>Петров П.П.</author>
 		</authors>
 		<disciplines>
-			<discipline disciplinename="Информатика">
-				<napravlenie>13.03.01</napravlenie>
-				<napravlenie>13.03.02</napravlenie>
-			</discipline>
-			<discipline disciplinename="Глобальные информационные системы">
-				<napravlenie>13.03.02</napravlenie>
-			</discipline>
+			<discipline>Информатика</discipline>
+			<discipline>Глобальные информационные системы</discipline>
 		</disciplines>
+                <napravleniya>
+                    <napravlenie>13.03.01</napravlenie>
+                    <napravlenie>13.03.02</napravlenie>
+                </napravleniya>
 		<annotations>
 			<annotation>Учебное пособие содержит теоретический материал в виде курса лекций, необходимый для освоения дисциплины «Глобальные информационные системы». Рассматриваются основные принципы построения информационных систем и организации информационных процессов в электроэнергетике.</annotation>
 			<annotation>Методические указания предназначены для студентов, обучающихся по направлению подготовки бакалавров 13.03.02 «Электроэнергетика и электротехника».</annotation>
@@ -42,10 +42,11 @@
 			<content pagenumber="102">Литература</content>
 		</contents>		
 	</uchpos>
-	<uchpos year="2016" numstr="180" numpl="10,5" podpvpechat="17.02.2015" nomerzakaza="8">
-		<name>Информатика. Курс лекций: учебное пособие</name>
-		<biblopisanie>Грачева, Н.Н. Информатика. Курс лекций: учебное пособие / Н.Н. Грачева, Н.Б. Руденко. – Зерноград: Азово-Черноморский инженерный институт ФГБОУ ВО ДГАУ, 2016. – 103 с.</biblopisanie>
+	<uchpos year="2016" numstr="180" numpl="10.5" podpvpechat="18.01.2016" nomerzakaza="8">
+		<name>Информационные системы и процессы. Курс лекций: учебное пособие</name>
+		<biblopisanie>Руденко, Н.Б. Информационные системы и процессы. Курс лекций: учебное пособие / Н.Б. Руденко, Н.Н. Грачева, В.Н. Литвинов. – Зерноград: Азово-Черноморский инженерный институт ФГБОУ ВО ДГАУ, 2016. – 103 с.</biblopisanie>
 		<pdffilename>201601187rudenkonb.pdf</pdffilename>
+                <coverfilename>201601187rudenkonb.jpg</coverfilename>
 		<faculties>
 			<facultet>Энергетический</facultet>
 			<facultet>Инженерно-технологический</facultet>
@@ -55,19 +56,17 @@
 			<kaf>Э и Э</kaf>
 		</kafs>
 		<authors>
-			<author authorshare="0.8">Грачева Н.Н.</author>
-			<author authorshare="0.2">Руденко Н.Б.</author>
+			<author authorshare="0.8">Руденко Н.Б.</author>
+			<author authorshare="0.2">Петров П.П.</author>
 		</authors>
 		<disciplines>
-			<discipline disciplinename="Информатика">
-				<napravlenie>13.03.01</napravlenie>
-				<napravlenie>13.03.02</napravlenie>
-				<napravlenie>35.03.06</napravlenie>
-			</discipline>
-			<discipline  disciplinename="Информационные технологии">
-				<napravlenie>13.03.02</napravlenie>
-			</discipline>
+			<discipline>Информатика</discipline>
+			<discipline>Глобальные информационные системы"</discipline>
 		</disciplines>
+                <napravleniya>
+                    <napravlenie>13.03.01</napravlenie>
+                    <napravlenie>35.03.06</napravlenie>
+                </napravleniya>
 		<annotations>
 			<annotation>Учебное пособие содержит теоретический материал в виде курса лекций, необходимый для освоения дисциплины «Глобальные информационные системы». Рассматриваются основные принципы построения информационных систем и организации информационных процессов в электроэнергетике.</annotation>
 			<annotation>Методические указания предназначены для студентов, обучающихся по направлению подготовки бакалавров 13.03.02 «Электроэнергетика и электротехника».</annotation>
@@ -84,5 +83,72 @@
 			<content pagenumber="86">Лекция № 8. Этапы проектирования ИС с применением UML</content>
 			<content pagenumber="102">Литература</content>
 		</contents>		
-		</uchpos>
+	</uchpos>
+	<uchpos year="2017" numstr="100" numpl="5.50" podpvpechat="14.11.2017" nomerzakaza="45">
+    	<name>Наименование уч. пособия</name>
+	    <biblopisanie>Библиографическое описание</biblopisanie>
+	    <pdffilename>2017111445ivanovpv2.pdf</pdffilename>
+	    <coverfilename>2017111445ivanovpv.jpg</coverfilename>
+	    <faculties>
+	      <facultet>Экономика и управление территориями</facultet>
+	    </faculties>
+	    <kafs>
+      <kaf>Гуманитарные дисциплины и иностранные языки</kaf>
+    </kafs>
+    <authors>
+      <author>Иванов П.В.</author>
+    </authors>
+    <disciplines>
+      <discipline>Информатика</discipline>
+    </disciplines>
+    <napravleniya>
+      <napravlenie>13.03.01</napravlenie>
+      <napravlenie>13.03.02</napravlenie>
+      <napravlenie>35.03.05</napravlenie>
+    </napravleniya>
+    <annotations>
+      <annotation>Аннотация 1</annotation>
+      <annotation>Аннотация 2</annotation>
+    </annotations>
+    <contents>
+      <content pagenumber="3">Введение</content>
+      <content pagenumber="5">Глава 1</content>
+      <content pagenumber="10">Глава 2</content>
+      <content pagenumber="20">Глава 3</content>
+      <content pagenumber="30">Глава 4</content>
+    </contents>
+  </uchpos>
+  <uchpos year="2017" numstr="100" numpl="5.50" podpvpechat="14.11.2017" nomerzakaza="45">
+    <name>Математика. Лабораторный практикум</name>
+    <biblopisanie>Математика. Лабораторный практикум, 2017. - 15 с.</biblopisanie>
+    <pdffilename>2017111445petrovpi.pdf</pdffilename>
+    <coverfilename>2017111445petrovpi.jpg</coverfilename>
+    <faculties>
+      <facultet>Инженерно-технологический</facultet>
+    </faculties>
+    <kafs>
+      <kaf>Высшая математика и механика</kaf>
+    </kafs>
+    <authors>
+      <author>Петров П.И.</author>
+      <author>Иванов К.У.</author>
+    </authors>
+    <disciplines>
+      <discipline>Математика</discipline>
+    </disciplines>
+    <napravleniya>
+      <napravlenie>13.03.01</napravlenie>
+      <napravlenie>13.03.02</napravlenie>
+    </napravleniya>
+    <annotations>
+      <annotation>Анннотация</annotation>
+    </annotations>
+    <contents>
+      <content pagenumber="3">Введение</content>
+      <content pagenumber="4">ЛР №1</content>
+      <content pagenumber="5">ЛР №2</content>
+      <content pagenumber="8">ЛР №3</content>
+      <content pagenumber="11">ЛР №4</content>
+    </contents>
+  </uchpos>
 </metod>

@@ -3,12 +3,14 @@
 /* 
  * Электронная информационно-образовательная среда
  * Азово-Черноморского инженерного института ФГБОУ ВО Донской ГАУ.
- * Модуль вывода методических пособий
+ * Модуль вывода печатных учебных и методических пособий
  */
 
 require_once("../includes/constants.php");
 include("../includes/header.php");
-echo '<br><br><br>';
+
+echo '<div class="container-fluid">';
+echo '<h1>Перечень учебных и методических пособий</h1>';
 
 /*подключаем xml файл*/
 $xml1 = simplexml_load_file('Metod.xml');
@@ -17,11 +19,10 @@ $napravlenie = $_GET['napravlenie'];
 $pathtofiles=PATH_FILESERVER.'metod/';
 
 // Формируем заголовок и шапку таблицы
-echo '<div class="container-fluid">';
 echo '<table class="table table-bordered table-hover table-condensed"><caption>'
 . "Направление подготовки: ".$napravlenie."<br>"
 . '</caption>';
-echo '<thead><tr><th>№ пп</th><th>Авторы</th><th>Наименование</th><th>Год издания</th><th>Дисциплины</th><th>Просмотр (.pdf)</th></tr></thead><tbody>';
+echo '<thead><tr><th>№ пп</th><th>Авторы</th><th>Наименование</th><th>Год издания</th><th>Кол-во страниц</th><th>Кол-во печатных листов</th><th>Дисциплины</th><th>Просмотр (.pdf)</th></tr></thead><tbody>';
 
 $numrow=1;
 
@@ -31,9 +32,8 @@ foreach ($xml1->uchpos as $uchpos)
     // Если направление не соответствует,
     // переходим к следующему пособию
     $isNapr=false;
-    foreach ($uchpos->disciplines->discipline as $disc)
-    {
-        foreach($disc->napravlenie as $napr)
+    foreach ($uchpos->napravleniya->napravlenie as $napr)
+    {        
         if($napravlenie==$napr)
             $isNapr=true;
     }
@@ -52,18 +52,12 @@ foreach ($xml1->uchpos as $uchpos)
     echo '</td>';
     echo '<td>'.$uchpos->name.'</td>';    // Наименование учебного пособия
     echo '<td>'.$uchpos['year'].'</td>';  // Год издания
+    echo '<td>'.$uchpos['numstr'].'</td>';  // Кол-во страниц
+    echo '<td>'.$uchpos['numpl'].'</td>';  // Кол-во печатных листов
     echo '<td>';  // Дисциплины
     foreach ($uchpos->disciplines->discipline as $discipline)
-    {
-        foreach($discipline->napravlenie as $napr)
-        {
-            if($napr==$napravlenie)
-            {
-                echo '<p>';
-                echo $discipline['disciplinename'];
-                echo '</p>';
-            }
-        }
+    {        
+        echo '<p>'.$discipline.'</p>';      
     }
     echo '</td>';
     echo '<td>';

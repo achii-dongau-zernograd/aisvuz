@@ -19,7 +19,7 @@
         <div class="container-fluid">
             <div class="navbar-header">
                 <a class="navbar-brand" href="http://ачгаа.рф">
-                    <img alt="Brand" src="http://ачгаа.рф/wp-content/themes/atahualpa364/images/achii.jpg">
+                    
                 </a>                
             </div>
         </div>
