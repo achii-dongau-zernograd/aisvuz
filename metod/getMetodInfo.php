@@ -8,7 +8,6 @@
 
 require_once("../includes/constants.php");
 include("../includes/header.php");
-echo '<br><br><br>';
 
 /*подключаем xml файл*/
 $xml1 = simplexml_load_file('Metod.xml');
@@ -57,7 +56,7 @@ foreach ($xml1->uchpos as $uchpos)
         echo '<div class=row>';
             echo '  <div class="col-md-4">';
             // Картинка
-            echo '  <img src='./*$pathtofiles.*/$uchpos->coverfilename.' class="img-responsive img-thumbnail">';
+            echo '  <img src='.$pathtofiles.$uchpos->coverfilename.' class="img-responsive img-thumbnail">';
             echo '  </div>';// end of class="col-md-4"
             echo '  <div class="col-md-8">';
                 // Авторы
