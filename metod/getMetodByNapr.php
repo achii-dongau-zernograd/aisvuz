@@ -62,12 +62,14 @@ foreach ($xml1->uchpos as $uchpos)
     echo '</td>';
     echo '<td>';
     echo '<a href="'.$pathtofiles.$uchpos->pdffilename.'">Открыть</a>';
-    echo '<br><a href="getMetodInfo.php?podpvpechat='.$uchpos['podpvpechat'].'&nomerzakaza='.$uchpos['nomerzakaza'].'">Подробнее</a>';
+    echo '<br><a href="getMetodInfo.php?podpvpechat='.$uchpos['podpvpechat'].'&nomerzakaza='.$uchpos['nomerzakaza'].'&returnnapr='.$napravlenie.'">Подробнее</a>';
     echo '</td></tr>';
     $numrow++;
 }
 
 echo '</tbody></table>';
+
+echo '<a href="ShowListNaprWithUchPos.php" class="button btn btn-default">К списку направлений</a>';// Кнопка "К списку направлений"
 
 echo '</div>';// end of class="container-fluid"
 

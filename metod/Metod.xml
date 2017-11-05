@@ -104,7 +104,19 @@
     <napravleniya>
       <napravlenie>13.03.01</napravlenie>
       <napravlenie>13.03.02</napravlenie>
-      <napravlenie>35.03.05</napravlenie>
+      <napravlenie>19.03.02</napravlenie>
+      <napravlenie>20.03.01</napravlenie>
+      <napravlenie>21.03.02</napravlenie>
+      <napravlenie>23.03.01</napravlenie>
+      <napravlenie>23.03.03</napravlenie>
+      <napravlenie>35.03.04</napravlenie>
+      <napravlenie>35.03.06</napravlenie>
+      <napravlenie>38.03.01</napravlenie>
+      <napravlenie>38.03.02</napravlenie>
+      <napravlenie>38.03.04</napravlenie>
+      <napravlenie>44.03.04</napravlenie>
+      <napravlenie>23.05.01</napravlenie>
+      <napravlenie>38.05.01</napravlenie>
     </napravleniya>
     <annotations>
       <annotation>Аннотация 1</annotation>
@@ -118,7 +130,7 @@
       <content pagenumber="30">Глава 4</content>
     </contents>
   </uchpos>
-  <uchpos year="2017" numstr="100" numpl="5.50" podpvpechat="14.11.2017" nomerzakaza="45">
+  <uchpos year="2017" numstr="100" numpl="5.50" podpvpechat="14.11.2017" nomerzakaza="47">
     <name>Математика. Лабораторный практикум</name>
     <biblopisanie>Математика. Лабораторный практикум, 2017. - 15 с.</biblopisanie>
     <pdffilename>2017111445petrovpi.pdf</pdffilename>
@@ -149,6 +161,101 @@
       <content pagenumber="5">ЛР №2</content>
       <content pagenumber="8">ЛР №3</content>
       <content pagenumber="11">ЛР №4</content>
+    </contents>
+  </uchpos>
+  <uchpos year="2015" numstr="130" numpl="6.50" podpvpechat="14.11.2016" nomerzakaza="1">
+    <name>Математика. Лабораторный практикум</name>
+    <biblopisanie>Физика. Лабораторный практикум, 2015. - 15 с.</biblopisanie>
+    <pdffilename>2017111445petrovpi.pdf</pdffilename>
+    <coverfilename>2017111445petrovpi.jpg</coverfilename>
+    <faculties>
+      <facultet>Инженерно-технологический</facultet>
+    </faculties>
+    <kafs>
+      <kaf>Высшая математика и механика</kaf>
+    </kafs>
+    <authors>
+      <author>Петров П.И.</author>
+      <author>Иванов К.У.</author>
+    </authors>
+    <disciplines>
+      <discipline>Математика</discipline>
+    </disciplines>
+    <napravleniya>
+      <napravlenie>08.02.09</napravlenie>
+      <napravlenie>21.02.05</napravlenie>
+      <napravlenie>23.02.03</napravlenie>
+      <napravlenie>35.02.08</napravlenie>
+      <napravlenie>38.02.01</napravlenie>
+      <napravlenie>38.02.04</napravlenie>
+    </napravleniya>
+    <annotations>
+      <annotation>Анннотация</annotation>
+    </annotations>
+    <contents>
+      <content pagenumber="3">Введение</content>
+      <content pagenumber="4">ЛР №1</content>
+      <content pagenumber="5">ЛР №2</content>
+      <content pagenumber="8">ЛР №3</content>
+      <content pagenumber="11">ЛР №4</content>
+    </contents>
+  </uchpos>
+  	<uchpos year="2015" numstr="100" numpl="5.50" podpvpechat="14.11.2015" nomerzakaza="76">
+    	<name>Наименование уч. пособия</name>
+	    <biblopisanie>Библиографическое описание</biblopisanie>
+	    <pdffilename>2017111445ivanovpv2.pdf</pdffilename>
+	    <coverfilename>2017111445ivanovpv.jpg</coverfilename>
+	    <faculties>
+	      <facultet>Экономика и управление территориями</facultet>
+	    </faculties>
+	    <kafs>
+      <kaf>Гуманитарные дисциплины и иностранные языки</kaf>
+    </kafs>
+    <authors>
+      <author>Иванов П.В.</author>
+    </authors>
+    <disciplines>
+      <discipline>Информатика</discipline>
+    </disciplines>
+    <napravleniya>
+      <napravlenie>13.03.01</napravlenie>
+      <napravlenie>13.03.02</napravlenie>
+      <napravlenie>19.03.02</napravlenie>
+      <napravlenie>20.03.01</napravlenie>
+      <napravlenie>21.03.02</napravlenie>
+      <napravlenie>23.03.01</napravlenie>
+      <napravlenie>23.03.03</napravlenie>
+      <napravlenie>35.03.04</napravlenie>
+      <napravlenie>35.03.06</napravlenie>
+      <napravlenie>38.03.01</napravlenie>
+      <napravlenie>38.03.02</napravlenie>
+      <napravlenie>38.03.04</napravlenie>
+      <napravlenie>44.03.04</napravlenie>
+      <napravlenie>23.05.01</napravlenie>
+      <napravlenie>38.05.01</napravlenie>
+      <napravlenie>13.04.01</napravlenie>
+      <napravlenie>13.04.02</napravlenie>
+      <napravlenie>23.04.01</napravlenie>
+      <napravlenie>23.04.03</napravlenie>
+      <napravlenie>35.04.04</napravlenie>
+      <napravlenie>35.04.06</napravlenie>
+      <napravlenie>38.04.01</napravlenie>
+      <napravlenie>38.04.02</napravlenie>
+      <napravlenie>06.06.01</napravlenie>
+      <napravlenie>23.06.01</napravlenie>
+      <napravlenie>35.06.01</napravlenie>
+      <napravlenie>35.06.04</napravlenie>
+    </napravleniya>
+    <annotations>
+      <annotation>Аннотация 1</annotation>
+      <annotation>Аннотация 2</annotation>
+    </annotations>
+    <contents>
+      <content pagenumber="3">Введение</content>
+      <content pagenumber="5">Глава 1</content>
+      <content pagenumber="10">Глава 2</content>
+      <content pagenumber="20">Глава 3</content>
+      <content pagenumber="30">Глава 4</content>
     </contents>
   </uchpos>
 </metod>

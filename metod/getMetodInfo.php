@@ -14,9 +14,8 @@ $xml1 = simplexml_load_file('Metod.xml');
 
 $podpvpechat = $_GET['podpvpechat'];
 $nomerzakaza = $_GET['nomerzakaza'];
+$returnnapr = $_GET['returnnapr'];
 $pathtofiles=PATH_FILESERVER.'metod/';
-
-
 
 
 
@@ -124,6 +123,9 @@ foreach ($xml1->uchpos as $uchpos)
         echo '<h1>Библиографическое описание</h1>';         
         echo '<p>'.$uchpos->biblopisanie.'</p>';
 
+        echo '<a href="getMetodByNapr.php?napravlenie='.$returnnapr.'" class="button btn btn-default">Назад</a>';// Кнопка "К списку направлений"
+        echo '<a href="ShowListNaprWithUchPos.php" class="button btn btn-default">К списку направлений</a>';// Кнопка "К списку направлений"
+        
         echo '</div>';// end of class="container-fluid"
     }
 }
