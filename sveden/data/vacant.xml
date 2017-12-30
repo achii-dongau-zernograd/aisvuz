@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<VacantRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <VacantBindingList>
+    <Vacant>
+      <EduCode>000000000000000000000</EduCode>
+      <NameProgVacant>рлб</NameProgVacant>
+      <EduLevelVacant>Высшее образование - подготовка кадров высшей квалификации</EduLevelVacant>
+      <NumberKurs>ано</NumberKurs>
+      <EduForm>Очно-заочная</EduForm>
+      <NumberBFVacant>вч6гоч</NumberBFVacant>
+      <NumberBRVacant>нгсльнм</NumberBRVacant>
+      <NumberBMVacant>евсо</NumberBMVacant>
+      <NumberPVacant>нго</NumberPVacant>
+    </Vacant>
+    <Vacant>
+      <EduCode>11111111111111111111111</EduCode>
+      <NameProgVacant>епкп</NameProgVacant>
+      <EduLevelVacant>Высшее образование - магистратура</EduLevelVacant>
+      <NumberKurs>1</NumberKurs>
+      <EduForm>Очно-заочная</EduForm>
+      <NumberBFVacant>к</NumberBFVacant>
+      <NumberBRVacant>к</NumberBRVacant>
+      <NumberBMVacant>к</NumberBMVacant>
+      <NumberPVacant>2</NumberPVacant>
+    </Vacant>
+  </VacantBindingList>
+</VacantRepository>

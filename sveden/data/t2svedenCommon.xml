@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<SvedenCommon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DateOfCreation>2014-09-15T00:00:00</DateOfCreation>
+  <EmailAddresses>
+    <string>achgaa@achgaa.ru</string>
+  </EmailAddresses>
+  <ExistenceOfFilials>false</ExistenceOfFilials>
+  <Faxes>
+    <string>(886359) 43-3-80</string>
+  </Faxes>
+  <PhoneNumbers>
+    <string>8 (86359) 41-7-43</string>
+    <string>8 (86359) 41-3-65</string>
+    <string>8 (86359) 41-8-31</string>
+    <string>8 (86359) 42-6-78</string>
+    <string>8 (86359) 41-6-56</string>
+    <string>8 (86359) 42-1-98</string>
+    <string>8 (86359) 43-6-08</string>
+  </PhoneNumbers>
+  <PostCode>347740</PostCode>
+  <Country>Россия</Country>
+  <Region>Ростовская область</Region>
+  <Settlement>г. Зерноград</Settlement>
+  <Street>ул. Ленина</Street>
+  <HouseNumber>21/2</HouseNumber>
+  <WorkingRegime>
+    <string>Режим работы: вход в учебные корпуса и общежития — по пропускам и студенческим билетам</string>
+    <string>График работы: понедельник-пятница с 8.00 до 17.00. Выходной — суббота, воскресенье</string>
+  </WorkingRegime>
+</SvedenCommon>

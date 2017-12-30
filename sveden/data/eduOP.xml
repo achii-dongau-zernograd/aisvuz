@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<EduOPRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EduOPBindingList>
+    <EduOP>
+      <EduCode>пппппппппппп</EduCode>
+      <EduName>ффффффффффффффр</EduName>
+      <GodNachPodg>ывпварпвапвапв</GodNachPodg>
+      <ProphilProgr>Электооборудование и электротехнологии</ProphilProgr>
+      <ObProgr>900</ObProgr>
+      <OchnForma>900</OchnForma>
+      <OchnZaochnForma>450</OchnZaochnForma>
+      <ZaochnForma>300</ZaochnForma>
+    </EduOP>
+    <EduOP>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электооборудование и электротехнологии</ProphilProgr>
+      <ObProgr>900</ObProgr>
+      <OchnForma>900</OchnForma>
+      <OchnZaochnForma>450</OchnZaochnForma>
+      <ZaochnForma>300</ZaochnForma>
+    </EduOP>
+    <EduOP>
+      <EduCode>1</EduCode>
+      <EduName>1</EduName>
+      <GodNachPodg>1</GodNachPodg>
+      <ProphilProgr>111</ProphilProgr>
+      <ObProgr>11</ObProgr>
+      <OchnForma>1</OchnForma>
+      <OchnZaochnForma>1</OchnZaochnForma>
+      <ZaochnForma>1</ZaochnForma>
+    </EduOP>
+  </EduOPBindingList>
+</EduOPRepository>

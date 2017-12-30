@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<EduPerevodRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EduPerevodBindingList>
+    <EduPerevod>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <EduLevel>Высшее образование - бакалавриат</EduLevel>
+      <EduForm>Очная</EduForm>
+      <NumberOutPerevod>1002112,2</NumberOutPerevod>
+      <NumberToPerevod>10</NumberToPerevod>
+      <NumberResPerevod>10</NumberResPerevod>
+      <NumberExpPerevod>10</NumberExpPerevod>
+    </EduPerevod>
+    <EduPerevod>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <EduLevel>Высшее образование - бакалавриат</EduLevel>
+      <EduForm>Очная</EduForm>
+      <NumberOutPerevod>10</NumberOutPerevod>
+      <NumberToPerevod>10</NumberToPerevod>
+      <NumberResPerevod>10</NumberResPerevod>
+      <NumberExpPerevod>10</NumberExpPerevod>
+    </EduPerevod>
+    <EduPerevod>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <EduLevel>Высшее образование - бакалавриат</EduLevel>
+      <EduForm>Очная</EduForm>
+      <NumberOutPerevod>10</NumberOutPerevod>
+      <NumberToPerevod>10</NumberToPerevod>
+      <NumberResPerevod>10</NumberResPerevod>
+      <NumberExpPerevod>10</NumberExpPerevod>
+    </EduPerevod>
+    <EduPerevod>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <EduLevel>Высшее образование - бакалавриат</EduLevel>
+      <EduForm>Очная</EduForm>
+      <NumberOutPerevod>10</NumberOutPerevod>
+      <NumberToPerevod>10</NumberToPerevod>
+      <NumberResPerevod>10</NumberResPerevod>
+      <NumberExpPerevod>10</NumberExpPerevod>
+    </EduPerevod>
+  </EduPerevodBindingList>
+</EduPerevodRepository>

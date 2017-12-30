@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<FilInfoRepository xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <FilInfoBindingList>
+    <FilInfo>
+      <NameFil>епара</NameFil>
+      <AddressFil>априаааааааааааа</AddressFil>
+      <WebsiteFil>999999999999999999</WebsiteFil>
+    </FilInfo>
+    <FilInfo>
+      <NameFil>вамывпмвпм</NameFil>
+      <AddressFil>111111111111111111</AddressFil>
+      <WebsiteFil>1111111111111111</WebsiteFil>
+    </FilInfo>
+  </FilInfoBindingList>
+</FilInfoRepository>

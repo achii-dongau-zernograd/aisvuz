@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<EduPrRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EduPrBindingList>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологии</ProfilProgr>
+      <EduForm>Очно-заочная</EduForm>
+      <EduPrUcheb>Практика по получению первичных умений и навыков</EduPrUcheb>
+      <EduPrProizv>Технологическая практика</EduPrProizv>
+      <EduPrPreddipl>Практика преддипломная</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>11111111111111111111111111</EduCod>
+      <EduName>444444444444445</EduName>
+      <GodNachPodg>5555555</GodNachPodg>
+      <ProfilProgr>6</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>р</EduPrUcheb>
+      <EduPrProizv>п</EduPrProizv>
+      <EduPrPreddipl>п</EduPrPreddipl>
+    </EduPr>
+  </EduPrBindingList>
+</EduPrRepository>
