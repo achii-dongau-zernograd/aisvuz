@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<EduOPRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EduOPBindingList>
+    <EduOP>
+      <IdEduOP>55b2896e-12cb-4fe7-9ec2-c24ea03ea011</IdEduOP>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <EduLevel>Высшее образование - бакалавриат</EduLevel>
+      <EduForm>Очная</EduForm>
+      <OpMain>c083edc9-345f-47d9-978e-5b59151920e0.pdf</OpMain>
+      <EducationPlan>12a3760e-7c09-4d3f-9a54-5095bf38ef84.pdf</EducationPlan>
+      <EducationAnnotation>e8b9c9e4-3db7-4780-882c-d813f1440fcc.pdf</EducationAnnotation>
+      <EducationShedule>c7940a70-66e7-45e4-92fb-2384a27be1e9.pdf</EducationShedule>
+      <Methodology>Ссылка 5</Methodology>
+      <EduEl>Нет</EduEl>
+      <IsAdopt>false</IsAdopt>
+    </EduOP>
+    <EduOP>
+      <IdEduOP>59191258-7b46-4158-a9ef-7451e7a15192</IdEduOP>
+      <EduCode>13.03.01</EduCode>
+      <EduName>2</EduName>
+      <EduLevel>Высшее образование - магистратура</EduLevel>
+      <EduForm>Очно-заочая</EduForm>
+      <OpMain>5</OpMain>
+      <EducationPlan>6</EducationPlan>
+      <EducationAnnotation>7</EducationAnnotation>
+      <EducationShedule>8</EducationShedule>
+      <Methodology>9</Methodology>
+      <EduEl>10</EduEl>
+      <IsAdopt>true</IsAdopt>
+    </EduOP>
+    <EduOP>
+      <IdEduOP>37b1ceb5-7695-4adc-a04d-7d05b35908f9</IdEduOP>
+      <EduCode>111</EduCode>
+      <EduName>321</EduName>
+      <EduLevel>Высшее образование - специалитет</EduLevel>
+      <EduForm>Очная</EduForm>
+      <OpMain>3</OpMain>
+      <EducationPlan>Представлено в составе образовательной программы</EducationPlan>
+      <EducationAnnotation>3</EducationAnnotation>
+      <EducationShedule>Представлено в составе образовательной программы</EducationShedule>
+      <Methodology>3</Methodology>
+      <EduEl>Электронное обучение</EduEl>
+      <IsAdopt>false</IsAdopt>
+    </EduOP>
+  </EduOPBindingList>
+</EduOPRepository>
