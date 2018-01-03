@@ -39,9 +39,9 @@ and open the template in the editor.
                 <tbody>
 <?php
                         /*подключаем xml файл*/
-                        $xml = simplexml_load_file('data/eduOP.xml');
+                        $xml = simplexml_load_file('data/t11eduOPYears.xml');
 
-                        foreach($xml->EduOPBindingList->EduOP as $curNode)
+                        foreach($xml->EduOPBindingList->EduOPYears as $curNode)
                         {
                             echo "\t\t\t\t\t"   .'<tr>'.PHP_EOL;
                             echo "\t\t\t\t\t\t" .'<td itemprop="eduCode" class="text-center">'      .$curNode->EduCode          ."</td>".PHP_EOL;

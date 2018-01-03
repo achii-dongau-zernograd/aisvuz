@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<EduOPYearsRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EduOPBindingList>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологии</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>110</OchnForma>
+      <OchnZaochnForma>120</OchnZaochnForma>
+      <ZaochnForma>130</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>1</EduCode>
+      <EduName>2</EduName>
+      <GodNachPodg>3</GodNachPodg>
+      <ProphilProgr>4</ProphilProgr>
+      <ObProgr>5</ObProgr>
+      <OchnForma>6</OchnForma>
+      <OchnZaochnForma>7</OchnZaochnForma>
+      <ZaochnForma>8</ZaochnForma>
+    </EduOPYears>
+  </EduOPBindingList>
+</EduOPYearsRepository>
