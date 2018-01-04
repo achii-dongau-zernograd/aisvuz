@@ -25,7 +25,7 @@
                 <tbody>
 <?php
                         /*подключаем xml файл*/
-                        $xml = simplexml_load_file('data/filInfo.xml');
+                        $xml = simplexml_load_file('data/t4filInfo.xml');
 
                         foreach($xml->FilInfoBindingList->FilInfo as $curNode)
                         {
