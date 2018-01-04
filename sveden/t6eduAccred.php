@@ -35,13 +35,11 @@
                         foreach($xml->EduAccredBindingList->EduAccred as $curNode)
                         {
                             echo "\t\t\t\t\t".'<tr>'.PHP_EOL;
-                            echo "\t\t\t\t\t\t".'<td itemprop="eduCode" class="text-center">'.$curNode->EduCode."</td>".PHP_EOL;
+                            echo "\t\t\t\t\t\t".'<td itemprop="eduCode">'.$curNode->EduCode."</td>".PHP_EOL;
                             echo "\t\t\t\t\t\t".'<td itemprop="eduName">'.$curNode->EduName.'</td>'.PHP_EOL;
                             echo "\t\t\t\t\t\t".'<td itemprop="eduLevel">'.$curNode->EduLevel.'</td>'.PHP_EOL;
-                            echo "\t\t\t\t\t\t".'<td itemprop="learningTerm">'.$curNode->LearningTerm.'</td>'.PHP_EOL;
-                            echo "\t\t\t\t\t\t".'<td itemprop="laungue">'.$curNode->Laungue.'</td>'.PHP_EOL;
-                           
-                          
+                            echo "\t\t\t\t\t\t".'<td itemprop="dateEnd">'.$curNode->DateEnd.'</td>'.PHP_EOL;
+                            echo "\t\t\t\t\t\t".'<td itemprop="language">'.$curNode->Language.'</td>'.PHP_EOL;
                             echo "\t\t\t\t\t".'</tr>'.PHP_EOL;
                         }
                     ?> 

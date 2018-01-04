@@ -12,14 +12,14 @@
       <EduPrPreddipl>Практика преддипломная</EduPrPreddipl>
     </EduPr>
     <EduPr>
-      <EduCod>11111111111111111111111111</EduCod>
-      <EduName>444444444444445</EduName>
-      <GodNachPodg>5555555</GodNachPodg>
-      <ProfilProgr>6</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>р</EduPrUcheb>
-      <EduPrProizv>п</EduPrProizv>
-      <EduPrPreddipl>п</EduPrPreddipl>
+      <EduCod>1</EduCod>
+      <EduName>2</EduName>
+      <GodNachPodg>3</GodNachPodg>
+      <ProfilProgr>4</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>5</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>7</EduPrPreddipl>
     </EduPr>
   </EduPrBindingList>
 </EduPrRepository>

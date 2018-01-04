@@ -31,7 +31,7 @@
                 <tbody>
 <?php
                         /*подключаем xml файл*/
-                        $xml = simplexml_load_file('data/purposeCab.xml');
+                        $xml = simplexml_load_file('data/t17purposeCab.xml');
 
                         foreach($xml->PurposeCabBindingList->PurposeCab as $curNode)
                         {

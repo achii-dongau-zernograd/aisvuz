@@ -39,7 +39,7 @@
                 <tbody>
 <?php
                         /*подключаем xml файл*/
-                        $xml = simplexml_load_file('data/vacant.xml');
+                        $xml = simplexml_load_file('data/t23vacant.xml');
 
                         foreach($xml->VacantBindingList->Vacant as $curNode)
                         {

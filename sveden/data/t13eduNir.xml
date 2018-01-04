@@ -17,25 +17,13 @@
       <EduCod>35.03.06</EduCod>
       <EduName>Агроинженерия</EduName>
       <PerechenNir>05.20.02 Электротехнологии и электрооборудование в сельском хозяйстве</PerechenNir>
-      <NprNir>0000000000000000000</NprNir>
+      <NprNir>1</NprNir>
       <StudNir>12</StudNir>
       <MonografNir>3</MonografNir>
       <ArticleNir>73</ArticleNir>
       <PatentRZNir>25</PatentRZNir>
       <SvidRZNir>10</SvidRZNir>
       <FinanceNir>70000</FinanceNir>
-    </EduNir>
-    <EduNir>
-      <EduCod>1111111111111111111</EduCod>
-      <EduName>мам</EduName>
-      <PerechenNir>ама</PerechenNir>
-      <NprNir>ав</NprNir>
-      <StudNir>а</StudNir>
-      <MonografNir>4</MonografNir>
-      <ArticleNir>5</ArticleNir>
-      <PatentRZNir>6</PatentRZNir>
-      <SvidRZNir>7</SvidRZNir>
-      <FinanceNir>8</FinanceNir>
     </EduNir>
   </EduNirBindingList>
 </EduNirRepository>

@@ -39,7 +39,7 @@
                 <tbody>
 <?php
                         /*подключаем xml файл*/
-                        $xml = simplexml_load_file('data/EduNir.xml');
+                        $xml = simplexml_load_file('data/t13eduNir.xml');
 
                         foreach($xml->EduNirBindingList->EduNir as $curNode)
                         {

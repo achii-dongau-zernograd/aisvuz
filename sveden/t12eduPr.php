@@ -38,7 +38,7 @@
                 <tbody>
 <?php
                         /*подключаем xml файл*/
-                        $xml = simplexml_load_file('data/EduPr.xml');
+                        $xml = simplexml_load_file('data/t12eduPr.xml');
 
                         foreach($xml->EduPrBindingList->EduPr as $curNode)
                         {
