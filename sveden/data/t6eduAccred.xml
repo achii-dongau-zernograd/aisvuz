@@ -3,7 +3,7 @@
   <EduAccredBindingList>
     <EduAccred>
       <EduCode>МЕСТО</EduCode>
-      <EduName>андреееееееееееееееееееееееееееееееееее</EduName>
+      <EduName>2222222222</EduName>
       <EduLevel> Высшее образование - специалитет</EduLevel>
       <LearningTerm>2222222</LearningTerm>
       <Laungue>222222222222</Laungue>
@@ -63,13 +63,6 @@
       <EduLevel> Высшее образование - магистратура</EduLevel>
       <LearningTerm>v</LearningTerm>
       <Laungue>v</Laungue>
-    </EduAccred>
-    <EduAccred>
-      <EduCode>vv</EduCode>
-      <EduName>vv</EduName>
-      <EduLevel>vv</EduLevel>
-      <LearningTerm>vv</LearningTerm>
-      <Laungue>vv</Laungue>
     </EduAccred>
   </EduAccredBindingList>
 </EduAccredRepository>

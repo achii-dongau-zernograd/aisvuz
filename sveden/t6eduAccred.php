@@ -30,7 +30,7 @@
                 <tbody>
 <?php
                         /*подключаем xml файл*/
-                        $xml = simplexml_load_file('data/_eduAccred.xml');
+                        $xml = simplexml_load_file('data/t6eduAccred.xml');
 
                         foreach($xml->EduAccredBindingList->EduAccred as $curNode)
                         {
