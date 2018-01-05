@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<UchredLawRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UchredLawBindingList>
+    <UchredLaw>
+      <NameUchred>Минсельхоз РФ</NameUchred>
+      <FullnameUchred>Серегин А.А.</FullnameUchred>
+      <AddressUchred>Ростовская область, г. Зерноград</AddressUchred>
+      <TelUchred>(886539)</TelUchred>
+      <MailUchred>Achgaa@achgaa</MailUchred>
+      <WebsiteUchred>Ачгаа.рф</WebsiteUchred>
+    </UchredLaw>
+    <UchredLaw>
+      <NameUchred>1</NameUchred>
+      <FullnameUchred>1</FullnameUchred>
+      <AddressUchred>1</AddressUchred>
+      <TelUchred>1</TelUchred>
+      <MailUchred>1</MailUchred>
+      <WebsiteUchred>33333</WebsiteUchred>
+    </UchredLaw>
+  </UchredLawBindingList>
+</UchredLawRepository>

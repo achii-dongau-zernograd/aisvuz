@@ -16,7 +16,7 @@ and open the template in the editor.
         <h1>Основные сведения</h1>
         <ul>
             <li><a href="t2svedenCommon.php">Основные сведения</a></li>
-            <li><a href="t3uchredLaw.php">Cведения об учредителях -------</a></li>
+            <li><a href="t3uchredLaw.php">Cведения об учредителях</a></li>
             <li><a href="t4filInfo.php">Сведения о филиалах (при наличии филиалов)</a></li>
         </ul>
         
