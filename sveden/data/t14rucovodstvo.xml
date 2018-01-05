@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<RucovodstvoRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RucovodstvoBindingList>
+    <Rucovodstvo>
+      <Fio>Серегин Александр Анатольевич</Fio>
+      <Post>Директор</Post>
+      <Telephone>8(86359)44-4-44</Telephone>
+      <Email>Director@example.ru</Email>
+    </Rucovodstvo>
+    <Rucovodstvo>
+      <Fio>Глечикова Наталья Александровна</Fio>
+      <Post>Зам.директора по учебной работе</Post>
+      <Telephone>8(86359)55-5-55</Telephone>
+      <Email>ZamDirector@example.ru</Email>
+    </Rucovodstvo>
+  </RucovodstvoBindingList>
+</RucovodstvoRepository>
