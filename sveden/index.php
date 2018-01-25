@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Сведения об образовательной организации</title>
-    </head>
-    <body>
+<?php include("../includes/header.php"); ?>
         
         <h1>Сведения об образовательной организации</h1>
         
@@ -121,6 +110,4 @@ and open the template in the editor.
             <li><a href="t29blankNum.php">---Информация о количестве поданных заявлений о приеме</a></li>
         </ul>
         
-        
-    </body>
-</html>
+<?php include("../includes/footer.php"); ?>

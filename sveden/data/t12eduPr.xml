@@ -1,925 +1,925 @@
-<?xml version="1.0"?>
-<EduPrRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <EduPrBindingList>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Экономика и управление производством</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>3</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Экономика и управление производством</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>3</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Экономика и управление производством</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>3</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Экономика и управление производством</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>3</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Бухгалтерский учет, анализ и аудит</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Бухгалтерский учет, анализ и аудит</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Бухгалтерский учет, анализ и аудит</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Бухгалтерский учет, анализ и аудит</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>3</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2013</GodNachPodg>
-      <ProfilProgr>Бухгалтерский учет, анализ и аудит</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.05.01</EduCod>
-      <EduName>Экономическая безопасность</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.05.01</EduCod>
-      <EduName>Экономическая безопасность</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.05.01</EduCod>
-      <EduName>Экономическая безопасность</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>2</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.05.01</EduCod>
-      <EduName>Экономическая безопасность</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>2</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.05.01</EduCod>
-      <EduName>Экономическая безопасность</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>2</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.05.01</EduCod>
-      <EduName>Экономическая безопасность</EduName>
-      <GodNachPodg>2013</GodNachPodg>
-      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>11</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.05.01</EduCod>
-      <EduName>Экономическая безопасность</EduName>
-      <GodNachPodg>2013</GodNachPodg>
-      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>2</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.05.01</EduCod>
-      <EduName>Экономическая безопасность</EduName>
-      <GodNachPodg>2012</GodNachPodg>
-      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>11</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.04.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Бухгалтерский учет и налогообложение</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>9</EduPrUcheb>
-      <EduPrProizv>12</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.04.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Бухгалтерский учет и налогообложение</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>9</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.04.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Бухгалтерский учет и налогообложение</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>18</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.04.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Бухгалтерский учет и налогообложение</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>24</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.04.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Бухгалтерский учет и налогообложение</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.04.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Экономика предпринимательства</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>18</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.04.01</EduCod>
-      <EduName>Экономика</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Экономика предпринимательства</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>24</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.04.02</EduCod>
-      <EduName>Менеджмент</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Стратегический менеджмент</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>9</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.04.02</EduCod>
-      <EduName>Менеджмент</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Стратегический менеджмент</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>9</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.04.02</EduCod>
-      <EduName>Менеджмент</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Стратегический менеджмент</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-	    <EduPr>
-      <EduCod>21.03.02</EduCod>
-      <EduName>Землеустройство и кадастры</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Землеустройство</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>21.03.02</EduCod>
-      <EduName>Землеустройство и кадастры</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Землеустройство</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>21.03.02</EduCod>
-      <EduName>Землеустройство и кадастры</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Землеустройство</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>7</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>21.03.02</EduCod>
-      <EduName>Землеустройство и кадастры</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Землеустройство</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>21.03.02</EduCod>
-      <EduName>Землеустройство и кадастры</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Землеустройство</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>11</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>21.03.02</EduCod>
-      <EduName>Землеустройство и кадастры</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Землеустройство</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>8</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>21.03.02</EduCod>
-      <EduName>Землеустройство и кадастры</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Землеустройство</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>21.03.02</EduCod>
-      <EduName>Землеустройство и кадастры</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Землеустройство</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>10</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>21.03.02</EduCod>
-      <EduName>Землеустройство и кадастры</EduName>
-      <GodNachPodg>2013</GodNachPodg>
-      <ProfilProgr>Землеустройство</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.02</EduCod>
-      <EduName>Менеджмент</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Производственный менеджмент</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.02</EduCod>
-      <EduName>Менеджмент</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Производственный менеджмент</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.02</EduCod>
-      <EduName>Менеджмент</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Производственный менеджмент</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.02</EduCod>
-      <EduName>Менеджмент</EduName>
-      <GodNachPodg>2013</GodNachPodg>
-      <ProfilProgr>Производственный менеджмент</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.04</EduCod>
-      <EduName>Государственное и муниципальное управление</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Муниципальное управление</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>-</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.04</EduCod>
-      <EduName>Государственное и муниципальное управление</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Муниципальное управление</ProfilProgr>
-      <EduForm>Очная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>3</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>38.03.04</EduCod>
-      <EduName>Государственное и муниципальное управление</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Муниципальное управление</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>3</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>44.03.04</EduCod>
-      <EduName>Профессиональное обучение (по отраслям)</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Экономика и управление</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>5</EduPrProizv>
-      <EduPrPreddipl>-</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>44.03.04</EduCod>
-      <EduName>Профессиональное обучение (по отраслям)</EduName>
-      <GodNachPodg>2013</GodNachPodg>
-      <ProfilProgr>Экономика и управление</ProfilProgr>
-      <EduForm>Заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>5</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2013</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>13</EduPrUcheb>
-      <EduPrProizv>15</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>4</EduPrUcheb>
-      <EduPrProizv>5</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>16</EduPrUcheb>
-      <EduPrProizv>12</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>4</EduPrUcheb>
-      <EduPrProizv>5</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>4</EduPrUcheb>
-      <EduPrProizv>5</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2013</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>12</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>12</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.03.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>20.03.01</EduCod>
-      <EduName>Техносферная безопасность</EduName>
-      <GodNachPodg>2013</GodNachPodg>
-      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>20.03.01</EduCod>
-      <EduName>Техносферная безопасность</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>20.03.01</EduCod>
-      <EduName>Техносферная безопасность</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>20.03.01</EduCod>
-      <EduName>Техносферная безопасность</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>20.03.01</EduCod>
-      <EduName>Техносферная безопасность</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>20.03.01</EduCod>
-      <EduName>Техносферная безопасность</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>20.03.01</EduCod>
-      <EduName>Техносферная безопасность</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>20.03.01</EduCod>
-      <EduName>Техносферная безопасность</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>3</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>6</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>11</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2014</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>11</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>14</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>14</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Электроснабжение сельских территорий и промышленных предприятий</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>21</EduPrUcheb>
-      <EduPrProizv>9</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>18</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>18</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>18</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.03.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>18</EduPrUcheb>
-      <EduPrProizv>6</EduPrProizv>
-      <EduPrPreddipl>9</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.04.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>42</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.04.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>42</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.04.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>42</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.04.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>42</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.04.01</EduCod>
-      <EduName>Теплоэнергетика и теплотехника</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>42</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.04.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>44</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.04.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>44</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.04.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>44</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.04.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>44</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>13.04.02</EduCod>
-      <EduName>Электроэнергетика и электротехника</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Электроснабжение</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>6</EduPrUcheb>
-      <EduPrProizv>44</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.04.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>48</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.04.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>48</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.04.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2016</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>48</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.04.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>очная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>48</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-    <EduPr>
-      <EduCod>35.04.06</EduCod>
-      <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2017</GodNachPodg>
-      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
-      <EduForm>заочная</EduForm>
-      <EduPrUcheb>-</EduPrUcheb>
-      <EduPrProizv>48</EduPrProizv>
-      <EduPrPreddipl>3</EduPrPreddipl>
-    </EduPr>
-  </EduPrBindingList>
+<?xml version="1.0"?>
+<EduPrRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EduPrBindingList>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Экономика и управление производством</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>3</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Экономика и управление производством</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>3</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Экономика и управление производством</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>3</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Экономика и управление производством</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>3</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Бухгалтерский учет, анализ и аудит</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Бухгалтерский учет, анализ и аудит</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Бухгалтерский учет, анализ и аудит</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Бухгалтерский учет, анализ и аудит</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>3</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Бухгалтерский учет, анализ и аудит</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.05.01</EduCod>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.05.01</EduCod>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.05.01</EduCod>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>2</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.05.01</EduCod>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>2</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.05.01</EduCod>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>2</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.05.01</EduCod>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>11</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.05.01</EduCod>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>2</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.05.01</EduCod>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProfilProgr>Экономико-правовое обеспечение экономической безопасности</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>11</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.04.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Бухгалтерский учет и налогообложение</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.04.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Бухгалтерский учет и налогообложение</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.04.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Бухгалтерский учет и налогообложение</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>18</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.04.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Бухгалтерский учет и налогообложение</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>24</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.04.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Бухгалтерский учет и налогообложение</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.04.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Экономика предпринимательства</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>18</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.04.01</EduCod>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Экономика предпринимательства</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>24</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.04.02</EduCod>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Стратегический менеджмент</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.04.02</EduCod>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Стратегический менеджмент</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.04.02</EduCod>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Стратегический менеджмент</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+	    <EduPr>
+      <EduCod>21.03.02</EduCod>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Землеустройство</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>21.03.02</EduCod>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Землеустройство</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>21.03.02</EduCod>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Землеустройство</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>7</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>21.03.02</EduCod>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Землеустройство</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>21.03.02</EduCod>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Землеустройство</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>11</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>21.03.02</EduCod>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Землеустройство</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>8</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>21.03.02</EduCod>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Землеустройство</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>21.03.02</EduCod>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Землеустройство</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>10</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>21.03.02</EduCod>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Землеустройство</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.02</EduCod>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Производственный менеджмент</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.02</EduCod>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Производственный менеджмент</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.02</EduCod>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Производственный менеджмент</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.02</EduCod>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Производственный менеджмент</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.04</EduCod>
+      <EduName>Государственное и муниципальное управление</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Муниципальное управление</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>-</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.04</EduCod>
+      <EduName>Государственное и муниципальное управление</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Муниципальное управление</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>3</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>38.03.04</EduCod>
+      <EduName>Государственное и муниципальное управление</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Муниципальное управление</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>3</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>44.03.04</EduCod>
+      <EduName>Профессиональное обучение (по отраслям)</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Экономика и управление</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>5</EduPrProizv>
+      <EduPrPreddipl>-</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>44.03.04</EduCod>
+      <EduName>Профессиональное обучение (по отраслям)</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Экономика и управление</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>5</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>13</EduPrUcheb>
+      <EduPrProizv>15</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>4</EduPrUcheb>
+      <EduPrProizv>5</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>16</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>4</EduPrUcheb>
+      <EduPrProizv>5</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>4</EduPrUcheb>
+      <EduPrProizv>5</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.03.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>20.03.01</EduCod>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>20.03.01</EduCod>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>20.03.01</EduCod>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>20.03.01</EduCod>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>20.03.01</EduCod>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>20.03.01</EduCod>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>20.03.01</EduCod>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>20.03.01</EduCod>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Безопасность технологических процессов и производств</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>3</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>11</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>11</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>14</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>14</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Электроснабжение сельских территорий и промышленных предприятий</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>21</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>18</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>18</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>18</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>18</EduPrUcheb>
+      <EduPrProizv>6</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.04.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>42</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.04.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>42</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.04.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>42</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.04.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>42</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.04.01</EduCod>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Энергообеспечение предприятий</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>42</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.04.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>44</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.04.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>44</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.04.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>44</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.04.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>44</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>13.04.02</EduCod>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Электроснабжение</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>44</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>48</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>48</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>48</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>48</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Электрооборудование и электротехнологиии</ProfilProgr>
+      <EduForm>заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>48</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+  </EduPrBindingList>
 </EduPrRepository>

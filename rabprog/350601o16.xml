@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - подготовка кадров высшей квалификации</uroven>
+    <napravlenie>35.06.01 — Сельское хозяйство</napravlenie>
+    <profil>Селекция и семеноводство сельскохозяйственных растений</profil>
+    <programma>-</programma>
+    <formaobucheniya>Очная</formaobucheniya>
+    <godnachalapodgotovki>2016</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.1</id>
+    <name>История и философия науки</name>
+    <rpfilename>b1b1rp.pdf</rpfilename>
+    <fosfilename>b1b1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.2</id>
+    <name>Иностранный язык</name>
+    <rpfilename>b1b2rp.pdf</rpfilename>
+    <fosfilename>b1b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.1</id>
+    <name>Генетика популяций и количественных признаков</name>
+    <rpfilename>b1vdv11rp.pdf</rpfilename>
+    <fosfilename>b1vdv11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.2</id>
+    <name>Анализ наследования количественных признаков сельскохозяйственных растений</name>
+    <rpfilename>b1vdv12rp.pdf</rpfilename>
+    <fosfilename>b1vdv12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.1</id>
+    <name>Психология и педагогика высшей школы</name>
+    <rpfilename>b1vod1rp.pdf</rpfilename>
+    <fosfilename>b1vod1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.2</id>
+    <name>Методика преподавания отраслевых дисциплин</name>
+    <rpfilename>b1vod2rp.pdf</rpfilename>
+    <fosfilename>b1vod2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3</id>
+    <name>Научно-исследовательский семинар</name>
+    <rpfilename>b1vod3rp.pdf</rpfilename>
+    <fosfilename>b1vod3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.4</id>
+    <name>Организация сортосмены и сортообновления в структуре сельскохозяйственного производства России</name>
+    <rpfilename>b1vod4rp.pdf</rpfilename>
+    <fosfilename>b1vod4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.5</id>
+    <name>Основные принципы создания нового исходного материала</name>
+    <rpfilename>b1vod5rp.pdf</rpfilename>
+    <fosfilename>b1vod5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.6</id>
+    <name>Селекция полевых культур юга России</name>
+    <rpfilename>b1vod6rp.pdf</rpfilename>
+    <fosfilename>b1vod6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б4.Г.1</id>
+    <name>Подготовка к сдаче и сдача государственного экзамена</name>
+    <rpfilename>b4g1rp.pdf</rpfilename>
+    <fosfilename>b4g1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>ФТД.1</id>
+    <name>Основы защиты интеллектуальной собственности</name>
+    <rpfilename>ftd1rp.pdf</rpfilename>
+    <fosfilename>ftd1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>ФТД.2</id>
+    <name>Патентное право и интеллектуальная собственность</name>
+    <rpfilename>ftd2rp.pdf</rpfilename>
+    <fosfilename>ftd2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б4.Г.1_ИА</id>
+    <name>Подготовка к сдаче и сдача итогового экзамена</name>
+    <rpfilename>b4g1iarp.pdf</rpfilename>
+    <fosfilename>b4g1iafos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б3.1</id>
+    <name>Программа научных исследований</name>
+    <rpfilename>b31rp.pdf</rpfilename>
+    <fosfilename>b31fos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.1</id>
+    <name>Педагогическая практика</name>
+    <rpfilename>b21rp.pdf</rpfilename>
+    <fosfilename>b21fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.2</id>
+    <name>Научно-исследовательская практика</name>
+    <rpfilename>b22rp.pdf</rpfilename>
+    <fosfilename>b22fos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б4.Д.1</id>
+    <name>Представление научного доклада об основных результатах подготовленной научноквалификационной работы</name>
+    <rpfilename>b4d1rp.pdf</rpfilename>
+    <fosfilename>b4d1fos.pdf</fosfilename>
+  </gia>
+  <gia>
+    <id>Б4.Д.1_ИА</id>
+    <name>Представление научного доклада об основных результатах подготовленной научноквалификационной работы</name>
+    <rpfilename>b4d1iarp.pdf</rpfilename>
+    <fosfilename>b4d1iafos.pdf</fosfilename>
+  </gia>
+</uchplan>

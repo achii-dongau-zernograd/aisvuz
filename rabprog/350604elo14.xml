@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<uchplan>
+  <common>
+    <uroven>Высшее образование - подготовка кадров высшей квалификации</uroven>
+    <napravlenie>35.06.04 — Технологии, средства механизации и энергетическое оборудование в сельском, лесном и рыбном хозяйстве</napravlenie>
+    <profil>Электротехнологии и электрооборудование в сельском хозяйстве</profil>
+    <programma>-</programma>
+    <formaobucheniya>Очная</formaobucheniya>
+    <godnachalapodgotovki>2014</godnachalapodgotovki>
+  </common>
+  <discipline>
+    <id>Б1.Б.1</id>
+    <name>История и философия науки</name>
+    <rpfilename>b1b1rp.pdf</rpfilename>
+    <fosfilename>b1b1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.Б.2</id>
+    <name>Иностранный язык (английский)</name>
+    <rpfilename>b1b2rp.pdf</rpfilename>
+    <fosfilename>b1b2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.1</id>
+    <name>Методика научных исследований</name>
+    <rpfilename>b1vod1rp.pdf</rpfilename>
+    <fosfilename>b1vod1fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.2</id>
+    <name>Научно-исследовательский семинар</name>
+    <rpfilename>b1vod2rp.pdf</rpfilename>
+    <fosfilename>b1vod2fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.3</id>
+    <name>Современные аспекты электротехники и энергоэффективность систем электроснабжения</name>
+    <rpfilename>b1vod3rp.pdf</rpfilename>
+    <fosfilename>b1vod3fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.4</id>
+    <name>Современные электротехнологии и установки на их основе</name>
+    <rpfilename>b1vod4rp.pdf</rpfilename>
+    <fosfilename>b1vod4fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.5</id>
+    <name>Психология и педагогика высшей школы</name>
+    <rpfilename>b1vod5rp.pdf</rpfilename>
+    <fosfilename>b1vod5fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ОД.6</id>
+    <name>Методика преподавания отраслевых дисциплин</name>
+    <rpfilename>b1vod6rp.pdf</rpfilename>
+    <fosfilename>b1vod6fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.1</id>
+    <name>Электрооборудование и средства автоматизации сельскохозяйственного производства</name>
+    <rpfilename>b1vdv11rp.pdf</rpfilename>
+    <fosfilename>b1vdv11fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>Б1.В.ДВ.1.2</id>
+    <name>Энергоустановки на основе возобновляемых источников энергии</name>
+    <rpfilename>b1vdv12rp.pdf</rpfilename>
+    <fosfilename>b1vdv12fos.pdf</fosfilename>
+  </discipline>
+  <discipline>
+    <id>ФТД.1</id>
+    <name>Изобретательская деятельность и патентоведение</name>
+    <rpfilename>ftd1rp.pdf</rpfilename>
+    <fosfilename>ftd1fos.pdf</fosfilename>
+  </discipline>
+  <pract>
+    <id>Б2.1</id>
+    <name>Педагогическая практика</name>
+    <rpfilename>b21rp.pdf</rpfilename>
+    <fosfilename>b21fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б2.2</id>
+    <name>Научно-исследовательская практика</name>
+    <rpfilename>b22rp.pdf</rpfilename>
+    <fosfilename>b22fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б3.1</id>
+    <name>Научно-исследовательская работа</name>
+    <rpfilename>b31rp.pdf</rpfilename>
+    <fosfilename>b31fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б3.2</id>
+    <name>Научно-исследовательская деятельность (часть 1)</name>
+    <rpfilename>b32rp.pdf</rpfilename>
+    <fosfilename>b32fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б3.3</id>
+    <name>Научно-исследовательская деятельность (часть 2)</name>
+    <rpfilename>b33rp.pdf</rpfilename>
+    <fosfilename>b33fos.pdf</fosfilename>
+  </pract>
+  <pract>
+    <id>Б3.4</id>
+    <name>Подготовка научно-квалификационной работы (диссертации) на соискание ученой степени кандидата наук</name>
+    <rpfilename>b34rp.pdf</rpfilename>
+    <fosfilename>b34fos.pdf</fosfilename>
+  </pract>
+  <gia>
+    <id>Б4.Г.1</id>
+    <name>Подготовка к сдаче и сдача государственного экзамена</name>
+    <rpfilename>b4g1rp.pdf</rpfilename>
+    <fosfilename>b4g1fos.pdf</fosfilename>
+  </gia>
+  <gia>
+    <id>Б4.Д.1</id>
+    <name>Представление научного доклада об основных результатах  подготовленной научно-квалификационной работы (диссертации)</name>
+    <rpfilename>b4d1rp.pdf</rpfilename>
+    <fosfilename>b4d1fos.pdf</fosfilename>
+  </gia>
+</uchplan>
