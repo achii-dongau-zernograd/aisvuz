@@ -53,6 +53,7 @@
                     <li><a href="#">Ссылка 2</a></li>
                     <li><a href="#">Ссылка 3</a></li> -->
                     <li><a href="/metod/ShowListNaprWithUchPos.php">Учебные пособия</a></li>
+                    <li><a href="/rabprog/">Рабочие программы и ФОС</a></li>
                     <li><a href="#">Вход в систему</a></li>
                      
                 </ul>
