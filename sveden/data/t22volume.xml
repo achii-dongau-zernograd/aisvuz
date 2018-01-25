@@ -2,22 +2,10 @@
 <VolumeRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <VolumeBindingList>
     <Volume>
-      <FinBFVolume>р</FinBFVolume>
-      <FinBRVolume>р</FinBRVolume>
-      <FinBMVolume>рььь</FinBMVolume>
-      <FinPVolume>р</FinPVolume>
-    </Volume>
-    <Volume>
-      <FinBFVolume>еу</FinBFVolume>
-      <FinBRVolume>е</FinBRVolume>
-      <FinBMVolume>е</FinBMVolume>
-      <FinPVolume>еуц</FinPVolume>
-    </Volume>
-    <Volume>
-      <FinBFVolume>1</FinBFVolume>
-      <FinBRVolume>1</FinBRVolume>
-      <FinBMVolume>1</FinBMVolume>
-      <FinPVolume>1</FinPVolume>
+      <FinBFVolume>100000</FinBFVolume>
+      <FinBRVolume>0</FinBRVolume>
+      <FinBMVolume>0</FinBMVolume>
+      <FinPVolume>65000</FinPVolume>
     </Volume>
   </VolumeBindingList>
 </VolumeRepository>

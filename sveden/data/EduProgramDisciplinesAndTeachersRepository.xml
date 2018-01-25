@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<EduProgramDisciplinesAndTeachersRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <EduProgramDisciplinesAndTeachersBindingList>
+    <EduProgramDisciplinesAndTeachers>
+      <Id>9cdf8b8e-0bd6-472d-a0e3-9158a3b10be8</Id>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <EduLevel>Высшее образование-бакалавриат</EduLevel>
+      <EduForm>Очная</EduForm>
+      <DisciplinesAndTeachers>
+        <DisciplineAndTeachers>
+          <Discipline>Математика</Discipline>
+          <TeachersId>
+            <string>000211</string>
+          </TeachersId>
+        </DisciplineAndTeachers>
+      </DisciplinesAndTeachers>
+    </EduProgramDisciplinesAndTeachers>
+    <EduProgramDisciplinesAndTeachers>
+      <Id>88eb759d-1aa9-4438-829b-8c369050ba4d</Id>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <EduLevel>Высшее образование - бакалавриат</EduLevel>
+      <EduForm>Очная</EduForm>
+      <DisciplinesAndTeachers>
+        <DisciplineAndTeachers>
+          <Discipline>Информатика</Discipline>
+          <TeachersId>
+            <string>000123</string>
+            <string>000211</string>
+          </TeachersId>
+        </DisciplineAndTeachers>
+        <DisciplineAndTeachers>
+          <Discipline>Информационные технологии</Discipline>
+          <TeachersId>
+            <string>000123</string>
+            <string>000211</string>
+            <string>000003</string>
+          </TeachersId>
+        </DisciplineAndTeachers>
+        <DisciplineAndTeachers>
+          <Discipline>Автоматика</Discipline>
+          <TeachersId>
+            <string>000123</string>
+          </TeachersId>
+        </DisciplineAndTeachers>
+      </DisciplinesAndTeachers>
+    </EduProgramDisciplinesAndTeachers>
+  </EduProgramDisciplinesAndTeachersBindingList>
+</EduProgramDisciplinesAndTeachersRepository>

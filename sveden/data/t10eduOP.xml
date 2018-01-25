@@ -29,19 +29,5 @@
       <EduEl>10</EduEl>
       <IsAdopt>true</IsAdopt>
     </EduOP>
-    <EduOP>
-      <IdEduOP>37b1ceb5-7695-4adc-a04d-7d05b35908f9</IdEduOP>
-      <EduCode>111</EduCode>
-      <EduName>321</EduName>
-      <EduLevel>Высшее образование - специалитет</EduLevel>
-      <EduForm>Очная</EduForm>
-      <OpMain>3</OpMain>
-      <EducationPlan>Представлено в составе образовательной программы</EducationPlan>
-      <EducationAnnotation>3</EducationAnnotation>
-      <EducationShedule>Представлено в составе образовательной программы</EducationShedule>
-      <Methodology>3</Methodology>
-      <EduEl>Электронное обучение</EduEl>
-      <IsAdopt>false</IsAdopt>
-    </EduOP>
   </EduOPBindingList>
 </EduOPRepository>

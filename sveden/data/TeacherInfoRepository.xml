@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<TeacherInfoRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TeacherInfoBindingList>
+    <TeacherInfo>
+      <Id>000003</Id>
+      <Fio>Воронин Сергей Михайлович</Fio>
+      <Post>
+        <string>Профессор</string>
+      </Post>
+      <TeachingLevel>Высшее образование</TeachingLevel>
+      <TeachingQual />
+      <Degree>Доктор технических наук</Degree>
+      <AcademStat>Профессор</AcademStat>
+      <EmployeeQualification />
+      <ProfDevelopment>
+        <Training>
+          <string>1111</string>
+        </Training>
+        <ProfessionalRetraining />
+      </ProfDevelopment>
+      <GenExperience>30</GenExperience>
+      <SpecExperience>29</SpecExperience>
+    </TeacherInfo>
+    <TeacherInfo>
+      <Id>000211</Id>
+      <Fio>Калинин Александр Эдуердович</Fio>
+      <Post>
+        <string>Доцент</string>
+      </Post>
+      <TeachingLevel>Высшее образование</TeachingLevel>
+      <TeachingQual>
+        <string>Инженер-электрик</string>
+      </TeachingQual>
+      <Degree>Кандидат технических наук</Degree>
+      <AcademStat>Доцент</AcademStat>
+      <EmployeeQualification>
+        <string>Электрификация сельского хозяйства</string>
+      </EmployeeQualification>
+      <ProfDevelopment>
+        <Training>
+          <string>2015 - Повышение квалификации 2</string>
+        </Training>
+        <ProfessionalRetraining>
+          <string>2015 - Профессиональная переподготовка по направлению 2</string>
+        </ProfessionalRetraining>
+      </ProfDevelopment>
+      <GenExperience>15</GenExperience>
+      <SpecExperience>14</SpecExperience>
+    </TeacherInfo>
+    <TeacherInfo>
+      <Id>000123</Id>
+      <Fio>Литвинов Владимир Николаевич</Fio>
+      <Post>
+        <string>Заведующий кафедрой</string>
+        <string>Тест</string>
+      </Post>
+      <TeachingLevel>Высшее образование</TeachingLevel>
+      <TeachingQual>
+        <string>Инженер-электрик</string>
+      </TeachingQual>
+      <Degree>Кандидат технических наук</Degree>
+      <AcademStat>Доцент</AcademStat>
+      <EmployeeQualification>
+        <string>Электрификация и автоматизация сельского хозяйства</string>
+      </EmployeeQualification>
+      <ProfDevelopment>
+        <Training>
+          <string>2016 - Повышение квалификации изм1</string>
+          <string>2017 - Повышение квалификации 2</string>
+        </Training>
+        <ProfessionalRetraining>
+          <string>2017 - Профессиональная переподготовка по направлению 1</string>
+          <string>2017 - Профессиональная переподготовка по направлению изм2</string>
+          <string>2017 - ПП3</string>
+        </ProfessionalRetraining>
+      </ProfDevelopment>
+      <GenExperience>11</GenExperience>
+      <SpecExperience>8</SpecExperience>
+    </TeacherInfo>
+  </TeacherInfoBindingList>
+</TeacherInfoRepository>

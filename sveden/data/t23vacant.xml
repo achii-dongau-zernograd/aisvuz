@@ -2,26 +2,15 @@
 <VacantRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <VacantBindingList>
     <Vacant>
-      <EduCode>000000000000000000000</EduCode>
-      <NameProgVacant>рлб</NameProgVacant>
-      <EduLevelVacant>Высшее образование - подготовка кадров высшей квалификации</EduLevelVacant>
-      <NumberKurs>ано</NumberKurs>
-      <EduForm>Очно-заочная</EduForm>
-      <NumberBFVacant>вч6гоч</NumberBFVacant>
-      <NumberBRVacant>нгсльнм</NumberBRVacant>
-      <NumberBMVacant>евсо</NumberBMVacant>
-      <NumberPVacant>нго</NumberPVacant>
-    </Vacant>
-    <Vacant>
-      <EduCode>11111111111111111111111</EduCode>
-      <NameProgVacant>епкп</NameProgVacant>
-      <EduLevelVacant>Высшее образование - магистратура</EduLevelVacant>
+      <EduCode>35.03.06</EduCode>
+      <NameProgVacant>Агроинженерия</NameProgVacant>
+      <EduLevelVacant>Высшее образование - бакалавриат</EduLevelVacant>
       <NumberKurs>1</NumberKurs>
-      <EduForm>Очно-заочная</EduForm>
-      <NumberBFVacant>к</NumberBFVacant>
-      <NumberBRVacant>к</NumberBRVacant>
-      <NumberBMVacant>к</NumberBMVacant>
-      <NumberPVacant>2</NumberPVacant>
+      <EduForm>Очная</EduForm>
+      <NumberBFVacant>2</NumberBFVacant>
+      <NumberBRVacant>0</NumberBRVacant>
+      <NumberBMVacant>0</NumberBMVacant>
+      <NumberPVacant>5</NumberPVacant>
     </Vacant>
   </VacantBindingList>
 </VacantRepository>

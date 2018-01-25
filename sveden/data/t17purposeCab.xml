@@ -2,15 +2,15 @@
 <PurposeCabRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <PurposeCabBindingList>
     <PurposeCab>
-      <EduCode>4</EduCode>
-      <EduName>2</EduName>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
       <AdEduDisiPr>2</AdEduDisiPr>
       <NameCabSr>25</NameCabSr>
       <PurposeCabSr>20</PurposeCabSr>
       <PurposeCabOvz>222</PurposeCabOvz>
     </PurposeCab>
     <PurposeCab>
-      <EduCode>1</EduCode>
+      <EduCode>2</EduCode>
       <EduName>1</EduName>
       <AdEduDisiPr>1</AdEduDisiPr>
       <NameCabSr>1</NameCabSr>

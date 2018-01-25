@@ -2,67 +2,11 @@
 <EduAccredRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <EduAccredBindingList>
     <EduAccred>
-      <EduCode>МЕСТО</EduCode>
-      <EduName>2222222222</EduName>
-      <EduLevel> Высшее образование - специалитет</EduLevel>
-      <LearningTerm>2222222</LearningTerm>
-      <Laungue>222222222222</Laungue>
-    </EduAccred>
-    <EduAccred>
-      <EduCode>11111</EduCode>
-      <EduName>1111111111п</EduName>
-      <EduLevel> Высшее образование - специалитет</EduLevel>
-      <LearningTerm>1111111</LearningTerm>
-      <Laungue>111111111</Laungue>
-    </EduAccred>
-    <EduAccred>
-      <EduCode>333333</EduCode>
-      <EduName>33333333333333</EduName>
-      <EduLevel> Высшее образование - специалитет</EduLevel>
-      <LearningTerm>3333333</LearningTerm>
-      <Laungue>3333333333333333333</Laungue>
-    </EduAccred>
-    <EduAccred>
-      <EduCode>66666</EduCode>
-      <EduName>66666666</EduName>
-      <EduLevel> Высшее образование - магистратура</EduLevel>
-      <LearningTerm>6666666666</LearningTerm>
-      <Laungue>666666666666666</Laungue>
-    </EduAccred>
-    <EduAccred>
-      <EduCode>апарарпарарарара</EduCode>
-      <EduName>апарарпарарарара</EduName>
-      <EduLevel> Высшее  - подготовка кадров высшей квалификации</EduLevel>
-      <LearningTerm>апарарпарарарара</LearningTerm>
-      <Laungue>апарарпарарарара</Laungue>
-    </EduAccred>
-    <EduAccred>
-      <EduCode>vvvvv</EduCode>
-      <EduName>vvvv</EduName>
-      <EduLevel> Высшее образование - специалитет</EduLevel>
-      <LearningTerm>vvvvv</LearningTerm>
-      <Laungue>vvvvv</Laungue>
-    </EduAccred>
-    <EduAccred>
-      <EduCode>vvv</EduCode>
-      <EduName>vvv</EduName>
-      <EduLevel> Высшее образование - магистратура</EduLevel>
-      <LearningTerm>vvv</LearningTerm>
-      <Laungue>vvvv</Laungue>
-    </EduAccred>
-    <EduAccred>
-      <EduCode>2222222222222</EduCode>
-      <EduName>22222222222222</EduName>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
       <EduLevel> Высшее образование - бакалавриат</EduLevel>
-      <LearningTerm>11111111111111111</LearningTerm>
-      <Laungue>1111111111111111111</Laungue>
-    </EduAccred>
-    <EduAccred>
-      <EduCode> v</EduCode>
-      <EduName>vv</EduName>
-      <EduLevel> Высшее образование - магистратура</EduLevel>
-      <LearningTerm>v</LearningTerm>
-      <Laungue>v</Laungue>
+      <DateEnd>2020</DateEnd>
+      <Language>Русский</Language>
     </EduAccred>
   </EduAccredBindingList>
 </EduAccredRepository>

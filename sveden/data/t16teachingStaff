@@ -1,0 +1,140 @@
+<?xml version="1.0"?>
+<TeachingStaffRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TeachingStaffBindingList>
+    <TeachingStaff>
+      <Id>5c54eca3-d065-4995-9dbe-20fadf1a671a</Id>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <EduLevel>Высшее образование-бакалавриат</EduLevel>
+      <EduForm>Очная</EduForm>
+      <TeachingStaffRows>
+        <TeachingStaffRow>
+          <Id>53a94ecd-d13d-4d67-922f-a63ffe588050</Id>
+          <Fio>Калинин Александр Эдуердович</Fio>
+          <Post>
+            <string>Доцент</string>
+          </Post>
+          <TeachingDisciplines>
+            <string>Математика</string>
+          </TeachingDisciplines>
+          <TeachingLevel>Высшее образование</TeachingLevel>
+          <TeachingQual>
+            <string>Инженер-электрик</string>
+          </TeachingQual>
+          <Degree>Кандидат технических наук</Degree>
+          <AcademStat>Доцент</AcademStat>
+          <EmployeeQualification>
+            <string>Электрификация сельского хозяйства</string>
+          </EmployeeQualification>
+          <ProfDevelopment>
+            <Training>
+              <string>2015 - Повышение квалификации 2</string>
+            </Training>
+            <ProfessionalRetraining>
+              <string>2015 - Профессиональная переподготовка по направлению 2</string>
+            </ProfessionalRetraining>
+          </ProfDevelopment>
+          <GenExperience>15</GenExperience>
+          <SpecExperience>14</SpecExperience>
+        </TeachingStaffRow>
+      </TeachingStaffRows>
+    </TeachingStaff>
+    <TeachingStaff>
+      <Id>cd9333dc-1069-4650-9430-71f0bbd63919</Id>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <EduLevel>Высшее образование - бакалавриат</EduLevel>
+      <EduForm>Очная</EduForm>
+      <TeachingStaffRows>
+        <TeachingStaffRow>
+          <Id>b2221c7f-ae80-4924-8611-bd8f3e11c62c</Id>
+          <Fio>Литвинов Владимир Николаевич</Fio>
+          <Post>
+            <string>Заведующий кафедрой</string>
+            <string>Тест</string>
+          </Post>
+          <TeachingDisciplines>
+            <string>Информатика</string>
+            <string>Информационные технологии</string>
+            <string>Автоматика</string>
+          </TeachingDisciplines>
+          <TeachingLevel>Высшее образование</TeachingLevel>
+          <TeachingQual>
+            <string>Инженер-электрик</string>
+          </TeachingQual>
+          <Degree>Кандидат технических наук</Degree>
+          <AcademStat>Доцент</AcademStat>
+          <EmployeeQualification>
+            <string>Электрификация и автоматизация сельского хозяйства</string>
+          </EmployeeQualification>
+          <ProfDevelopment>
+            <Training>
+              <string>2016 - Повышение квалификации изм1</string>
+              <string>2017 - Повышение квалификации 2</string>
+            </Training>
+            <ProfessionalRetraining>
+              <string>2017 - Профессиональная переподготовка по направлению 1</string>
+              <string>2017 - Профессиональная переподготовка по направлению изм2</string>
+              <string>2017 - ПП3</string>
+            </ProfessionalRetraining>
+          </ProfDevelopment>
+          <GenExperience>11</GenExperience>
+          <SpecExperience>8</SpecExperience>
+        </TeachingStaffRow>
+        <TeachingStaffRow>
+          <Id>506b478f-b23a-4346-97c9-3e2108e7cd5f</Id>
+          <Fio>Калинин Александр Эдуердович</Fio>
+          <Post>
+            <string>Доцент</string>
+          </Post>
+          <TeachingDisciplines>
+            <string>Информатика</string>
+            <string>Информационные технологии</string>
+          </TeachingDisciplines>
+          <TeachingLevel>Высшее образование</TeachingLevel>
+          <TeachingQual>
+            <string>Инженер-электрик</string>
+          </TeachingQual>
+          <Degree>Кандидат технических наук</Degree>
+          <AcademStat>Доцент</AcademStat>
+          <EmployeeQualification>
+            <string>Электрификация сельского хозяйства</string>
+          </EmployeeQualification>
+          <ProfDevelopment>
+            <Training>
+              <string>2015 - Повышение квалификации 2</string>
+            </Training>
+            <ProfessionalRetraining>
+              <string>2015 - Профессиональная переподготовка по направлению 2</string>
+            </ProfessionalRetraining>
+          </ProfDevelopment>
+          <GenExperience>15</GenExperience>
+          <SpecExperience>14</SpecExperience>
+        </TeachingStaffRow>
+        <TeachingStaffRow>
+          <Id>9634ff9d-02ba-40e3-9ee8-a815ab27c13b</Id>
+          <Fio>Воронин Сергей Михайлович</Fio>
+          <Post>
+            <string>Профессор</string>
+          </Post>
+          <TeachingDisciplines>
+            <string>Информационные технологии</string>
+          </TeachingDisciplines>
+          <TeachingLevel>Высшее образование</TeachingLevel>
+          <TeachingQual />
+          <Degree>Доктор технических наук</Degree>
+          <AcademStat>Профессор</AcademStat>
+          <EmployeeQualification />
+          <ProfDevelopment>
+            <Training>
+              <string>1111</string>
+            </Training>
+            <ProfessionalRetraining />
+          </ProfDevelopment>
+          <GenExperience>30</GenExperience>
+          <SpecExperience>29</SpecExperience>
+        </TeachingStaffRow>
+      </TeachingStaffRows>
+    </TeachingStaff>
+  </TeachingStaffBindingList>
+</TeachingStaffRepository>

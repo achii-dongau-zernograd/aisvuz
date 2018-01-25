@@ -6,16 +6,6 @@
       <EduName>Агроинженерия</EduName>
       <EduLevel>Высшее образование - бакалавриат</EduLevel>
       <EduForm>Очная</EduForm>
-      <NumberOutPerevod>1002112,2</NumberOutPerevod>
-      <NumberToPerevod>10</NumberToPerevod>
-      <NumberResPerevod>10</NumberResPerevod>
-      <NumberExpPerevod>10</NumberExpPerevod>
-    </EduPerevod>
-    <EduPerevod>
-      <EduCode>35.03.06</EduCode>
-      <EduName>Агроинженерия</EduName>
-      <EduLevel>Высшее образование - бакалавриат</EduLevel>
-      <EduForm>Очная</EduForm>
       <NumberOutPerevod>10</NumberOutPerevod>
       <NumberToPerevod>10</NumberToPerevod>
       <NumberResPerevod>10</NumberResPerevod>
@@ -36,10 +26,10 @@
       <EduName>Агроинженерия</EduName>
       <EduLevel>Высшее образование - бакалавриат</EduLevel>
       <EduForm>Очная</EduForm>
-      <NumberOutPerevod>10</NumberOutPerevod>
-      <NumberToPerevod>10</NumberToPerevod>
-      <NumberResPerevod>10</NumberResPerevod>
-      <NumberExpPerevod>10</NumberExpPerevod>
+      <NumberOutPerevod>20</NumberOutPerevod>
+      <NumberToPerevod>30</NumberToPerevod>
+      <NumberResPerevod>40</NumberResPerevod>
+      <NumberExpPerevod>50</NumberExpPerevod>
     </EduPerevod>
   </EduPerevodBindingList>
 </EduPerevodRepository>

@@ -4,22 +4,2132 @@
     <EduOPYears>
       <EduCode>35.03.06</EduCode>
       <EduName>Агроинженерия</EduName>
-      <GodNachPodg>2015</GodNachPodg>
-      <ProphilProgr>Электрооборудование и электротехнологии</ProphilProgr>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Экономика и управление производством</ProphilProgr>
       <ObProgr>за 1 год обучения</ObProgr>
-      <OchnForma>110</OchnForma>
-      <OchnZaochnForma>120</OchnZaochnForma>
-      <ZaochnForma>130</ZaochnForma>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>59</ZaochnForma>
     </EduOPYears>
     <EduOPYears>
-      <EduCode>1</EduCode>
-      <EduName>2</EduName>
-      <GodNachPodg>3</GodNachPodg>
-      <ProphilProgr>4</ProphilProgr>
-      <ObProgr>5</ObProgr>
-      <OchnForma>6</OchnForma>
-      <OchnZaochnForma>7</OchnZaochnForma>
-      <ZaochnForma>8</ZaochnForma>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Экономика и управление производством</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Экономика и управление производством</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Экономика и управление производством</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет, анализ и аудит</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.05.01</EduCode>
+      <EduName>Экономическая безопасность</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Экономико-правовое обеспечение экономической безопасности</ProphilProgr>
+      <ObProgr>за 6 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>60</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет и налогообложение</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>37</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет и налогообложение</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>37</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет и налогообложение</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>59</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет и налогообложение</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>37</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет и налогообложение</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>59</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Бухгалтерский учет и налогообложение</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Экономика предпринимательства</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>38</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.01</EduCode>
+      <EduName>Экономика</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Экономика предпринимательства</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>58</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Стратегический менеджмент</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>40</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Стратегический менеджмент</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>40</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Стратегический менеджмент</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>56</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.04.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Стратегический менеджмент</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>55</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>55</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Земелеустройство</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Землеустройство</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Земелеустройство</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>21.03.02</EduCode>
+      <EduName>Землеустройство и кадастры</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Земелустройство</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Производственный менеджмент</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Производственный менеджмент</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Производственный менеджмент</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Производственный менеджмент</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Производственный менеджмент</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Производственный менеджмент</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Производственный менеджмент</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Производственный менеджмент</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Производственный менеджмент</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Производственный менеджмент</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.02</EduCode>
+      <EduName>Менеджмент</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Производственный менеджмент</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.04</EduCode>
+      <EduName>Государственное и муниципальное управление</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Муниципальное управление</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.04</EduCode>
+      <EduName>Государственное и муниципальное управление</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Муниципальное управление</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.04</EduCode>
+      <EduName>Государственное и муниципальное управление</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Муниципальное управление</ProphilProgr>
+      <ObProgr>за 2 год обучения </ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.04</EduCode>
+      <EduName>Государственное и муниципальное управление</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Муниципальное управление </ProphilProgr>
+      <ObProgr>за 3 год обучения </ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>38.03.04</EduCode>
+      <EduName>Государственное и муниципальное управление</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Муниципальное управление</ProphilProgr>
+      <ObProgr>за 4 год обучения </ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>44.03.04</EduCode>
+      <EduName>Профессиональное обучение (по отраслям)</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Экономика и управление</ProphilProgr>
+      <ObProgr>за 1 год обучения </ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>44.03.04</EduCode>
+      <EduName>Профессиональное обучение (по отраслям)</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Экономика и управление</ProphilProgr>
+      <ObProgr>за 2 год обучения </ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>44.03.04</EduCode>
+      <EduName>Профессиональное обучение (по отраслям)</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Экономика и управление</ProphilProgr>
+      <ObProgr>за 3 год обучения </ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>44.03.04</EduCode>
+      <EduName>Профессиональное обучение (по отраслям)</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Экономика и управление</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>44.03.04</EduCode>
+      <EduName>Профессиональное обучение (по отраслям)</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Экономика и управление</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>44.03.04</EduCode>
+      <EduName>Профессиональное обучение (по отраслям)</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Экономика и управление</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>44.03.04</EduCode>
+      <EduName>Профессиональное обучение (по отраслям)</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Экономика и управление</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>44.03.04</EduCode>
+      <EduName>Профессиональное обучение (по отраслям)</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Экономика и управление</ProphilProgr>
+      <ObProgr>за 4 год обучения </ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>44.03.04</EduCode>
+      <EduName>Профессиональное обучение (по отраслям)</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Экономика и управление</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>60</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>55</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>29</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>60</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>55</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>31</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>Энергообеспечение предприятий</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>58</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>38</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>56</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>40</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>57</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>35</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>61</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>34</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>63</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.03.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13,03,02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>37</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13,03,02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13,03,02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>59</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13,03,02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13,03,02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13,03,02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>37</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13,03,02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20,03,01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20,03,01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20,03,01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20,03,01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20,03,01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>40</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>20.03.01</EduCode>
+      <EduName>Техносферная безопасность</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Безопасность технологических процессов и производств</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>40</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>59</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>31</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение сельских территорий и промышленных предприятий</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение сельских территорий и промышленных предприятий</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение сельских территорий и промышленных предприятий</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение сельских территорий и промышленных предприятий</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение сельских территорий и промышленных предприятий</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>56</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>56</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>41</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>40</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.01</EduCode>
+      <EduName>Теплоэнергетика и теплотехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Энергообеспечение предприятий</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>13.04.02</EduCode>
+      <EduName>Электроэнергетика и электротехника</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электроснабжение</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Электрооборудование и электротехнологиии</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
     </EduOPYears>
   </EduOPBindingList>
 </EduOPYearsRepository>
