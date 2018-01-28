@@ -1,18 +1,4 @@
-<!DOCTYPE html>
-<!--
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
--->
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Таблица "Образование"  (информация по образовательным программам, в том числе адаптированным)</title>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-    </head>
-    <body>
-        <div class="container-fluid">
-            <h1>Таблица "Образование"  (информация по образовательным программам, в том числе адаптированным)</h1>
+            <h1>Информация по образовательным программам, в том числе адаптированным</h1>
             <table itemprop="eduOP" class="table table-bordered table-hover table-striped text-center">
                 <thead>
                     <tr>
@@ -43,7 +29,7 @@ and open the template in the editor.
                 <tbody>
 <?php
                         /*подключаем xml файл*/
-                        $xml = simplexml_load_file('data/t10eduOP.xml');
+                        $xml = simplexml_load_file('../data/t10eduOP.xml');
                         $dataDirectory="data/";
 
                         foreach($xml->EduOPBindingList->EduOP as $curNode)
@@ -108,6 +94,3 @@ and open the template in the editor.
                     ?>
                 </tbody>
             </table>
-        </div>
-    </body>
-</html>

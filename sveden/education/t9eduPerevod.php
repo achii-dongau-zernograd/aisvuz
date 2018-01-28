@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Таблица "Образование" (Информация о результатах перевода, восстановления и отчисления)</title>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-    </head>
-    <body>
-        <div class="container-fluid">
-            <h1>Таблица "Образование" (Информация о результатах перевода, восстановления и отчисления)</h1>
+            <h1>Информация о результатах перевода, восстановления и отчисления</h1>
             <table itemprop="eduPerevod" class="table table-bordered table-hover table-striped">
                 <thead>
                     <tr>
@@ -34,7 +25,7 @@
                 <tbody>
 <?php
                         /*подключаем xml файл*/
-                        $xml = simplexml_load_file('data/t9eduPerevod.xml');
+                        $xml = simplexml_load_file('../data/t9eduPerevod.xml');
 
                         foreach($xml->EduPerevodBindingList->EduPerevod as $curNode)
                         {
@@ -52,6 +43,3 @@
                     ?> 
                 </tbody>
             </table>
-        </div> 
-    </body>
-</html>

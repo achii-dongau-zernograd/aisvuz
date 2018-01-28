@@ -4,14 +4,50 @@
     <Rucovodstvo>
       <Fio>Серегин Александр Анатольевич</Fio>
       <Post>Директор</Post>
-      <Telephone>8(86359)44-4-44</Telephone>
-      <Email>Director@example.ru</Email>
+      <Telephone>8(86359) 41-7-43</Telephone>
+      <Email>achgaa@achgaa.ru</Email>
     </Rucovodstvo>
     <Rucovodstvo>
       <Fio>Глечикова Наталья Александровна</Fio>
-      <Post>Зам.директора по учебной работе</Post>
-      <Telephone>8(86359)55-5-55</Telephone>
-      <Email>ZamDirector@example.ru</Email>
+      <Post>И.о. зам. директора по учебной работе</Post>
+      <Telephone>8(86359) 42-1-76</Telephone>
+      <Email>achgaa@achgaa.ru</Email>
+    </Rucovodstvo>
+    <Rucovodstvo>
+      <Fio>Юдаев Игорь Викторович</Fio>
+      <Post>Зам. директора по научной работе</Post>
+      <Telephone>8(86359) 41-1-61</Telephone>
+      <Email>achgaa@achgaa.ru</Email>
+    </Rucovodstvo>
+    <Rucovodstvo>
+      <Fio>Джанибеков Казбек Алиевич</Fio>
+      <Post>Зам. директора по административно-хозяйственной работе</Post>
+      <Telephone>8(86359) 42-7-81</Telephone>
+      <Email>achgaa@achgaa.ru</Email>
+    </Rucovodstvo>
+    <Rucovodstvo>
+      <Fio>Асатурян Сергей Вартанович</Fio>
+      <Post>И.о. зам. директора по воспитательной работе	</Post>
+      <Telephone>8(86359) 43-3-49</Telephone>
+      <Email>achgaa@achgaa.ru</Email>
+    </Rucovodstvo>
+    <Rucovodstvo>
+      <Fio>Кабанов Александр Николаевич</Fio>
+      <Post>И.о. зам. директора по социальной работе</Post>
+      <Telephone>8(86359) 34-6-12</Telephone>
+      <Email>achgaa@achgaa.ru</Email>
+    </Rucovodstvo>
+    <Rucovodstvo>
+      <Fio>Бондаренко Анатолий Михайлович</Fio>
+      <Post>И.о. зам. директора по связям с общественностью</Post>
+      <Telephone>8(86359) 41-3-65</Telephone>
+      <Email>achgaa@achgaa.ru</Email>
+    </Rucovodstvo>
+    <Rucovodstvo>
+      <Fio>Меркулов Александр Филиппович</Fio>
+      <Post>Директор агротехнологического центра</Post>
+      <Telephone>8(86359) 34-7-32	</Telephone>
+      <Email>achgaa@achgaa.ru</Email>
     </Rucovodstvo>
   </RucovodstvoBindingList>
 </RucovodstvoRepository>

@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-        <title>Информация о сроке действия  государственной аккредитации образовательной программы, о языках, на которых осуществляется образование (обучение)</title>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-    </head>
-    <body>
-        <div class="container-fluid">
+
             <h1>Информация о сроке действия  государственной аккредитации образовательной программы, о языках, на которых осуществляется образование (обучение)</h1>
             <table itemprop="eduAccred" class="table table-bordered table-hover table-striped">
                 <thead>
@@ -30,7 +22,7 @@
                 <tbody>
 <?php
                         /*подключаем xml файл*/
-                        $xml = simplexml_load_file('data/t6eduAccred.xml');
+                        $xml = simplexml_load_file('../data/t6eduAccred.xml');
 
                         foreach($xml->EduAccredBindingList->EduAccred as $curNode)
                         {
@@ -45,6 +37,3 @@
                     ?> 
                 </tbody>
             </table>
-        </div>       
-    </body>
-</html>
