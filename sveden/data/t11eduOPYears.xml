@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <EduOPYearsRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <EduOPBindingList>
     <EduOPYears>
@@ -2130,6 +2130,2186 @@
       <OchnForma>-</OchnForma>
       <OchnZaochnForma>-</OchnZaochnForma>
       <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>55</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>19.03.02</EduCode>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технология продуктов общественного питания</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>41</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Организация перевозок и управление на автомобильном транспорте</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 5 год обученияза 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.03.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Автомобили и автомобильное хозяйство</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>42</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Селекция и генетика сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технические системы в агробизнесе</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технологическое оборудование для хранения и переработки сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технологическое оборудование для хранения и переработки сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технологическое оборудование для хранения и переработки сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технологическое оборудование для хранения и переработки сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технический сервис в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технический сервис в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технический сервис в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технический сервис в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технический сервис в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технический сервис в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технический сервис в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технический сервис в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технический сервис в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Техническая эксплуатация транспортных средств</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Техническая эксплуатация транспортных средств</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Техническая эксплуатация транспортных средств</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Техническая эксплуатация транспортных средств</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>-</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Организация и управление транспортными процессами</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Организация и управление транспортными процессами</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Организация и управление транспортными процессами</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>19</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Организация и управление транспортными процессами</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Организация и управление транспортными процессами</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Организация и управление транспортными процессами</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>19</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Организация и управление транспортными процессами</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Организация и управление транспортными процессами</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.01</EduCode>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Организация и управление транспортными процессами</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>19</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Эксплуатация автотранспортных средств</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Эксплуатация автотранспортных средств</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексовЭксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Эксплуатация автотранспортных средств</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>20</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Эксплуатация автотранспортных средств</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Эксплуатация автотранспортных средств</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Эксплуатация автотранспортных средств</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>20</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Эксплуатация автотранспортных средств</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Эксплуатация автотранспортных средств</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.04.03</EduCode>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Эксплуатация автотранспортных средств</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>20</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>60</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>36</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>43</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.04</EduCode>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>51</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>55</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>41</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProphilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>55</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>41</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProphilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Надежность технических средств в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Надежность технических средств в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>35.04.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Надежность технических средств в агропромышленном комплексе</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>24</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>44</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>59</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 6 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>59</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 6 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>48</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>46</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>59</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 6 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>49</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>59</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProphilProgr>Автомобили и тракторы</ProphilProgr>
+      <ObProgr>за 6 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>53</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>55</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 6 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>50</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>55</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 6 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 1 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 2 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>47</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 3 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>54</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 4 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>52</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 5 год обучения</ObProgr>
+      <OchnForma>60</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>55</ZaochnForma>
+    </EduOPYears>
+    <EduOPYears>
+      <EduCode>23.05.01</EduCode>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProphilProgr>Технические средства агропромышленного комплекса</ProphilProgr>
+      <ObProgr>за 6 год обучения</ObProgr>
+      <OchnForma>-</OchnForma>
+      <OchnZaochnForma>-</OchnZaochnForma>
+      <ZaochnForma>45</ZaochnForma>
     </EduOPYears>
   </EduOPBindingList>
 </EduOPYearsRepository>

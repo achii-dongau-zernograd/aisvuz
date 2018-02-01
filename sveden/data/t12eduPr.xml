@@ -1,4 +1,4 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0"?>
 <EduPrRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <EduPrBindingList>
     <EduPr>
@@ -920,6 +920,786 @@
       <EduPrUcheb>-</EduPrUcheb>
       <EduPrProizv>48</EduPrProizv>
       <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>19.03.02</EduCod>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Технология продуктов общественного питания</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>19.03.02</EduCod>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Технология продуктов общественного питания</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>19.03.02</EduCod>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Технология продуктов общественного питания</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>19.03.02</EduCod>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Технология продуктов общественного питания</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>15</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>19.03.02</EduCod>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Технология продуктов общественного питания</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>19.03.02</EduCod>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Технология продуктов общественного питания</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>19.03.02</EduCod>
+      <EduName>Продукты питания из растительного сырья</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Технология продуктов общественного питания</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>9</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Организация перевозок и управление на автомобильном транспорте</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Организация перевозок и управление на автомобильном транспорте</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>12</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Организация перевозок и управление на автомобильном транспорте</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Организация перевозок и управление на автомобильном транспорте</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Организация перевозок и управление на автомобильном транспорте</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Организация перевозок и управление на автомобильном транспорте</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Организация перевозок и управление на автомобильном транспорте</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Организация перевозок и управление на автомобильном транспорте</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Организация перевозок и управление на автомобильном транспорте</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>9</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Автомобили и автомобильное хозяйство</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>12</EduPrUcheb>
+      <EduPrProizv>15</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Автомобили и автомобильное хозяйство</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Автомобили и автомобильное хозяйство</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>12</EduPrUcheb>
+      <EduPrProizv>15</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Автомобили и автомобильное хозяйство</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>12</EduPrUcheb>
+      <EduPrProizv>15</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Автомобили и автомобильное хозяйство</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>12</EduPrUcheb>
+      <EduPrProizv>15</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Автомобили и автомобильное хозяйство</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Автомобили и автомобильное хозяйство</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>12</EduPrUcheb>
+      <EduPrProizv>15</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.03.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Автомобили и автомобильное хозяйство</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>12</EduPrUcheb>
+      <EduPrProizv>15</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Селекция и генетика сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>21</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Селекция и генетика сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>21</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Селекция и генетика сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>21</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Селекция и генетика сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>21</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Селекция и генетика сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>21</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Селекция и генетика сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>21</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Селекция и генетика сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>21</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Селекция и генетика сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>21</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Селекция и генетика сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>21</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Технические системы в агробизнесе</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>16</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Технические системы в агробизнесе</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>14</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Технические системы в агробизнесе</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>18</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Технические системы в агробизнесе</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>18</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Технические системы в агробизнесе</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>14</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Технические системы в агробизнесе</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>16</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Технические системы в агробизнесе</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>14</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Технические системы в агробизнесе</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>18</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Технические системы в агробизнесе</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>18</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Технологическое оборудование для хранения и переработки сельскохозяйственной продукции</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>12</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Технический сервис в агропромышленном комплексе</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>14</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Технический сервис в агропромышленном комплексе</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>10</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.03.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Техническая эксплуатация транспортных средств</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>18</EduPrUcheb>
+      <EduPrProizv>9</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.04.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Организация и управление транспортными процессами</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.04.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Организация и управление транспортными процессами</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.04.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Организация и управление транспортными процессами</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.04.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Организация и управление транспортными процессами</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.04.01</EduCod>
+      <EduName>Технология транспортных процессов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Организация и управление транспортными процессами</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.04.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Эксплуатация автотранспортных средств</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.04.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Эксплуатация автотранспортных средств</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.04.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Эксплуатация автотранспортных средств</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.04.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Эксплуатация автотранспортных средств</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.04.03</EduCod>
+      <EduName>Эксплуатация транспортно-технологических машин и комплексов</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Эксплуатация автотранспортных средств</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>6</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.04</EduCod>
+      <EduName>Агрономия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Селекция, генетика и семеноводство сельскохозяйственных культур</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>45</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>48</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>48</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>48</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2016</GodNachPodg>
+      <ProfilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>48</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2017</GodNachPodg>
+      <ProfilProgr>Технологии и технические средства производства сельскохозяйственной продукции</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>48</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>35.04.06</EduCod>
+      <EduName>Агроинженерия</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Надежность технических средств в агропромышленном комплексе</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>-</EduPrUcheb>
+      <EduPrProizv>48</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.05.01</EduCod>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Автомобили и тракторы</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>16</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.05.01</EduCod>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Автомобили и тракторы</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>16</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.05.01</EduCod>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProfilProgr>Автомобили и тракторы</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>16</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.05.01</EduCod>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Автомобили и тракторы</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>16</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.05.01</EduCod>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Автомобили и тракторы</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>16</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.05.01</EduCod>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2015</GodNachPodg>
+      <ProfilProgr>Автомобили и тракторы</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>16</EduPrUcheb>
+      <EduPrProizv>12</EduPrProizv>
+      <EduPrPreddipl>3</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.05.01</EduCod>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Технические средства агропромышленного комплекса</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>10</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.05.01</EduCod>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Технические средства агропромышленного комплекса</ProfilProgr>
+      <EduForm>Очная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>10</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.05.01</EduCod>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2012</GodNachPodg>
+      <ProfilProgr>Технические средства агропромышленного комплекса</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>10</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.05.01</EduCod>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2013</GodNachPodg>
+      <ProfilProgr>Технические средства агропромышленного комплекса</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>10</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
+    </EduPr>
+    <EduPr>
+      <EduCod>23.05.01</EduCod>
+      <EduName>Наземные транспортно-технологические средства</EduName>
+      <GodNachPodg>2014</GodNachPodg>
+      <ProfilProgr>Технические средства агропромышленного комплекса</ProfilProgr>
+      <EduForm>Заочная</EduForm>
+      <EduPrUcheb>15</EduPrUcheb>
+      <EduPrProizv>10</EduPrProizv>
+      <EduPrPreddipl>6</EduPrPreddipl>
     </EduPr>
   </EduPrBindingList>
 </EduPrRepository>

@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <meta charset="UTF-8">
-         <title>Cведения о наличии оборудованных учебных кабинетов, объектов для проведения практических занятий</title>
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
-        <title></title>
-    </head>
-    <body>
-        <div class="container-fluid">
             <h1>Cведения о наличии оборудованных учебных кабинетов, объектов для проведения практических занятий</h1>
             <table itemprop="purposeCab" class="table table-bordered table-hover table-striped">
                 <thead>
@@ -31,7 +21,7 @@
                 <tbody>
 <?php
                         /*подключаем xml файл*/
-                        $xml = simplexml_load_file('data/t17purposeCab.xml');
+                        $xml = simplexml_load_file('../data/t17purposeCab.xml');
 
                         foreach($xml->PurposeCabBindingList->PurposeCab as $curNode)
                         {
@@ -47,6 +37,3 @@
                     ?> 
                 </tbody>
             </table>
-        </div> 
-    </body>
-</html>

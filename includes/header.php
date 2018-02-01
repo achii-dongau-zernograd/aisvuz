@@ -34,16 +34,16 @@
                       <a href="#" class="dropdown-toggle" data-toggle="dropdown">Сведения об образовательной организации<span class="caret"></span></a>
                       <ul class="dropdown-menu">
                         <li><a href="/sveden/common">Основные сведения</a></li>
-                        <li><a href="#">Структура и органы управления образовательной организацией</a></li>
-                        <li><a href="#">Документы</a></li>
-                        <li><a href="/sveden/education/">Образование</a></li>
-                        <li><a href="#">Образовательные стандарты</a></li>
+                        <li><a href="/sveden/struct">Структура и органы управления образовательной организацией</a></li>
+                        <li><a href="/sveden/document">Документы</a></li>
+                        <li><a href="/sveden/education">Образование</a></li>
+                        <li><a href="/sveden/eduStandarts">Образовательные стандарты</a></li>
                         <li><a href="/sveden/employees">Руководство. Педагогический (научно-педагогический) состав</a></li>
-                        <li><a href="#">Материально-техническое обеспечение и оснащённость образовательного процесса</a></li>
-                        <li><a href="#">Стипендии и иные виды материальной поддержки</a></li>
-                        <li><a href="#">Платные образовательные услуги</a></li>
-                        <li><a href="#">Финансово-хозяйственная деятельность</a></li>
-                        <li><a href="#">Вакантные места для приема (перевода)</a></li>
+                        <li><a href="/sveden/objects">Материально-техническое обеспечение и оснащённость образовательного процесса</a></li>
+                        <li><a href="/sveden/grants">Стипендии и иные виды материальной поддержки</a></li>
+                        <li><a href="/sveden/paid_edu">Платные образовательные услуги</a></li>
+                        <li><a href="/sveden/budget">Финансово-хозяйственная деятельность</a></li>
+                        <li><a href="/sveden/vacant">Вакантные места для приема (перевода)</a></li>
                         <!-- <li role="separator" class="divider"></li>
                         <li><a href="#">Ссылка</a></li> -->
                       </ul>
