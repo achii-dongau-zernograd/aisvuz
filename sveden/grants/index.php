@@ -6,7 +6,7 @@
     <a href="#spoiler-1" data-toggle="collapse" class="btn btn-danger btn-block">Стипендии и иные виды материальной поддержки</a>
     <div class="collapse" id="spoiler-1">
         <div class="well">
-            <?php //include("t22volume.php"); ?>
+            <?php include("t21graduateJob.php"); ?>
         </div>
     </div>
     

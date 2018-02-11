@@ -1,10 +1,8 @@
 <?php session_start(); ?>
-<?php require_once("includes/connection.php"); ?>
 <?php
 	if(isset($_SESSION["session_username"]))
         {
-            // вывод "Session is set"; // в целях проверки
-            header("Location: intropage.php");
+            header("Location: ../index.php");
 	}
 
 	if(isset($_POST["login"]))
@@ -13,22 +11,22 @@
             {
                 $username=htmlspecialchars($_POST['username']);
                 $password=htmlspecialchars($_POST['password']);
-                $query = mysqli_query($con,"SELECT * FROM usertbl WHERE username='".$username."' AND password='".$password."'");
-                $numrows=mysqli_num_rows($query);
+                //$query = mysqli_query($con,"SELECT * FROM usertbl WHERE username='".$username."' AND password='".$password."'");
+                $numrows=1;//$numrows=mysqli_num_rows($query);
                 if($numrows!=0)
                 {
-                    while($row=mysqli_fetch_assoc($query))
-                    {
-                         $dbusername=$row['username'];
-                         $dbpassword=$row['password'];
-                    }
+                    //while($row=mysqli_fetch_assoc($query))
+                    //{
+                         $dbusername="admin";//$dbusername=$row['username'];
+                         $dbpassword="123";//$dbpassword=$row['password'];
+                    //}
                     if($username == $dbusername && $password == $dbpassword)
                     {
                         // старое место расположения
                         //  session_start();
                         $_SESSION['session_username']=$username;	 
                         /* Перенаправление браузера */
-                        header("Location: intropage.php");
+                        header("Location: ../index.php");
                     }
                 }
                 else
@@ -43,11 +41,11 @@
                 $message = "Необходимо заполнить все поля!";
                 echo "<script>alert('$message');</script>";
             }
-	}
-        
-        
+	} 
 ?>
-<?php include("includes/header.php"); ?>
+
+<?php include("../includes/header.php"); ?>
+<div class="container-fluid">
     <div class="jumbotron">
       <div class="container mlogin">       
         <div id="login" class="text-center">                  
@@ -62,5 +60,6 @@
             </form>
          </div>
       </div>
-    </div>    
-<?php include("includes/footer.php"); ?>
+    </div>
+</div>
+<?php include("../includes/footer.php"); ?>

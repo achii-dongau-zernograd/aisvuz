@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<GraduateJobRepository xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <graduateJobBindingList>
+    <graduateJob>
+      <EduCode>35.03.06</EduCode>
+      <EduName>Агроинженерия</EduName>
+      <God>2017</God>
+      <Kollvipusknikov>100</Kollvipusknikov>
+      <Kolltrudoustroinihvipsknikov>95</Kolltrudoustroinihvipsknikov>
+    </graduateJob>
+  </graduateJobBindingList>
+</GraduateJobRepository>

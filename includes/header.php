@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -19,9 +20,14 @@
         <div class="container-fluid">
             <!-- Заголовок -->
             <div class="navbar-header">
-                <a class="navbar-brand" href="http://ачгаа.рф">
-                    АЧГАА.РФ
-                </a>                
+                <!-- Кнопка «Гамбургер» отображается только в мобильном виде (предназначена для открытия основного содержимого Navbar) -->
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-main">
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                  <span class="icon-bar"></span>
+                </button>
+                <!-- Бренд или название сайта (отображается в левой части меню) -->
+                <a class="navbar-brand" href="http://ачгаа.рф">АЧГАА.РФ</a>                
             </div>
             <!-- Основная часть меню (может содержать ссылки, формы и другие элементы) -->
             <div class="collapse navbar-collapse" id="navbar-main">
@@ -53,11 +59,14 @@
                     <li><a href="#">Ссылка 2</a></li>
                     <li><a href="#">Ссылка 3</a></li> -->
                     <li><a href="/metod/ShowListNaprWithUchPos.php">Учебные пособия</a></li>
-                    <li><a href="/rabprog/">Рабочие программы и ФОС</a></li>
-                    <li><a href="#">Вход в систему</a></li>
-                     
+                    <li><a href="/rabprog/">Рабочие программы и ФОС</a></li>                    
                 </ul>
       
+                <!-- Блок, расположенный справа -->
+                <ul class="nav navbar-nav navbar-right">
+                    <!-- Область авторизации -->        
+                    <?php include('authMenuItems.php'); ?>                    
+                </ul>
             </div>
         </div>
     </nav>
